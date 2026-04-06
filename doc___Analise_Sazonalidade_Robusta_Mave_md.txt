@@ -1,0 +1,2773 @@
+Análise Robusta de Sazonalidade - Mave Comércio de Acessórios
+
+Documento estratégico detalhado que mapeia sazonalidade por estado,
+mesorregião, microrregião, e identifica múltiplos drivers sazonais além
+de safras. Inclui matriz de sensibilidade por segmento para cada tipo de
+evento sazonal.
+
+Parte 1: Drivers de Sazonalidade Identificados
+
+1.1 Drivers Primários
+
+Driver 1: Ciclos Agrícolas (Safras - Incluindo Safras Secundárias)
+
+-   Impacto: Muito Alto
+
+-   Segmentos Afetados: Casa Agrícola, Loneiros, Transportadoras, Auto
+    Peças
+
+-   Variação: +100% a +350% (revisado com safras adicionais: uva, maçã,
+    pêra, tabaco, algodão, etc)
+
+-   Períodos: Jan-Mar (Verão - PICO MÁXIMO), Abr-Jul (Algodão), Set-Out
+    (Preparação), Nov-Dez (Outono)
+
+-   Nota: Janeiro-fevereiro agora é pico máximo com uva, tabaco,
+    melancia, melão além de soja
+
+Driver 2: Construção Civil
+
+-   Impacto: Alto
+
+-   Segmentos Afetados: Ferragens, Construção, Auto Peças
+
+-   Variação: +20% a +80%
+
+-   Períodos: Jan-Abr (Verão), Set-Dez (Primavera/Verão)
+
+-   Nota: Crescimento esperado de 2% em 2026
+
+Driver 3: Transporte e Logística
+
+-   Impacto: Alto
+
+-   Segmentos Afetados: Transportadoras, Auto Peças, Loneiros
+
+-   Variação: +30% a +100%
+
+-   Períodos: Jan-Mar (Safra), Set-Dez (Picos)
+
+-   Nota: Segue ciclo agrícola + eventos econômicos
+
+Driver 4: Férias e Períodos de Recesso
+
+-   Impacto: Médio
+
+-   Segmentos Afetados: Postos de Gasolina, Auto Peças, Ferragens
+
+-   Variação: +20% a +40% (antes), -30% a -50% (durante)
+
+-   Períodos: Dezembro-Janeiro (Férias), Julho (Férias escolares)
+
+-   Nota: Aumento de viagens = aumento de transportes
+
+Driver 5: Feriados e Pontos Facultativos
+
+-   Impacto: Médio
+
+-   Segmentos Afetados: Todos
+
+-   Variação: -20% a -40% (durante), +10% a +20% (após)
+
+-   Períodos: Carnaval (Fev-Mar), Páscoa (Mar-Abr), Corpus Christi
+    (Mai), Corpus Christi (Mai), Finados (Nov), Natal (Dez)
+
+Driver 6: Eventos Econômicos e Políticos
+
+-   Impacto: Médio
+
+-   Segmentos Afetados: Todos
+
+-   Variação: -10% a +30%
+
+-   Períodos: Eleições (Out 2026), Mudanças de governo, Políticas
+    econômicas
+
+Driver 7: Clima e Condições Meteorológicas
+
+-   Impacto: Médio
+
+-   Segmentos Afetados: Agrícola, Construção, Transportadoras
+
+-   Variação: -20% a +50%
+
+-   Períodos: Chuvas (Nov-Mar), Secas (Jun-Ago)
+
+-   Nota: Chuvas podem atrasar colheita, secas podem acelerar
+
+Driver 8: Demanda de Implementos Rodoviários
+
+-   Impacto: Médio
+
+-   Segmentos Afetados: Auto Peças, Ferragens, Postos
+
+-   Variação: +20% a +60%
+
+-   Períodos: Jan-Mar (Safra), Set-Dez (Picos)
+
+-   Nota: Segue ciclo de compra de implementos
+
+Parte 2: Análise Detalhada por Estado e Mesorregião
+
+REGIÃO SUL
+
+RIO GRANDE DO SUL (19,41% do faturamento - LÍDER)
+
+Mesorregiões Principais
+
+Mesorregião: Noroeste Rio-Grandense
+
+Microrregiões: Ijuí, Três Passos, Frederico Westphalen
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar (PICO)
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Trigo: Plantio mai-jun, Colheita set-out
+
+-   Aveia: Plantio mai-jun, Colheita ago-set
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho    Colheita             ⭐⭐⭐⭐⭐     Loneiros,
+                                                     Máxima         Transportadoras,
+                                                                    Auto Peças
+
+  Abr-Mai        Milho, Soja    Pós-colheita         ⭐⭐⭐ Média   Ferragens, Auto
+                                                                    Peças
+
+  Jun-Ago        Trigo, Aveia   Colheita             ⭐⭐           Auto Peças,
+                                                     Baixa-Média    Transportadoras
+
+  Set-Out        Trigo, Soja    Colheita/Plantio     ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                    Loneiros
+
+  Nov-Dez        Soja, Milho    Plantio/Preparação   ⭐⭐⭐⭐ Alta  Auto Peças,
+                                                                    Transportadoras
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Construção Civil: Crescimento esperado 2% em 2026 (set-dez)
+
+-   Férias: Dezembro-janeiro (aumento de transportes)
+
+-   Clima: Chuvas nov-mar (podem atrasar colheita)
+
+Mesorregião: Nordeste Rio-Grandense (REGIÃO VITIVINÍCOLA E FRUTÍCOLA -
+CRÍTICA)
+
+Microrregiões: Passo Fundo, Erechim, Vacaria, Bento Gonçalves
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar (PICO)
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Trigo: Plantio mai-jun, Colheita set-out
+
+-   Uva: Colheita jan-fev (900 milhões de quilos em 2026 - NOVO)
+
+-   Maçã: Colheita fev-abr (região de Vacaria - NOVO)
+
+-   Pêra: Colheita fev-abr (região de Vacaria - NOVO)
+
+-   Tabaco: Colheita jan-fev (Bento Gonçalves - NOVO)
+
+Ciclo Anual Detalhado (REVISADO COM SAFRAS ADICIONAIS):
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Fev        Soja, Uva,     Colheita             ⭐⭐⭐⭐⭐     Loneiros,
+                 Tabaco,                             PICO MÁXIMO    Transportadoras,
+                 Melancia,                                          Auto Peças
+                 Melão                                              
+
+  Fev-Mar        Soja, Milho,   Colheita             ⭐⭐⭐⭐⭐     Loneiros,
+                 Maçã, Pêra,                         PICO MÁXIMO    Transportadoras,
+                 Uva                                                Auto Peças
+
+  Abr-Mai        Milho, Soja,   Pós-colheita         ⭐⭐⭐ Média   Ferragens, Auto
+                 Maçã, Pêra                                         Peças
+
+  Jun-Ago        Trigo          Colheita             ⭐⭐           Auto Peças,
+                                                     Baixa-Média    Transportadoras
+
+  Set-Out        Trigo, Soja    Colheita/Plantio     ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                    Loneiros
+
+  Nov-Dez        Soja, Milho    Plantio/Preparação   ⭐⭐⭐⭐ Alta  Auto Peças,
+                                                                    Transportadoras
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Uva: Colheita jan-fev (900 milhões de quilos, 5% acima de 2025)
+
+-   Tabaco: Colheita jan-fev (colheita oficial inicia 19/01/2026)
+
+-   Maçã: Colheita fev-abr (colheita oficial aberta 7/fev/2026)
+
+-   Pêra: Colheita fev-abr
+
+-   Melancia: Colheita dez-jan (impacto adicional)
+
+-   Melão: Colheita dez-jan (impacto adicional)
+
+-   Construção Civil: Crescimento esperado 2% em 2026
+
+-   Férias: Dezembro-janeiro
+
+Mesorregião: Centro Oriental Rio-Grandense
+
+Microrregiões: Santa Maria, Santana do Livramento, Jaguarão
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar (PICO)
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Arroz: Plantio out-nov, Colheita fev-abr
+
+-   Pecuária: Criação contínua
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho,   Colheita             ⭐⭐⭐⭐⭐     Loneiros,
+                 Arroz                               Máxima         Transportadoras,
+                                                                    Auto Peças
+
+  Abr-Mai        Arroz, Soja    Pós-colheita         ⭐⭐⭐ Média   Ferragens, Auto
+                                                                    Peças
+
+  Jun-Ago        Pecuária       Criação              ⭐⭐           Transportadoras
+                                                     Baixa-Média    (gado)
+
+  Set-Out        Soja, Arroz    Plantio              ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                    Loneiros
+
+  Nov-Dez        Soja, Milho,   Plantio/Preparação   ⭐⭐⭐⭐ Alta  Auto Peças,
+                 Arroz                                              Transportadoras
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Pecuária: Demanda contínua de transporte
+
+-   Arroz: Colheita fev-abr (diferencial regional)
+
+-   Férias: Dezembro-janeiro
+
+Mesorregião: Metropolitana de Porto Alegre
+
+Microrregiões: Porto Alegre, Novo Hamburgo, Sapucaia do Sul
+
+Principais Atividades:
+
+-   Indústria: Demanda contínua
+
+-   Construção Civil: Demanda sazonal (jan-abr, set-dez)
+
+-   Comércio: Demanda contínua
+
+-   Transporte: Demanda sazonal (segue ciclo agrícola)
+
+Ciclo Anual Detalhado:
+
+  --------------------------------------------------------------------------
+  Período        Atividade      Fase           Demanda        Segmentos
+  -------------- -------------- -------------- -------------- --------------
+  Jan-Abr        Construção,    Pico           ⭐⭐⭐⭐ Alta  Ferragens,
+                 Indústria                                    Indústria,
+                                                              Auto Peças
+
+  Mai-Ago        Indústria      Média          ⭐⭐⭐ Média   Indústria,
+                                                              Ferragens
+
+  Set-Dez        Construção,    Pico           ⭐⭐⭐⭐ Alta  Ferragens,
+                 Indústria                                    Indústria,
+                                                              Auto Peças
+  --------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Construção Civil: Crescimento esperado 2% em 2026
+
+-   Férias: Dezembro-janeiro, Julho (férias escolares)
+
+-   Eventos: Carnaval (fev-mar), Páscoa (mar-abr)
+
+Resumo RS - Ciclo Anual Consolidado (REVISADO COM SAFRAS ADICIONAIS)
+
+Dezembro a Janeiro (NOVO PICO MÁXIMO):
+
+-   Soja (colheita) + Uva (colheita) + Tabaco (colheita) + Melancia +
+    Melão
+
+-   Demanda: +250-350%
+
+-   Segmentos: Loneiros (máximo), Transportadoras (máximo), Auto Peças
+    (muito alto)
+
+-   Ação: Reposição automática ultra-rápida
+
+Janeiro a Março (PICO MÁXIMO CONSOLIDADO):
+
+-   Soja (colheita) + Uva (colheita) + Tabaco (colheita) + Milho
+    (colheita) + Maçã (colheita) + Pêra (colheita)
+
+-   Demanda: +250-350%
+
+-   Segmentos: Loneiros (máximo), Transportadoras (máximo), Auto Peças
+    (muito alto)
+
+-   Ação: Reposição automática ultra-rápida
+
+Abril a Maio:
+
+-   Pós-colheita, normalização
+
+-   Demanda: +40-80%
+
+-   Segmentos: Ferragens, Auto Peças, Loneiros
+
+-   Ação: Programa de manutenção
+
+Junho a Agosto:
+
+-   Entressafra, colheita de trigo/aveia
+
+-   Demanda: -20% a +20%
+
+-   Segmentos: Auto Peças, Transportadoras (gado)
+
+-   Ação: Foco em retenção
+
+Setembro a Outubro:
+
+-   Preparação para colheita, colheita de trigo
+
+-   Demanda: +100-150%
+
+-   Segmentos: Casa Agrícola, Loneiros, Auto Peças
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Plantio de verão, preparação para colheita
+
+-   Demanda: +120-180%
+
+-   Segmentos: Transportadoras, Auto Peças, Loneiros
+
+-   Ação: Reposição automática rápida
+
+SANTA CATARINA (10,41% do faturamento)
+
+Mesorregiões Principais
+
+Mesorregião: Oeste Catarinense
+
+Microrregiões: Chapecó, Xanxerê, Concórdia
+
+Principais Atividades:
+
+-   Suínos: Criação contínua (demanda de transporte)
+
+-   Aves: Criação contínua (demanda de transporte)
+
+-   Soja: Plantio ago-set, Colheita jan-mar
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------
+  Período        Atividade      Fase           Demanda        Segmentos
+  -------------- -------------- -------------- -------------- ------------------
+  Jan-Mar        Soja, Milho,   Colheita +     ⭐⭐⭐⭐⭐     Transportadoras,
+                 Suínos/Aves    Criação        Máxima         Auto Peças,
+                                                              Loneiros
+
+  Abr-Mai        Suínos/Aves    Criação        ⭐⭐⭐ Média   Transportadoras
+
+  Jun-Ago        Suínos/Aves    Criação        ⭐⭐⭐ Média   Transportadoras
+
+  Set-Out        Soja,          Plantio +      ⭐⭐⭐⭐ Alta  Auto Peças,
+                 Suínos/Aves    Criação                       Transportadoras
+
+  Nov-Dez        Soja, Milho,   Plantio +      ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Suínos/Aves    Criação                       Auto Peças
+  ------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Criação Animal: Demanda contínua (diferencial de SC)
+
+-   Férias: Dezembro-janeiro, Julho
+
+-   Construção Civil: Crescimento esperado 2% em 2026
+
+Mesorregião: Vale do Itajaí
+
+Microrregiões: Blumenau, Brusque, Itajaí
+
+Principais Atividades:
+
+-   Indústria Têxtil: Demanda contínua
+
+-   Comércio: Demanda sazonal (picos em datas comerciais)
+
+-   Construção Civil: Demanda sazonal
+
+Ciclo Anual Detalhado:
+
+  --------------------------------------------------------------------------
+  Período        Atividade      Fase           Demanda        Segmentos
+  -------------- -------------- -------------- -------------- --------------
+  Jan-Abr        Indústria,     Pico           ⭐⭐⭐⭐ Alta  Indústria,
+                 Construção                                   Ferragens,
+                                                              Auto Peças
+
+  Mai-Ago        Indústria      Média          ⭐⭐⭐ Média   Indústria
+
+  Set-Dez        Indústria,     Pico           ⭐⭐⭐⭐ Alta  Indústria,
+                 Construção                                   Ferragens,
+                                                              Auto Peças
+  --------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Indústria Têxtil: Demanda contínua
+
+-   Comércio: Picos em Black Friday (nov), Natal (dez)
+
+-   Férias: Dezembro-janeiro, Julho
+
+Resumo SC - Ciclo Anual Consolidado
+
+Janeiro a Março:
+
+-   Colheita + Criação animal contínua
+
+-   Demanda: +150-200%
+
+-   Segmentos: Transportadoras (máximo), Auto Peças (alto)
+
+-   Ação: Reposição automática
+
+Abril a Maio:
+
+-   Normalização, criação animal contínua
+
+-   Demanda: +40-70%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Programa de manutenção
+
+Junho a Agosto:
+
+-   Criação animal contínua, indústria estável
+
+-   Demanda: +20-50%
+
+-   Segmentos: Transportadoras, Indústria
+
+-   Ação: Foco em retenção
+
+Setembro a Outubro:
+
+-   Preparação para colheita, criação animal
+
+-   Demanda: +80-120%
+
+-   Segmentos: Auto Peças, Transportadoras
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Colheita, criação animal, Black Friday
+
+-   Demanda: +100-150%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática rápida
+
+PARANÁ (12,85% do faturamento)
+
+Mesorregiões Principais
+
+Mesorregião: Norte Central Paranaense
+
+Microrregiões: Maringá, Londrina, Cornélio Procópio
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar (PICO)
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Milho 2ª Safra: Plantio fev-mar, Colheita jun-ago (DIFERENCIAL)
+
+-   Algodão: Plantio ago-set, Colheita jan-mar
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho,   Colheita             ⭐⭐⭐⭐⭐     Loneiros,
+                 Algodão                             Máxima         Transportadoras,
+                                                                    Auto Peças
+
+  Abr-Mai        Milho 2ª Safra Plantio              ⭐⭐⭐ Média   Auto Peças
+
+  Jun-Ago        Milho 2ª Safra Colheita             ⭐⭐⭐⭐ Alta  Transportadoras,
+                                                                    Auto Peças,
+                                                                    Loneiros
+
+  Set-Out        Soja, Milho    Plantio              ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                    Auto Peças
+
+  Nov-Dez        Soja, Milho    Plantio/Preparação   ⭐⭐⭐⭐ Alta  Auto Peças,
+                                                                    Transportadoras
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Milho 2ª Safra: Colheita jun-ago (cria demanda adicional)
+
+-   Algodão: Colheita jan-mar
+
+-   Férias: Dezembro-janeiro, Julho
+
+Mesorregião: Centro Ocidental Paranaense
+
+Microrregiões: Cascavel, Foz do Iguaçu, Toledo
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar (PICO)
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Milho 2ª Safra: Plantio fev-mar, Colheita jun-ago
+
+-   Trigo: Plantio mai-jun, Colheita set-out
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho    Colheita             ⭐⭐⭐⭐⭐     Loneiros,
+                                                     Máxima         Transportadoras,
+                                                                    Auto Peças
+
+  Abr-Mai        Milho 2ª Safra Plantio              ⭐⭐⭐ Média   Auto Peças
+
+  Jun-Ago        Milho 2ª       Colheita             ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Safra, Trigo                                       Auto Peças
+
+  Set-Out        Soja, Trigo    Colheita/Plantio     ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                    Auto Peças
+
+  Nov-Dez        Soja, Milho    Plantio/Preparação   ⭐⭐⭐⭐ Alta  Auto Peças,
+                                                                    Transportadoras
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Milho 2ª Safra: Colheita jun-ago (cria demanda adicional)
+
+-   Trigo: Colheita set-out
+
+-   Férias: Dezembro-janeiro, Julho
+
+Resumo PR - Ciclo Anual Consolidado
+
+Janeiro a Março:
+
+-   Colheita de verão (soja, milho, algodão)
+
+-   Demanda: +160-220%
+
+-   Segmentos: Loneiros (máximo), Transportadoras (máximo), Auto Peças
+    (alto)
+
+-   Ação: Reposição automática ultra-rápida
+
+Abril a Maio:
+
+-   Plantio de milho 2ª safra
+
+-   Demanda: +30-60%
+
+-   Segmentos: Auto Peças
+
+-   Ação: Programa de manutenção
+
+Junho a Agosto:
+
+-   Colheita de milho 2ª safra (DIFERENCIAL PR)
+
+-   Demanda: +100-150%
+
+-   Segmentos: Transportadoras, Auto Peças, Loneiros
+
+-   Ação: Reposição automática
+
+Setembro a Outubro:
+
+-   Colheita de trigo, plantio de soja
+
+-   Demanda: +90-140%
+
+-   Segmentos: Casa Agrícola, Auto Peças
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Plantio de verão, preparação
+
+-   Demanda: +110-170%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática rápida
+
+REGIÃO SUDESTE
+
+SÃO PAULO (12,85% do faturamento)
+
+Mesorregiões Principais
+
+Mesorregião: Oeste Paulista
+
+Microrregiões: Araçatuba, Presidente Prudente, Marília
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Algodão: Plantio ago-set, Colheita jan-mar
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho,   Colheita             ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Algodão                                            Auto Peças,
+                                                                    Loneiros
+
+  Abr-Mai        Soja, Milho    Pós-colheita         ⭐⭐⭐ Média   Ferragens, Auto
+                                                                    Peças
+
+  Jun-Ago        -              Entressafra          ⭐⭐           Auto Peças
+                                                     Baixa-Média    
+
+  Set-Out        Soja, Milho    Plantio              ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                    Auto Peças
+
+  Nov-Dez        Soja, Milho    Plantio/Preparação   ⭐⭐⭐⭐ Alta  Auto Peças,
+                                                                    Transportadoras
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Construção Civil: Crescimento esperado 2% em 2026
+
+-   Férias: Dezembro-janeiro, Julho
+
+Mesorregião: Central Paulista
+
+Microrregiões: Ribeirão Preto, Araraquara, São Carlos
+
+Principais Culturas:
+
+-   Cana-de-açúcar: Colheita mai-nov (COLHEITA CONTÍNUA - DIFERENCIAL)
+
+-   Soja: Plantio ago-set, Colheita jan-mar
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+Ciclo Anual Detalhado:
+
+  --------------------------------------------------------------------------------
+  Período        Cultura          Fase           Demanda        Segmentos
+  -------------- ---------------- -------------- -------------- ------------------
+  Jan-Abr        Soja, Milho,     Colheita       ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Cana                                           Auto Peças,
+                                                                Loneiros
+
+  Mai-Nov        Cana-de-açúcar   Colheita       ⭐⭐⭐⭐ Alta  Transportadoras,
+                                  Contínua                      Auto Peças,
+                                                                Loneiros
+
+  Dez            Cana, Soja       Preparação     ⭐⭐⭐ Média   Auto Peças
+  --------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Cana-de-açúcar: Colheita contínua mai-nov (cria demanda contínua)
+
+-   Construção Civil: Crescimento esperado 2% em 2026
+
+-   Férias: Dezembro-janeiro, Julho
+
+Mesorregião: Metropolitana de São Paulo
+
+Microrregiões: São Paulo, Santo André, São Bernardo do Campo
+
+Principais Atividades:
+
+-   Indústria: Demanda contínua
+
+-   Construção Civil: Demanda sazonal (jan-abr, set-dez)
+
+-   Comércio: Demanda sazonal
+
+-   Transporte: Demanda sazonal (segue ciclo agrícola + eventos)
+
+Ciclo Anual Detalhado:
+
+  -------------------------------------------------------------------------------
+  Período        Atividade        Fase           Demanda        Segmentos
+  -------------- ---------------- -------------- -------------- -----------------
+  Jan-Abr        Construção,      Pico           ⭐⭐⭐⭐ Alta  Ferragens,
+                 Indústria                                      Indústria, Auto
+                                                                Peças
+
+  Mai-Ago        Indústria,       Média          ⭐⭐⭐ Média   Indústria,
+                 Cana-de-açúcar                                 Transportadoras
+
+  Set-Dez        Construção,      Pico           ⭐⭐⭐⭐ Alta  Ferragens,
+                 Indústria                                      Indústria, Auto
+                                                                Peças
+  -------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Construção Civil: Crescimento esperado 2% em 2026
+
+-   Indústria: Demanda contínua
+
+-   Férias: Dezembro-janeiro, Julho
+
+-   Eventos: Carnaval (fev-mar), Páscoa (mar-abr), Black Friday (nov),
+    Natal (dez)
+
+Resumo SP - Ciclo Anual Consolidado
+
+Janeiro a Março:
+
+-   Colheita de verão + Cana-de-açúcar em pico
+
+-   Demanda: +120-180%
+
+-   Segmentos: Transportadoras (máximo), Auto Peças (alto), Loneiros
+
+-   Ação: Reposição automática
+
+Abril a Maio:
+
+-   Pós-colheita, Cana-de-açúcar em colheita
+
+-   Demanda: +60-100%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Programa de manutenção
+
+Junho a Agosto:
+
+-   Cana-de-açúcar em colheita, Indústria estável
+
+-   Demanda: +40-80%
+
+-   Segmentos: Transportadoras, Indústria, Auto Peças
+
+-   Ação: Reposição contínua
+
+Setembro a Outubro:
+
+-   Cana-de-açúcar em colheita, Preparação para verão
+
+-   Demanda: +80-120%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Cana-de-açúcar, Preparação para verão, Black Friday, Natal
+
+-   Demanda: +100-150%
+
+-   Segmentos: Transportadoras, Auto Peças, Ferragens
+
+-   Ação: Reposição automática rápida
+
+MINAS GERAIS (9,57% do faturamento)
+
+Mesorregiões Principais
+
+Mesorregião: Triângulo Mineiro/Alto Paranaíba
+
+Microrregiões: Uberlândia, Uberaba, Araxá
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Café: Colheita mai-set (DIFERENCIAL)
+
+Ciclo Anual Detalhado:
+
+  -------------------------------------------------------------------------------------
+  Período        Cultura        Fase                  Demanda        Segmentos
+  -------------- -------------- --------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho    Colheita              ⭐⭐⭐⭐ Alta  Transportadoras,
+                                                                     Auto Peças,
+                                                                     Loneiros
+
+  Abr-Mai        Café           Preparação/Colheita   ⭐⭐⭐ Média   Transportadoras
+
+  Jun-Ago        Café           Colheita              ⭐⭐⭐⭐ Alta  Transportadoras,
+                                                                     Auto Peças,
+                                                                     Loneiros
+
+  Set-Out        Café, Soja     Colheita/Plantio      ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                     Transportadoras
+
+  Nov-Dez        Soja, Milho    Plantio/Preparação    ⭐⭐⭐ Média   Auto Peças
+  -------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Café: Colheita mai-set (cria demanda adicional)
+
+-   Pecuária: Demanda contínua
+
+-   Férias: Dezembro-janeiro, Julho
+
+Mesorregião: Zona da Mata
+
+Microrregiões: Juiz de Fora, Viçosa, Muriaé
+
+Principais Culturas:
+
+-   Café: Colheita mai-set (PRINCIPAL)
+
+-   Pecuária: Criação contínua
+
+-   Indústria: Demanda contínua
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------
+  Período        Atividade      Fase           Demanda        Segmentos
+  -------------- -------------- -------------- -------------- ------------------
+  Jan-Abr        Café, Pecuária Preparação     ⭐⭐⭐ Média   Transportadoras,
+                                                              Auto Peças
+
+  Mai-Set        Café           Colheita       ⭐⭐⭐⭐ Alta  Transportadoras,
+                                                              Auto Peças,
+                                                              Loneiros
+
+  Out-Dez        Café, Pecuária Pós-colheita   ⭐⭐⭐ Média   Transportadoras
+  ------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Café: Colheita mai-set (colheita contínua)
+
+-   Pecuária: Demanda contínua
+
+-   Indústria: Demanda contínua
+
+Resumo MG - Ciclo Anual Consolidado
+
+Janeiro a Março:
+
+-   Colheita de verão (soja, milho)
+
+-   Demanda: +100-150%
+
+-   Segmentos: Transportadoras (alto), Auto Peças (médio)
+
+-   Ação: Reposição automática
+
+Abril a Maio:
+
+-   Preparação para café, Pecuária
+
+-   Demanda: +40-70%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Programa de manutenção
+
+Junho a Agosto:
+
+-   Colheita de café (PICO REGIONAL)
+
+-   Demanda: +120-180%
+
+-   Segmentos: Transportadoras (máximo), Auto Peças (alto), Loneiros
+
+-   Ação: Reposição automática
+
+Setembro a Outubro:
+
+-   Colheita de café, Preparação para verão
+
+-   Demanda: +80-120%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Pós-colheita de café, Preparação para verão
+
+-   Demanda: +60-100%
+
+-   Segmentos: Auto Peças, Transportadoras
+
+-   Ação: Reposição automática
+
+REGIÃO CENTRO-OESTE
+
+MATO GROSSO DO SUL (9,24% do faturamento - SEGUNDO MAIOR)
+
+Mesorregiões Principais
+
+Mesorregião: Leste Mato-Grossense do Sul
+
+Microrregiões: Dourados, Maracaju, Itapeva
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar (MAIOR PRODUTOR - PICO
+    MÁXIMO)
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Milho 2ª Safra: Plantio fev-mar, Colheita jun-ago
+
+-   Algodão: Plantio nov-dez, Colheita abr-jul (NOVO - área com pivô
+    central aumentando)
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho    Colheita             ⭐⭐⭐⭐⭐     Loneiros,
+                                                     MÁXIMA         Transportadoras,
+                                                                    Auto Peças
+
+  Abr-Jul        Milho 2ª       Colheita             ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Safra, Algodão                                     Auto Peças,
+                                                                    Loneiros
+
+  Set-Out        Soja, Milho    Plantio              ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                    Auto Peças
+
+  Nov-Dez        Soja, Milho,   Plantio/Preparação   ⭐⭐⭐⭐ Alta  Auto Peças,
+                 Algodão                                            Transportadoras
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Soja: Maior produtor do Brasil (+14% em 2026)
+
+-   Milho 2ª Safra: Colheita jun-ago (cria demanda adicional)
+
+-   Algodão: Colheita abr-jul (cria demanda adicional - área com pivô
+    central aumentando de 140 mil para 150 mil hectares)
+
+-   Férias: Dezembro-janeiro, Julho
+
+Mesorregião: Centro-Norte Mato-Grossense do Sul
+
+Microrregiões: Campo Grande, Rio Verde, Corumbá
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Pecuária: Criação contínua
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------
+  Período        Atividade      Fase           Demanda        Segmentos
+  -------------- -------------- -------------- -------------- ------------------
+  Jan-Mar        Soja, Milho,   Colheita +     ⭐⭐⭐⭐⭐     Loneiros,
+                 Pecuária       Criação        Máxima         Transportadoras,
+                                                              Auto Peças
+
+  Abr-Mai        Pecuária       Criação        ⭐⭐⭐ Média   Transportadoras
+
+  Jun-Ago        Pecuária       Criação        ⭐⭐⭐ Média   Transportadoras
+
+  Set-Out        Soja, Pecuária Plantio +      ⭐⭐⭐⭐ Alta  Auto Peças,
+                                Criação                       Transportadoras
+
+  Nov-Dez        Soja, Milho,   Plantio +      ⭐⭐⭐⭐ Alta  Auto Peças,
+                 Pecuária       Criação                       Transportadoras
+  ------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Pecuária: Demanda contínua (diferencial regional)
+
+-   Soja: Maior produtor do Brasil
+
+-   Férias: Dezembro-janeiro, Julho
+
+Resumo MS - Ciclo Anual Consolidado
+
+Janeiro a Março:
+
+-   Colheita de verão (PICO MÁXIMO DO BRASIL)
+
+-   Demanda: +200-280%
+
+-   Segmentos: Loneiros (máximo), Transportadoras (máximo), Auto Peças
+    (muito alto)
+
+-   Ação: Reposição automática ultra-rápida
+
+Abril a Julho (NOVO PICO ADICIONAL):
+
+-   Colheita de milho 2ª safra + Algodão, Pecuária
+
+-   Demanda: +100-150%
+
+-   Segmentos: Transportadoras, Auto Peças, Loneiros
+
+-   Ação: Reposição automática
+
+Setembro a Outubro:
+
+-   Plantio de verão, Pecuária
+
+-   Demanda: +100-150%
+
+-   Segmentos: Casa Agrícola, Auto Peças, Transportadoras
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Plantio de verão + Algodão, Preparação, Pecuária
+
+-   Demanda: +140-200%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática rápida
+
+GOIÁS (4,83% do faturamento)
+
+Mesorregiões Principais
+
+Mesorregião: Sul Goiano
+
+Microrregiões: Rio Verde, Jataí, Mineiros
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Algodão: Plantio ago-set, Colheita jan-mar
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho,   Colheita             ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Algodão                                            Auto Peças,
+                                                                    Loneiros
+
+  Abr-Mai        Soja, Milho    Pós-colheita         ⭐⭐⭐ Média   Auto Peças
+
+  Jun-Ago        -              Entressafra          ⭐⭐           Auto Peças
+                                                     Baixa-Média    
+
+  Set-Out        Soja, Milho    Plantio              ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                    Auto Peças
+
+  Nov-Dez        Soja, Milho    Plantio/Preparação   ⭐⭐⭐ Média   Auto Peças
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Algodão: Colheita jan-mar
+
+-   Férias: Dezembro-janeiro, Julho
+
+Resumo GO - Ciclo Anual Consolidado
+
+Janeiro a Março:
+
+-   Colheita de verão (soja, milho, algodão)
+
+-   Demanda: +140-200%
+
+-   Segmentos: Transportadoras (alto), Auto Peças (médio), Loneiros
+
+-   Ação: Reposição automática
+
+Abril a Maio:
+
+-   Pós-colheita
+
+-   Demanda: +30-60%
+
+-   Segmentos: Auto Peças
+
+-   Ação: Programa de manutenção
+
+Junho a Agosto:
+
+-   Entressafra
+
+-   Demanda: -20% a +10%
+
+-   Segmentos: Auto Peças
+
+-   Ação: Foco em retenção
+
+Setembro a Outubro:
+
+-   Plantio de verão
+
+-   Demanda: +90-140%
+
+-   Segmentos: Casa Agrícola, Auto Peças
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Preparação para verão
+
+-   Demanda: +60-100%
+
+-   Segmentos: Auto Peças, Transportadoras
+
+-   Ação: Reposição automática
+
+MATO GROSSO (Não estava no faturamento anterior - CRÍTICO PARA AGRO)
+
+Contexto Estratégico
+
+Importância: Maior produtor agrícola do Brasil
+
+-   Soja: 50,89 milhões de toneladas (2024/25) - Maior produtor do país
+
+-   Milho: 11+ milhões de toneladas (incluindo 2ª safra)
+
+-   Algodão: Crescimento acelerado com pivô central
+
+-   Pecuária: Maior rebanho bovino do país
+
+Ciclo Agrícola: Muito sazonal, com 2 safras principais
+
+Mesorregiões Principais
+
+Mesorregião: Centro-Sul Mato-Grossense
+
+Microrregiões: Rondonópolis, Cuiabá, Várzea Grande
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar (MAIOR PRODUTOR - PICO
+    MÁXIMO)
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Milho 2ª Safra: Plantio fev-mar, Colheita jun-ago
+
+-   Algodão: Plantio nov-dez, Colheita abr-jul
+
+-   Pecuária: Criação contínua (maior rebanho do país)
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho    Colheita             ⭐⭐⭐⭐⭐     Loneiros,
+                                                     MÁXIMA         Transportadoras,
+                                                                    Auto Peças
+
+  Abr-Jul        Milho 2ª       Colheita             ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Safra, Algodão                                     Auto Peças,
+                                                                    Loneiros
+
+  Set-Out        Soja, Milho    Plantio              ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                    Auto Peças
+
+  Nov-Dez        Soja, Milho,   Plantio/Preparação   ⭐⭐⭐⭐ Alta  Auto Peças,
+                 Algodão                                            Transportadoras
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Soja: Maior produtor do Brasil (50,89 milhões de toneladas)
+
+-   Milho 2ª Safra: Colheita jun-ago (cria demanda adicional)
+
+-   Algodão: Colheita abr-jul (crescimento acelerado - pivô central)
+
+-   Pecuária: Maior rebanho bovino do país (demanda contínua)
+
+-   Férias: Dezembro-janeiro, Julho
+
+Mesorregião: Médio-Norte Mato-Grossense
+
+Microrregiões: Sorriso, Sinop, Lucas do Rio Verde
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar (MAIOR PRODUTOR - PICO
+    MÁXIMO)
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Milho 2ª Safra: Plantio fev-mar, Colheita jun-ago
+
+-   Algodão: Plantio nov-dez, Colheita abr-jul
+
+-   Pecuária: Criação contínua
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------
+  Período        Atividade      Fase           Demanda        Segmentos
+  -------------- -------------- -------------- -------------- ------------------
+  Jan-Mar        Soja, Milho,   Colheita +     ⭐⭐⭐⭐⭐     Loneiros,
+                 Pecuária       Criação        MÁXIMA         Transportadoras,
+                                                              Auto Peças
+
+  Abr-Jul        Milho 2ª       Colheita +     ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Safra,         Criação                       Auto Peças,
+                 Algodão,                                     Loneiros
+                 Pecuária                                     
+
+  Set-Out        Soja, Milho,   Plantio +      ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                 Pecuária       Criação                       Auto Peças,
+                                                              Transportadoras
+
+  Nov-Dez        Soja, Milho,   Plantio +      ⭐⭐⭐⭐ Alta  Auto Peças,
+                 Algodão,       Criação                       Transportadoras
+                 Pecuária                                     
+  ------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Soja: Maior produtor do Brasil
+
+-   Milho 2ª Safra: Colheita jun-ago (cria demanda adicional)
+
+-   Algodão: Colheita abr-jul (crescimento acelerado)
+
+-   Pecuária: Maior rebanho bovino do país (demanda contínua)
+
+-   Férias: Dezembro-janeiro, Julho
+
+Mesorregião: Nordeste Mato-Grossense
+
+Microrregiões: Canarana, Querência, Matupá
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Milho 2ª Safra: Plantio fev-mar, Colheita jun-ago
+
+-   Algodão: Plantio nov-dez, Colheita abr-jul
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho    Colheita             ⭐⭐⭐⭐⭐     Loneiros,
+                                                     MÁXIMA         Transportadoras,
+                                                                    Auto Peças
+
+  Abr-Jul        Milho 2ª       Colheita             ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Safra, Algodão                                     Auto Peças,
+                                                                    Loneiros
+
+  Set-Out        Soja, Milho    Plantio              ⭐⭐⭐⭐ Alta  Casa Agrícola,
+                                                                    Auto Peças
+
+  Nov-Dez        Soja, Milho,   Plantio/Preparação   ⭐⭐⭐⭐ Alta  Auto Peças,
+                 Algodão                                            Transportadoras
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Soja: Colheita jan-mar
+
+-   Milho 2ª Safra: Colheita jun-ago
+
+-   Algodão: Colheita abr-jul
+
+-   Férias: Dezembro-janeiro, Julho
+
+Resumo MT - Ciclo Anual Consolidado
+
+Janeiro a Março (PICO MÁXIMO DO BRASIL):
+
+-   Colheita de verão (soja, milho) - MAIOR PRODUTOR DO PAÍS
+
+-   Demanda: +250-350%
+
+-   Segmentos: Loneiros (máximo), Transportadoras (máximo), Auto Peças
+    (muito alto)
+
+-   Ação: Reposição automática ultra-rápida
+
+-   Nota: MT é responsável por ~25% da safra nacional de soja
+
+Abril a Julho (PICO ADICIONAL - ALGODÃO + MILHO 2ª SAFRA):
+
+-   Colheita de milho 2ª safra + Algodão, Pecuária
+
+-   Demanda: +120-180%
+
+-   Segmentos: Transportadoras, Auto Peças, Loneiros
+
+-   Ação: Reposição automática
+
+-   Nota: Algodão em crescimento acelerado (pivô central)
+
+Setembro a Outubro:
+
+-   Plantio de verão, Pecuária
+
+-   Demanda: +100-150%
+
+-   Segmentos: Casa Agrícola, Auto Peças, Transportadoras
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Plantio de verão + Algodão, Preparação, Pecuária
+
+-   Demanda: +140-200%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática rápida
+
+ESPÍRITO SANTO (2,94% do faturamento)
+
+Mesorregiões Principais
+
+Mesorregião: Central Espírito-Santense
+
+Microrregiões: Vitória, Vila Velha, Cariacica
+
+Principais Culturas:
+
+-   Café Conilon: Plantio ago-set, Colheita mai-ago (PRINCIPAL - 67% da
+    produção nacional)
+
+-   Café Arábica: Plantio ago-set, Colheita mai-set
+
+-   Frutas: Abacaxi, Mamão, Goiaba (colheita contínua)
+
+Ciclo Anual Detalhado:
+
+  ---------------------------------------------------------------------------------------
+  Período        Cultura           Fase                 Demanda        Segmentos
+  -------------- ----------------- -------------------- -------------- ------------------
+  Jan-Abr        Café              Pós-colheita +       ⭐⭐⭐ Média   Transportadoras,
+                 (pós-colheita),   Colheita                            Auto Peças
+                 Frutas                                                
+
+  Mai-Ago        Café Conilon,     Colheita             ⭐⭐⭐⭐ Alta  Loneiros,
+                 Café Arábica                                          Transportadoras,
+                                                                       Auto Peças
+
+  Set-Dez        Café              Plantio/Preparação   ⭐⭐⭐ Média   Casa Agrícola,
+                                                                       Auto Peças
+  ---------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Café Conilon: Maior produtor do Brasil (14,9 milhões de sacas em
+    2026)
+
+-   Café Arábica: Crescimento de 9% em 2026
+
+-   Frutas: Colheita contínua (abacaxi, mamão, goiaba)
+
+-   Indústria: Processamento de café (demanda contínua)
+
+-   Férias: Dezembro-janeiro, Julho
+
+Resumo ES - Ciclo Anual Consolidado
+
+Janeiro a Abril:
+
+-   Pós-colheita de café, frutas em colheita
+
+-   Demanda: +60-100%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática
+
+Maio a Agosto (PICO CAFÉ):
+
+-   Colheita de café (Conilon + Arábica)
+
+-   Demanda: +150-200%
+
+-   Segmentos: Loneiros (máximo), Transportadoras (máximo), Auto Peças
+    (alto)
+
+-   Ação: Reposição automática ultra-rápida
+
+-   Nota: ES é responsável por 67% da produção nacional de Café Conilon
+
+Setembro a Dezembro:
+
+-   Plantio/Preparação de café, frutas
+
+-   Demanda: +40-80%
+
+-   Segmentos: Casa Agrícola, Auto Peças
+
+-   Ação: Reposição preventiva
+
+REGIÃO NORDESTE
+
+BAHIA (4,34% do faturamento)
+
+Mesorregiões Principais
+
+Mesorregião: Oeste Baiano
+
+Microrregiões: Barreiras, Luís Eduardo Magalhães, Formosa do Rio Preto
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Algodão: Plantio ago-set, Colheita jan-mar
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho,   Colheita             ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Algodão                                            Auto Peças,
+                                                                    Loneiros
+
+  Abr-Mai        Soja, Milho    Pós-colheita         ⭐⭐⭐ Média   Auto Peças
+
+  Jun-Ago        -              Entressafra          ⭐⭐           Auto Peças
+                                                     Baixa-Média    
+
+  Set-Out        Soja, Milho    Plantio              ⭐⭐⭐ Média   Casa Agrícola
+
+  Nov-Dez        Soja, Milho    Plantio/Preparação   ⭐⭐⭐ Média   Auto Peças
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Algodão: Colheita jan-mar
+
+-   Férias: Dezembro-janeiro, Julho
+
+-   Turismo: Picos em férias escolares (julho, dezembro-janeiro)
+
+Resumo BA - Ciclo Anual Consolidado
+
+Janeiro a Março:
+
+-   Colheita de verão (soja, milho, algodão)
+
+-   Demanda: +120-160%
+
+-   Segmentos: Transportadoras (médio), Auto Peças (médio)
+
+-   Ação: Reposição automática
+
+Abril a Maio:
+
+-   Pós-colheita
+
+-   Demanda: +30-60%
+
+-   Segmentos: Auto Peças
+
+-   Ação: Programa de manutenção
+
+Junho a Agosto:
+
+-   Entressafra, Turismo (férias)
+
+-   Demanda: -10% a +30%
+
+-   Segmentos: Auto Peças, Postos (férias)
+
+-   Ação: Foco em retenção, aproveitar férias
+
+Setembro a Outubro:
+
+-   Preparação para plantio
+
+-   Demanda: +40-80%
+
+-   Segmentos: Casa Agrícola, Auto Peças
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Preparação para verão, Turismo (Natal)
+
+-   Demanda: +60-100%
+
+-   Segmentos: Auto Peças, Postos (turismo)
+
+-   Ação: Reposição automática
+
+REGIÃO NORTE
+
+RONDÔNIA (1,63% do faturamento)
+
+Mesorregião Principal
+
+Mesorregião: Leste Rondoniense
+
+Microrregiões: Porto Velho, Ji-Paraná, Ariquemes
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Pecuária: Criação contínua
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------
+  Período        Atividade      Fase           Demanda        Segmentos
+  -------------- -------------- -------------- -------------- ------------------
+  Jan-Mar        Soja, Milho,   Colheita +     ⭐⭐⭐ Média   Transportadoras,
+                 Pecuária       Criação                       Auto Peças
+
+  Abr-Mai        Pecuária       Criação        ⭐⭐           Transportadoras
+                                               Baixa-Média    
+
+  Jun-Ago        Pecuária       Criação        ⭐⭐           Transportadoras
+                                               Baixa-Média    
+
+  Set-Out        Soja, Pecuária Plantio +      ⭐⭐⭐ Média   Auto Peças
+                                Criação                       
+
+  Nov-Dez        Soja, Milho,   Plantio +      ⭐⭐⭐ Média   Auto Peças
+                 Pecuária       Criação                       
+  ------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Pecuária: Demanda contínua
+
+-   Férias: Dezembro-janeiro, Julho
+
+-   Mercado em crescimento
+
+Resumo RO - Ciclo Anual Consolidado
+
+Janeiro a Março:
+
+-   Colheita de verão, Pecuária
+
+-   Demanda: +80-120%
+
+-   Segmentos: Transportadoras (médio), Auto Peças (médio)
+
+-   Ação: Reposição automática
+
+Abril a Maio:
+
+-   Pecuária
+
+-   Demanda: +10-40%
+
+-   Segmentos: Transportadoras
+
+-   Ação: Programa de manutenção
+
+Junho a Agosto:
+
+-   Pecuária
+
+-   Demanda: +10-40%
+
+-   Segmentos: Transportadoras
+
+-   Ação: Foco em retenção
+
+Setembro a Outubro:
+
+-   Plantio de verão, Pecuária
+
+-   Demanda: +40-80%
+
+-   Segmentos: Casa Agrícola, Auto Peças
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Plantio de verão, Preparação, Pecuária
+
+-   Demanda: +60-100%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática
+
+PARÁ (2,03% do faturamento)
+
+Mesorregião Principal
+
+Mesorregião: Metropolitana de Belém
+
+Microrregiões: Belém, Ananindeua, Castanhal
+
+Principais Atividades:
+
+-   Açaí: Colheita contínua (jan-dez, com picos ago-dez) - PRINCIPAL
+
+-   Castanha-do-Pará: Colheita fev-jun
+
+-   Pecuária: Criação contínua
+
+-   Madeira/Produtos Florestais: Colheita contínua
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------
+  Período        Atividade      Fase           Demanda        Segmentos
+  -------------- -------------- -------------- -------------- ------------------
+  Jan-Abr        Açaí,          Colheita +     ⭐⭐⭐ Média   Transportadoras,
+                 Castanha,      Criação                       Auto Peças
+                 Pecuária                                     
+
+  Mai-Jul        Castanha, Açaí Colheita +     ⭐⭐⭐⭐ Alta  Transportadoras,
+                 (pico),        Criação                       Auto Peças,
+                 Pecuária                                     Loneiros
+
+  Ago-Dez        Açaí (pico),   Colheita +     ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Pecuária       Criação                       Auto Peças,
+                                                              Loneiros
+  ------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Açaí: Colheita contínua, picos ago-dez (maior demanda)
+
+-   Castanha-do-Pará: Colheita fev-jun
+
+-   Pecuária: Demanda contínua
+
+-   Indústria: Processamento de açaí (demanda contínua)
+
+-   Turismo: Picos em férias (dez-jan, julho)
+
+Resumo PA - Ciclo Anual Consolidado
+
+Janeiro a Abril:
+
+-   Açaí, Castanha, Pecuária
+
+-   Demanda: +60-100%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática
+
+Maio a Julho:
+
+-   Castanha (colheita), Açaí, Pecuária
+
+-   Demanda: +100-150%
+
+-   Segmentos: Transportadoras (médio), Auto Peças (médio)
+
+-   Ação: Reposição automática
+
+Agosto a Dezembro (PICO AÇAÍS):
+
+-   Açaí (pico de colheita), Pecuária
+
+-   Demanda: +120-180%
+
+-   Segmentos: Loneiros (alto), Transportadoras (alto), Auto Peças
+    (médio)
+
+-   Ação: Reposição automática
+
+-   Nota: PA lidera produção de açaí no Brasil (>90% da produção)
+
+AMAZONAS (Não estava no faturamento anterior - CRESCIMENTO EM AÇAÍS)
+
+Mesorregião Principal
+
+Mesorregião: Centro Amazonense
+
+Microrregiões: Manaus, Itacoatiara, Parintins
+
+Principais Atividades:
+
+-   Açaí: Colheita contínua (jan-dez, com picos ago-dez)
+
+-   Pecuária: Criação contínua
+
+-   Produtos Florestais: Colheita contínua
+
+-   Indústria: Processamento de açaí (demanda contínua)
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------
+  Período        Atividade      Fase           Demanda        Segmentos
+  -------------- -------------- -------------- -------------- ------------------
+  Jan-Jul        Açaí, Pecuária Colheita +     ⭐⭐⭐ Média   Transportadoras,
+                                Criação                       Auto Peças
+
+  Ago-Dez        Açaí (pico),   Colheita +     ⭐⭐⭐⭐ Alta  Loneiros,
+                 Pecuária       Criação                       Transportadoras,
+                                                              Auto Peças
+  ------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Açaí: Colheita contínua, picos ago-dez
+
+-   Pecuária: Demanda contínua
+
+-   Indústria: Processamento (demanda contínua)
+
+-   Turismo: Picos em férias (dez-jan, julho)
+
+-   Crescimento: Açaí reconhecido como fruta nacional em 2026
+
+Resumo AM - Ciclo Anual Consolidado
+
+Janeiro a Julho:
+
+-   Açaí, Pecuária
+
+-   Demanda: +40-80%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática
+
+Agosto a Dezembro (PICO AÇAÍS):
+
+-   Açaí (pico de colheita), Pecuária
+
+-   Demanda: +100-150%
+
+-   Segmentos: Loneiros (médio), Transportadoras (médio), Auto Peças
+    (médio)
+
+-   Ação: Reposição automática
+
+-   Nota: AM em crescimento com açaí reconhecido como fruta nacional
+
+TOCANTINS (1,09% do faturamento)
+
+Mesorregião Principal
+
+Mesorregião: Ocidental do Tocantins
+
+Microrregiões: Palmas, Araguaina, Gurupi
+
+Principais Culturas:
+
+-   Soja: Plantio ago-set, Colheita jan-mar
+
+-   Milho: Plantio set-out, Colheita fev-abr
+
+-   Milho 2ª Safra: Plantio fev-mar, Colheita jun-ago
+
+-   Pecuária: Criação contínua
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------------
+  Período        Cultura        Fase                 Demanda        Segmentos
+  -------------- -------------- -------------------- -------------- ------------------
+  Jan-Mar        Soja, Milho    Colheita             ⭐⭐⭐⭐ Alta  Transportadoras,
+                                                                    Auto Peças,
+                                                                    Loneiros
+
+  Abr-Mai        Milho 2ª Safra Plantio              ⭐⭐           Auto Peças
+                                                     Baixa-Média    
+
+  Jun-Ago        Milho 2ª Safra Colheita             ⭐⭐⭐ Média   Transportadoras,
+                                                                    Auto Peças
+
+  Set-Out        Soja, Milho    Plantio              ⭐⭐⭐ Média   Casa Agrícola,
+                                                                    Auto Peças
+
+  Nov-Dez        Soja, Milho    Plantio/Preparação   ⭐⭐⭐ Média   Auto Peças,
+                                                                    Transportadoras
+  ------------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Soja: Plantio ago-set, colheita jan-mar
+
+-   Milho 2ª Safra: Colheita jun-ago
+
+-   Pecuária: Demanda contínua
+
+-   Férias: Dezembro-janeiro, Julho
+
+-   Mercado em crescimento (expansão agrícola)
+
+Resumo TO - Ciclo Anual Consolidado
+
+Janeiro a Março:
+
+-   Colheita de verão (soja, milho), Pecuária
+
+-   Demanda: +100-150%
+
+-   Segmentos: Transportadoras, Auto Peças, Loneiros
+
+-   Ação: Reposição automática
+
+Abril a Maio:
+
+-   Plantio de milho 2ª safra, Pecuária
+
+-   Demanda: +20-50%
+
+-   Segmentos: Auto Peças
+
+-   Ação: Programa de manutenção
+
+Junho a Agosto:
+
+-   Colheita de milho 2ª safra, Pecuária
+
+-   Demanda: +60-100%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática
+
+Setembro a Outubro:
+
+-   Plantio de verão, Pecuária
+
+-   Demanda: +40-80%
+
+-   Segmentos: Casa Agrícola, Auto Peças
+
+-   Ação: Reposição preventiva
+
+Novembro a Dezembro:
+
+-   Plantio de verão, Preparação, Pecuária
+
+-   Demanda: +60-100%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática
+
+CEARá (Não estava no faturamento anterior - FRUTAS E HORTÁLICAS)
+
+Mesorregiões Principais
+
+Mesorregião: Sertão Central Cearense
+
+Microrregiões: Juazeiro do Norte, Crato, Barbalha
+
+Principais Culturas:
+
+-   Melancia: Plantio set-out, Colheita dez-jan (PICO MÁXIMO)
+
+-   Melão: Plantio set-out, Colheita dez-jan (PICO MÁXIMO)
+
+-   Banana: Colheita contínua
+
+-   Frutas Tropicais: Colheita contínua (mamão, goiaba, caju)
+
+Ciclo Anual Detalhado:
+
+  ------------------------------------------------------------------------------
+  Período        Cultura        Fase           Demanda        Segmentos
+  -------------- -------------- -------------- -------------- ------------------
+  Jan-Mar        Melancia,      Colheita +     ⭐⭐⭐⭐⭐     Loneiros,
+                 Melão          Colheita       MÁXIMA         Transportadoras,
+                 (colheita),                                  Auto Peças
+                 Frutas                                       
+
+  Abr-Set        Banana, Frutas Colheita       ⭐⭐⭐ Média   Transportadoras,
+                 Tropicais      contínua                      Auto Peças
+
+  Set-Out        Melancia,      Plantio        ⭐⭐⭐ Média   Casa Agrícola,
+                 Melão                                        Auto Peças
+
+  Nov-Dez        Melancia,      Colheita +     ⭐⭐⭐⭐ Alta  Loneiros,
+                 Melão          Colheita                      Transportadoras,
+                 (colheita),                                  Auto Peças
+                 Banana                                       
+  ------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Melancia: Colheita dez-jan (PICO NACIONAL)
+
+-   Melão: Colheita dez-jan (PICO NACIONAL)
+
+-   Banana: Colheita contínua (demanda estável)
+
+-   Frutas Tropicais: Colheita contínua
+
+-   Clima: Seca jun-ago (reduz demanda), chuvas set-dez (aumenta
+    demanda)
+
+-   Férias: Dezembro-janeiro, Julho
+
+Mesorregião: Metropolitana de Fortaleza
+
+Microrregiões: Fortaleza, Caucaia, Maracanaú
+
+Principais Atividades:
+
+-   Hortálicas: Colheita contínua (alface, tomate, cebola)
+
+-   Frutas: Colheita contínua (mamão, mamão, abacaxi)
+
+-   Indústria: Processamento de frutas (demanda contínua)
+
+-   Comércio: Demanda sazonal (picos em datas comerciais)
+
+Ciclo Anual Detalhado:
+
+  ----------------------------------------------------------------------------------
+  Período        Atividade      Fase               Demanda        Segmentos
+  -------------- -------------- ------------------ -------------- ------------------
+  Jan-Mar        Melancia,      Colheita           ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Melão,                                           Auto Peças,
+                 Hortálicas                                       Loneiros
+
+  Abr-Ago        Hortálicas,    Colheita contínua  ⭐⭐⭐ Média   Transportadoras,
+                 Frutas                                           Auto Peças
+
+  Set-Dez        Melancia,      Plantio/Colheita   ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Melão,                                           Auto Peças,
+                 Hortálicas                                       Loneiros
+  ----------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Hortálicas: Colheita contínua
+
+-   Frutas: Colheita contínua
+
+-   Comércio: Picos em Black Friday (nov), Natal (dez)
+
+-   Férias: Dezembro-janeiro, Julho
+
+Resumo CE - Ciclo Anual Consolidado
+
+Janeiro a Março (PICO MELANCIA/MELÃO):
+
+-   Colheita de melancia e melão (MAIOR DEMANDA DO ANO)
+
+-   Demanda: +200-300%
+
+-   Segmentos: Loneiros (máximo), Transportadoras (máximo), Auto Peças
+    (alto)
+
+-   Ação: Reposição automática ultra-rápida
+
+-   Nota: CE é maior produtor de melancia e melão do Brasil
+
+Abril a Setembro:
+
+-   Banana, Frutas Tropicais, Hortálicas
+
+-   Demanda: +40-80%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática
+
+Outubro a Dezembro:
+
+-   Plantio/Colheita de melancia e melão, Hortálicas
+
+-   Demanda: +100-150%
+
+-   Segmentos: Loneiros, Transportadoras, Auto Peças
+
+-   Ação: Reposição automática
+
+PERNAMBUCO (Não estava no faturamento anterior - FRUTAS E HORTÁLICAS)
+
+Mesorregiões Principais
+
+Mesorregião: Sertão Pernambucano
+
+Microrregiões: Petrolina, Araripina, Salgueiro
+
+Principais Culturas:
+
+-   Uva: Colheita jan-fev (PICO - maior produtor do Nordeste)
+
+-   Manga: Colheita jan-abr (PICO)
+
+-   Melancia: Plantio set-out, Colheita dez-jan
+
+-   Frutas Tropicais: Colheita contínua (caju, goiaba, mamão)
+
+Ciclo Anual Detalhado:
+
+  ----------------------------------------------------------------------------------
+  Período        Cultura        Fase               Demanda        Segmentos
+  -------------- -------------- ------------------ -------------- ------------------
+  Jan-Abr        Uva, Manga,    Colheita           ⭐⭐⭐⭐⭐     Loneiros,
+                 Melancia                          MÁXIMA         Transportadoras,
+                                                                  Auto Peças
+
+  Mai-Ago        Frutas         Colheita contínua  ⭐⭐⭐ Média   Transportadoras,
+                 Tropicais                                        Auto Peças
+
+  Set-Dez        Melancia,      Plantio/Colheita   ⭐⭐⭐ Média   Auto Peças,
+                 Frutas                                           Transportadoras
+                 Tropicais                                        
+  ----------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Uva: Colheita jan-fev (maior produtor do Nordeste)
+
+-   Manga: Colheita jan-abr
+
+-   Melancia: Colheita dez-jan
+
+-   Frutas Tropicais: Colheita contínua
+
+-   Irrigação: Sistema de irrigação permite ciclos más flexíveis
+
+-   Férias: Dezembro-janeiro, Julho
+
+Mesorregião: Metropolitana do Recife
+
+Microrregiões: Recife, Jaboatão, Olinda
+
+Principais Atividades:
+
+-   Hortálicas: Colheita contínua (alface, tomate, cebola, cenoura)
+
+-   Frutas: Colheita contínua (mamão, mamão, abacaxi)
+
+-   Indústria: Processamento de frutas (demanda contínua)
+
+-   Comércio: Demanda sazonal (picos em datas comerciais)
+
+Ciclo Anual Detalhado:
+
+  ----------------------------------------------------------------------------------
+  Período        Atividade      Fase               Demanda        Segmentos
+  -------------- -------------- ------------------ -------------- ------------------
+  Jan-Abr        Uva, Manga,    Colheita           ⭐⭐⭐⭐ Alta  Transportadoras,
+                 Hortálicas                                       Auto Peças,
+                                                                  Loneiros
+
+  Mai-Ago        Hortálicas,    Colheita contínua  ⭐⭐⭐ Média   Transportadoras,
+                 Frutas                                           Auto Peças
+
+  Set-Dez        Melancia,      Plantio/Colheita   ⭐⭐⭐ Média   Transportadoras,
+                 Hortálicas                                       Auto Peças
+  ----------------------------------------------------------------------------------
+
+Drivers Adicionais:
+
+-   Hortálicas: Colheita contínua
+
+-   Frutas: Colheita contínua
+
+-   Comércio: Picos em Black Friday (nov), Natal (dez)
+
+-   Férias: Dezembro-janeiro, Julho
+
+Resumo PE - Ciclo Anual Consolidado
+
+Janeiro a Abril (PICO UVA/MANGA):
+
+-   Colheita de uva (maior produtor do Nordeste) e manga
+
+-   Demanda: +180-250%
+
+-   Segmentos: Loneiros (máximo), Transportadoras (máximo), Auto Peças
+    (alto)
+
+-   Ação: Reposição automática ultra-rápida
+
+-   Nota: PE é maior produtor de uva do Nordeste
+
+Maio a Agosto:
+
+-   Frutas Tropicais, Hortálicas
+
+-   Demanda: +40-80%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática
+
+Setembro a Dezembro:
+
+-   Plantio/Colheita de melancia, Hortálicas
+
+-   Demanda: +60-100%
+
+-   Segmentos: Transportadoras, Auto Peças
+
+-   Ação: Reposição automática
+
+Parte 3: Matriz de Sensibilidade por Segmento e Tipo de Evento Sazonal
+
+Matriz Consolidada de Sensibilidade
+
+  ----------------------------------------------------------------------------------------------------------------------------------------
+  Segmento          Safra        Construção   Férias/Turismo   Feriados   Transporte   Clima      Eventos      Indústria   SENSIBILIDADE
+                    Agrícola     Civil                                                            Econômicos               GERAL
+  ----------------- ------------ ------------ ---------------- ---------- ------------ ---------- ------------ ----------- ---------------
+  Casa Agrícola     ⭐⭐⭐⭐⭐   ⭐           ⭐               ⭐         ⭐⭐         ⭐⭐⭐⭐   ⭐⭐         ⭐          MUITO ALTA
+
+  Loneiros          ⭐⭐⭐⭐⭐   ⭐           ⭐⭐             ⭐         ⭐⭐⭐⭐     ⭐⭐⭐     ⭐⭐         ⭐          MUITO ALTA
+
+  Transportadoras   ⭐⭐⭐⭐     ⭐⭐         ⭐⭐⭐           ⭐⭐       ⭐⭐⭐⭐     ⭐⭐⭐     ⭐⭐⭐       ⭐⭐        ALTA
+
+  Auto Peças        ⭐⭐⭐       ⭐⭐⭐       ⭐⭐             ⭐⭐       ⭐⭐⭐       ⭐⭐       ⭐⭐         ⭐⭐        MÉDIA-ALTA
+
+  Ferragens         ⭐⭐         ⭐⭐⭐⭐     ⭐               ⭐         ⭐⭐         ⭐         ⭐⭐         ⭐⭐⭐      MÉDIA
+
+  Postos de         ⭐⭐⭐       ⭐⭐         ⭐               ⭐⭐       ⭐⭐⭐       ⭐⭐       ⭐⭐         ⭐          MÉDIA
+  Gasolina                                                                                                                 
+
+  Indústria         ⭐           ⭐⭐         ⭐               ⭐         ⭐⭐         ⭐         ⭐⭐⭐       ⭐⭐⭐⭐    MÉDIA
+  ----------------------------------------------------------------------------------------------------------------------------------------
+
+Detalhamento por Segmento
+
+CASA AGRÍCOLA - Sensibilidade Muito Alta
+
+Drivers Principais:
+
+1.  Safra Agrícola: ⭐⭐⭐⭐⭐ (Crítico)
+
+    -   Jan-Mar: +150-200%
+
+    -   Set-Out: +100-150%
+
+    -   Jun-Ago: -70%
+
+2.  Clima: ⭐⭐⭐⭐ (Alto)
+
+    -   Chuvas nov-mar: Podem atrasar colheita (-20% a +30%)
+
+    -   Secas jun-ago: Reduzem demanda (-30%)
+
+3.  Transporte: ⭐⭐ (Médio)
+
+    -   Segue ciclo agrícola
+
+Recomendação para Agente Claude:
+
+"Casa Agrícola é MUITO SENSÍVEL a safra. Janeiro-março é pico máximo
+(+150-200%). Ofereça programa de reposição automática. Clima pode
+impactar - chuvas atrasam colheita. Monitorar previsão meteorológica."
+
+LONEIROS - Sensibilidade Muito Alta
+
+Drivers Principais:
+
+4.  Safra Agrícola: ⭐⭐⭐⭐⭐ (Crítico)
+
+    -   Jan-Mar: +200-250%
+
+    -   Set-Out: +120-160%
+
+    -   Jun-Ago: -60%
+
+5.  Transporte: ⭐⭐⭐⭐ (Crítico)
+
+    -   Segue ciclo agrícola
+
+    -   Ciclo curto de 63 dias = recompra frequente
+
+6.  Clima: ⭐⭐⭐ (Alto)
+
+    -   Chuvas nov-mar: Podem atrasar transporte (-20%)
+
+    -   Secas jun-ago: Reduzem demanda (-40%)
+
+7.  Férias/Turismo: ⭐⭐ (Médio)
+
+    -   Dezembro-janeiro: +20% (aumento de viagens)
+
+Recomendação para Agente Claude:
+
+"Loneiros é MUITO SENSÍVEL a safra. Janeiro-março é pico máximo
+(+200-250%). Ciclo curto de 63 dias significa recompra frequente.
+Ofereça programa de reposição automática ultra-rápida. Safra recorde
+2026 = demanda massiva."
+
+TRANSPORTADORAS - Sensibilidade Alta
+
+Drivers Principais:
+
+8.  Safra Agrícola: ⭐⭐⭐⭐ (Crítico)
+
+    -   Jan-Mar: +100-150%
+
+    -   Set-Out: +80-120%
+
+    -   Jun-Ago: +20-40%
+
+9.  Transporte: ⭐⭐⭐⭐ (Crítico)
+
+    -   Demanda contínua
+
+    -   Ciclo de 109 dias = recompra regular
+
+10. Férias/Turismo: ⭐⭐⭐ (Alto)
+
+    -   Dezembro-janeiro: +30% (aumento de viagens)
+
+    -   Julho: +20% (férias escolares)
+
+11. Clima: ⭐⭐⭐ (Alto)
+
+    -   Chuvas nov-mar: Podem atrasar transporte (-20%)
+
+    -   Secas jun-ago: Reduzem demanda (-10%)
+
+12. Eventos Econômicos: ⭐⭐⭐ (Alto)
+
+    -   Mudanças de política econômica
+
+    -   Variação de preços de combustível
+
+Recomendação para Agente Claude:
+
+"Transportadoras é SENSÍVEL a safra + transporte. Janeiro-março é pico
+(+100-150%). Ciclo de 109 dias = recompra regular. Ofereça programa de
+conformidade em todos os períodos. Férias (dez-jan, julho) aumentam
+demanda."
+
+AUTO PEÇAS - Sensibilidade Média-Alta
+
+Drivers Principais:
+
+13. Safra Agrícola: ⭐⭐⭐ (Alto)
+
+    -   Jan-Mar: +60-100%
+
+    -   Set-Out: +40-70%
+
+    -   Jun-Ago: +10-30%
+
+14. Construção Civil: ⭐⭐⭐ (Alto)
+
+    -   Jan-Abr: +40-80%
+
+    -   Set-Dez: +40-80%
+
+    -   Crescimento esperado 2% em 2026
+
+15. Transporte: ⭐⭐⭐ (Alto)
+
+    -   Segue ciclo agrícola
+
+    -   Demanda contínua de reposição
+
+16. Férias/Turismo: ⭐⭐ (Médio)
+
+    -   Dezembro-janeiro: +20% (aumento de viagens)
+
+    -   Julho: +10% (férias escolares)
+
+Recomendação para Agente Claude:
+
+"Auto Peças é SENSÍVEL a safra + construção. Janeiro-março é pico
+(+60-100%). Ofereça programa de reposição automática. Construção civil
+crescimento 2% em 2026 = oportunidade adicional."
+
+FERRAGENS - Sensibilidade Média
+
+Drivers Principais:
+
+17. Construção Civil: ⭐⭐⭐⭐ (Crítico)
+
+    -   Jan-Abr: +40-80%
+
+    -   Set-Dez: +40-80%
+
+    -   Crescimento esperado 2% em 2026
+
+18. Indústria: ⭐⭐⭐ (Alto)
+
+    -   Demanda contínua
+
+    -   Picos em jan-abr, set-dez
+
+19. Safra Agrícola: ⭐⭐ (Médio)
+
+    -   Jan-Mar: +20-40%
+
+    -   Impacto indireto via construção
+
+20. Transporte: ⭐⭐ (Médio)
+
+    -   Demanda contínua
+
+Recomendação para Agente Claude:
+
+"Ferragens é SENSÍVEL a construção civil. Crescimento esperado 2% em
+2026. Ofereça linha completa em todos os períodos. Demanda mais estável
+que agrícola. Foco em conformidade ABNT."
+
+POSTOS DE GASOLINA - Sensibilidade Média
+
+Drivers Principais:
+
+21. Safra Agrícola: ⭐⭐⭐ (Alto)
+
+    -   Jan-Mar: +80-120%
+
+    -   Set-Out: +60-100%
+
+    -   Nota: Segmento Mave atua com caminhoneiros, não turismo de
+        pessoas físicas
+
+22. Transporte: ⭐⭐⭐ (Alto)
+
+    -   Segue ciclo agrícola
+
+    -   Demanda de caminhoneiros
+
+23. Feriados: ⭐⭐ (Médio)
+
+    -   Black Friday (nov): +15% (varejo de postos)
+
+    -   Natal (dez): +10% (varejo de postos)
+
+    -   Carnaval (fev-mar): Impacto baixo (caminhoneiros trabalham)
+
+    -   Páscoa (mar-abr): Impacto baixo (caminhoneiros trabalham)
+
+24. Férias/Turismo: ⭐ (Muito Baixo)
+
+    -   Dezembro-janeiro: +5% (impacto mínimo)
+
+    -   Julho: +5% (impacto mínimo)
+
+    -   Nota: Segmento Mave atua com caminhoneiros, não com turismo de
+        pessoas físicas
+
+Recomendação para Agente Claude:
+
+"Postos é SENSÍVEL a safra agrícola. Segmento Mave atua com
+caminhoneiros, não turismo. Janeiro-março é pico (+80-120% safra).
+Ofereça programa de visibilidade em PDV. Black Friday (nov) e Natal
+(dez) têm impacto baixo. Foco em conformidade para caminhoneiros."
+
+INDÚSTRIA - Sensibilidade Média
+
+Drivers Principais:
+
+25. Indústria: ⭐⭐⭐⭐ (Crítico)
+
+    -   Demanda contínua
+
+    -   Picos em jan-abr, set-dez
+
+26. Eventos Econômicos: ⭐⭐⭐ (Alto)
+
+    -   Mudanças de política econômica
+
+    -   Variação de demanda industrial
+
+27. Construção Civil: ⭐⭐ (Médio)
+
+    -   Impacto indireto
+
+28. Safra Agrícola: ⭐ (Baixo)
+
+    -   Impacto indireto via transporte
+
+Recomendação para Agente Claude:
+
+"Indústria é ESTÁVEL. Demanda contínua. Ofereça programa de conformidade
+em todos os períodos. Eventos econômicos podem impactar. Foco em
+rastreabilidade e suporte técnico."
+
+Parte 4: Calendário de Eventos Sazonais 2026
+
+Janeiro
+
+-   Eventos: Férias escolares, Carnaval (preparação)
+
+-   Impacto: +30% a +50% (férias)
+
+-   Segmentos Afetados: Postos, Transportadoras, Auto Peças
+
+-   Safras: Colheita de verão (soja, milho, arroz, uva, tabaco,
+    melancia, melão)
+
+-   Impacto Agrícola: +250% a +350% (PICO MÁXIMO COM SAFRAS ADICIONAIS)
+
+Fevereiro
+
+-   Eventos: Carnaval (fev-mar)
+
+-   Impacto: -30% a -50% (durante), +20% (após)
+
+-   Segmentos Afetados: Todos
+
+-   Safras: Colheita de verão (soja, milho, arroz, maçã, pêra, uva,
+    tabaco)
+
+-   Impacto Agrícola: +250% a +350% (PICO MÁXIMO COM SAFRAS ADICIONAIS)
+
+Março
+
+-   Eventos: Páscoa (mar-abr)
+
+-   Impacto: -20% a -40% (durante), +10% (após)
+
+-   Segmentos Afetados: Todos
+
+-   Safras: Colheita de verão (soja, milho, arroz, maçã, pêra, amendoim,
+    girassol)
+
+-   Impacto Agrícola: +150% a +200%
+
+Abril
+
+-   Eventos: Páscoa (continuação)
+
+-   Impacto: +10% a +20%
+
+-   Segmentos Afetados: Todos
+
+-   Safras: Pós-colheita de verão, Início colheita algodão (MS, GO)
+
+-   Impacto Agrícola: +40% a +100% (com algodão)
+
+Maio
+
+-   Eventos: Corpus Christi (mai-jun)
+
+-   Impacto: -10% a -20% (durante), +5% (após)
+
+-   Segmentos Afetados: Todos
+
+-   Safras: Pós-colheita, Início de colheita de café (MG)
+
+-   Impacto Agrícola: +20% a +60%
+
+Junho
+
+-   Eventos: Férias escolares (início)
+
+-   Impacto: +10% a +20%
+
+-   Segmentos Afetados: Transportadoras
+
+-   Safras: Colheita de milho 2ª safra (PR), Colheita de café (MG),
+    Colheita algodão (MS, GO)
+
+-   Impacto Agrícola: +60% a +120% (com algodão)
+
+-   Nota: Postos não sofrem impacto significativo (caminhoneiros
+    trabalham)
+
+Julho
+
+-   Eventos: Férias escolares (pico)
+
+-   Impacto: +20% a +30%
+
+-   Segmentos Afetados: Transportadoras, Auto Peças
+
+-   Safras: Colheita de milho 2ª safra (PR), Colheita de café (MG),
+    Colheita algodão (MS, GO)
+
+-   Impacto Agrícola: +80% a +150% (com algodão)
+
+-   Nota: Postos não sofrem impacto significativo (caminhoneiros
+    trabalham)
+
+Agosto
+
+-   Eventos: Fim de férias escolares
+
+-   Impacto: +10% a +20%
+
+-   Segmentos Afetados: Transportadoras
+
+-   Safras: Colheita de milho 2ª safra (PR), Colheita de café (MG),
+    Colheita algodão (MS, GO)
+
+-   Impacto Agrícola: +60% a +120% (com algodão)
+
+Setembro
+
+-   Eventos: Preparação para primavera
+
+-   Impacto: +10% a +20%
+
+-   Segmentos Afetados: Construção, Auto Peças
+
+-   Safras: Colheita de café (MG), Preparação para colheita de outono
+
+-   Impacto Agrícola: +80% a +150%
+
+Outubro
+
+-   Eventos: Eleições 2026 (possível impacto econômico)
+
+-   Impacto: -10% a +10% (incerteza)
+
+-   Segmentos Afetados: Todos
+
+-   Safras: Colheita de trigo (RS, PR), Preparação para colheita de
+    outono
+
+-   Impacto Agrícola: +80% a +140%
+
+Novembro
+
+-   Eventos: Black Friday, Preparação para Natal
+
+-   Impacto: +20% a +40%
+
+-   Segmentos Afetados: Postos, Ferragens, Auto Peças
+
+-   Safras: Colheita de outono (soja, milho, algodão)
+
+-   Impacto Agrícola: +100% a +180%
+
+Dezembro
+
+-   Eventos: Natal, Férias escolares, Fim de ano
+
+-   Impacto: +30% a +50% (férias), -20% a -40% (durante feriados)
+
+-   Segmentos Afetados: Transportadoras, Auto Peças
+
+-   Safras: Colheita de outono, Preparação para verão
+
+-   Impacto Agrícola: +100% a +180%
+
+-   Nota: Postos têm impacto baixo em férias (caminhoneiros trabalham),
+    mas varejo de postos pode ter +10% em Natal
+
+Parte 5: Recomendações Estratégicas para o Agente Claude
+
+Regra 1: Identificar Sensibilidade do Segmento
+
+Perguntas para Fazer:
+
+29. "Qual é a sua principal atividade? (Agrícola, Transporte,
+    Construção, Indústria, Varejo)"
+
+30. "Em qual estado/mesorregião você está localizado?"
+
+31. "Qual é o seu ciclo de demanda? (Muito Sazonal, Sazonal, Estável)"
+
+Ação Baseada em Sensibilidade:
+
+-   Muito Alta (Casa Agrícola, Loneiros): Ofereça programa de reposição
+    automática ultra-rápida em picos
+
+-   Alta (Transportadoras, Auto Peças, Postos): Ofereça programa de
+    conformidade + reposição automática
+
+-   Média (Ferragens, Indústria): Ofereça programa de conformidade +
+    linha completa
+
+Regra 2: Antecipar Demanda por Evento Sazonal
+
+Calendário de Ações:
+
+-   Junho-Agosto: Contatar clientes agrícolas para preparar para safra
+    (set-out)
+
+-   Setembro-Outubro: Contatar para preparar para colheita (nov-dez)
+
+-   Novembro-Dezembro: Contatar para preparar para colheita de verão
+    (jan-mar)
+
+-   Julho-Agosto: Contatar postos para aproveitar férias escolares
+
+-   Outubro-Novembro: Contatar ferragens para aproveitar Black Friday
+
+Regra 3: Personalizar por Mesorregião
+
+Cada mesorregião tem ciclo específico:
+
+-   Noroeste RS: Soja, Milho, Trigo, Aveia
+
+-   Nordeste RS: Soja, Milho, Trigo, Maçã
+
+-   Centro Oriental RS: Soja, Milho, Arroz, Pecuária
+
+-   Oeste SC: Soja, Milho, Suínos, Aves
+
+-   Norte PR: Soja, Milho, Milho 2ª Safra, Algodão
+
+-   Centro Ocidental PR: Soja, Milho, Milho 2ª Safra, Trigo
+
+-   Oeste SP: Soja, Milho, Algodão
+
+-   Central SP: Soja, Milho, Cana-de-açúcar (colheita contínua mai-nov)
+
+-   Triângulo MG: Soja, Milho, Café
+
+-   Zona da Mata MG: Café (colheita mai-set)
+
+-   Leste MS: Soja, Milho, Milho 2ª Safra
+
+-   Centro-Norte MS: Soja, Milho, Pecuária
+
+-   Sul GO: Soja, Milho, Algodão
+
+-   Oeste BA: Soja, Milho, Algodão
+
+-   Leste RO: Soja, Milho, Pecuária
+
+Regra 4: Oferecer Programa Correto por Sensibilidade
+
+  -----------------------------------------------------------------------
+  Sensibilidade           Programa                Período
+  ----------------------- ----------------------- -----------------------
+  Muito Alta              Reposição Automática    Picos (jan-mar,
+                          Ultra-Rápida            set-out, nov-dez)
+
+  Alta                    Reposição Automática +  Picos + períodos
+                          Conformidade            normais
+
+  Média                   Conformidade + Linha    Todos os períodos
+                          Completa                
+  -----------------------------------------------------------------------
+
+Regra 5: Mencionar Safra Recorde 2026 e Drivers Específicos
+
+Contexto:
+
+-   Safra 2026 será recorde: 344-353 milhões de toneladas
+
+-   Soja: 173,3 milhões de toneladas (maior da história)
+
+-   Mato Grosso do Sul: +14% em soja
+
+-   Construção Civil: +2% em 2026
+
+-   Cana-de-açúcar: Colheita contínua mai-nov em SP
+
+Ação:
+
+"Você sabe que safra 2026 será recorde? 344-353 milhões de toneladas.
+Soja vai ter 173,3 milhões de toneladas - maior da história. Mato Grosso
+do Sul vai crescer 14%. Isso significa demanda massiva por amarração e
+elevação. Ofereça programa de reposição automática para garantir que
+você não perde venda."
+
+Resumo Executivo
+
+A Mave opera em mercado com múltiplos drivers de sazonalidade além de
+safras agrícolas. Os principais são:
+
+32. Safra Agrícola (Muito Alto) - Jan-Mar, Set-Out, Nov-Dez
+
+33. Construção Civil (Alto) - Jan-Abr, Set-Dez
+
+34. Férias/Turismo (Alto) - Dez-Jan, Julho
+
+35. Transporte (Alto) - Segue ciclo agrícola + férias
+
+36. Feriados (Médio) - Carnaval, Páscoa, Black Friday, Natal
+
+37. Clima (Médio) - Chuvas nov-mar, Secas jun-ago
+
+38. Eventos Econômicos (Médio) - Eleições 2026, Políticas econômicas
+
+39. Indústria (Médio) - Demanda contínua
+
+A sensibilidade varia por segmento:
+
+-   Muito Alta: Casa Agrícola, Loneiros
+
+-   Alta: Transportadoras, Auto Peças, Postos
+
+-   Média: Ferragens, Indústria
+
+Cada estado, mesorregião e microrregião tem ciclo específico que deve
+ser considerado. Safra recorde 2026 oferece oportunidade massiva.

@@ -1,0 +1,2020 @@
+BASE DE CONHECIMENTO
+       Catálogo de Vídeos MAVE
+
+Documento formatado para alimentar Agente Comercial IA
+
+
+          103 vídeos | 19 categorias | Março 2026
+INSTRUÇÕES PARA O AGENTE COMERCIAL
+Este documento contém a base de conhecimento completa dos vídeos de marketing da MAVE. Utilize as
+informações abaixo para atender às solicitações dos usuários de três formas:
+1. BUSCA DE VÍDEOS: Quando o usuário perguntar por um vídeo específico ou sobre um tema, utilize os
+campos "Palavras-chave", "Produtos Mencionados" e "Descrição" para localizar todos os vídeos relevantes.
+Retorne TODOS os vídeos que se encaixam, não apenas um.
+
+2. CONTORNO DE OBJEÇÕES: Quando o usuário informar uma objeção de cliente, consulte o campo
+"Objeções que Contorna" de cada vídeo e também o Mapa de Objeções (Seção Final) para identificar quais
+vídeos ajudam a contornar aquela objeção específica. Além de indicar os vídeos, utilize as informações da
+descrição para formular um argumento de venda.
+
+3. ARGUMENTAÇÃO COMERCIAL: Utilize as descrições detalhadas, público-alvo e uso comercial sugerido para
+construir argumentos de venda personalizados conforme o perfil do cliente (ferragista, caminhoneiro,
+motoqueiro, distribuidor, etc.).
+SOBRE A MAVE
+A MAVE é uma empresa brasileira especializada na fabricação de produtos para amarração, fixação, elevação
+e contenção de cargas. O portfólio inclui: cintas de amarração (de 800 kg a 10 toneladas), catracas (fixas,
+invertidas e retráteis), extensores de lona e elásticos, redes de contenção, toldos de lona impermeáveis,
+conjuntos para baú com trilho, kits para motocicletas e cintas de elevação para içamento. A empresa atua nos
+segmentos de transporte rodoviário, logística, agronegócio (safra de uva, pluma, grãos) e varejo (ferragistas,
+postos de combustível, distribuidoras). A linha MAVE PRO é o segmento premium, com acabamento
+diferenciado, empunhadura ergonômica e catracas de 40mm.
+
+Principais Linhas de Produto
+Linha Leve: Conjuntos de 800 kg a 1.500 kg, ideais para cargas leves e motocicletas. Disponível em várias cores.
+
+Linha Pesada: Conjuntos de 3.000 kg a 10.000 kg para transporte rodoviário de cargas pesadas e graneleiros.
+
+MAVE PRO: Linha premium com catraca de 40mm, empunhadura ergonômica, cinta preta, gancho de 2,2mm de
+espessura. Disponível em conjuntos pretos.
+
+Extensores: Elásticos premium e tradicionais com gancho simples ou duplo, em lona ou borracha. Para fixação
+complementar de cargas.
+
+Redes de Contenção: Redes em poliéster para contenção de cargas irregulares, motocicletas e itens pequenos.
+
+Toldos de Lona: Lonas impermeáveis para proteção de cargas contra intempéries.
+
+Cintas de Elevação: Cintas coloridas por capacidade para operações de içamento e movimentação de paletes.
+
+Kit Moto: Kits completos para motocicletas com cinta + catraca ou esticador. Embalagem retail.
+
+Trilho e Conjunto Baú: Sistema de fixação com trilho de alumínio e ganchos para interior de baú de caminhão.
+
+Programas Comerciais
+Programa MAVERAR: Programa de fidelização e parceria com revendedores. Oferece benefícios exclusivos,
+materiais de merchandising, expositores e suporte comercial para parceiros selecionados.
+CATÁLOGO COMPLETO DE VÍDEOS
+
+
+APRESENTAÇÕES DE PRODUTOS
+15 vídeo(s) nesta categoria
+
+Apresentação Catraca Fixa
+Duração: 1min
+Descrição Detalhada: Apresentação técnica completa da catraca fixa com definição de conceitos, características
+técnicas (opções de gancho J e S), construção robusta e aplicações no mercado de amarração de cargas. Mostra
+componentes metálicos polidos em close-up detalhado, evidenciando qualidade de acabamento e resistência do
+produto.
+Produtos Mencionados: Catraca Fixa, Gancho J, Gancho S
+Público-Alvo: Ferragistas, gerentes de compras, distribuidores técnicos
+Uso Comercial Sugerido: Enviar em resposta a dúvidas sobre especificações de catraca fixa. Incluir em propostas
+técnicas com clientes corporativos. Usar em catálogos digitais B2B.
+Objeções que Contorna: Dúvidas sobre qualidade de construção | Resistência da catraca questionada | Diferenças
+entre modelos
+Palavras-chave: catraca fixa, especificações técnicas, gancho J, gancho S, resistência, amarração, qualidade
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Catraca Invertida
+Duração: 40s
+Descrição Detalhada: Demonstração técnica de catraca invertida em múltiplos ângulos, mostrando design inovador
+do mecanismo e diferenciais em relação à catraca tradicional. Destaca as duas opções de ganchos (J e S) e a
+facilidade de liberação da carga. Produto posicionado como solução para quem busca praticidade na soltura.
+Produtos Mencionados: Catraca Invertida, Gancho J, Gancho S
+Público-Alvo: Ferragistas, distribuidores, motoristas experientes
+Uso Comercial Sugerido: Enviar quando cliente questiona diferença entre catraca fixa e invertida. Usar em
+treinamento de vendedores sobre diferenciais técnicos.
+Objeções que Contorna: Confusão entre tipos de catraca | Não sabe quando usar cada modelo | Acha que são
+iguais
+Palavras-chave: catraca invertida, inovação, gancho J, gancho S, facilidade, praticidade, diferenciação
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Conjunto 5.000 kg
+Duração: 53s
+Descrição Detalhada: Apresentação técnica de conjunto de amarração com capacidade de 5.000 kg com cintas
+laranja e azul. Demonstra força, componentes e confiabilidade para cargas pesadas em operações logísticas e
+industriais. Cada componente é exibido individualmente para avaliação de qualidade.
+Produtos Mencionados: Conjunto Cinta + Catraca 5.000 kg
+Público-Alvo: Gestores de frota, empresas de logística, gerentes de warehouse
+Uso Comercial Sugerido: Enviar quando cliente pergunta sobre capacidade de carga intermediária. Incluir em
+propostas técnicas de projetos.
+Objeções que Contorna: Dúvidas sobre capacidade de carga real | Segurança em operações críticas | Certificação
+de resistência
+Palavras-chave: conjunto 5.000 kg, capacidade, resistência, logística, industrial, carga pesada, segurança
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Conjunto 10.000 kg (10 ton)
+Duração: 38s
+Descrição Detalhada: Demonstração de conjunto de alta capacidade (10 toneladas) com detalhe dos componentes
+principais. Cintas laranja e azul em configuração robusta. Componentes metálicos destacam resistência extrema.
+Voltado para grandes operações logísticas e industriais.
+Produtos Mencionados: Conjunto Cinta + Catraca 10.000 kg
+Público-Alvo: Empresas de logística pesada, construtoras, distribuidoras de grande escala
+Uso Comercial Sugerido: Enviar quando cliente menciona carga muito pesada. Usar para competir com marcas
+similares. Demonstrar liderança em capacidade.
+Objeções que Contorna: Carga é muito pesada para produto brasileiro | Não confio na resistência | Preciso de
+certificação
+Palavras-chave: conjunto 10 toneladas, alta capacidade, carga pesada, resistência extrema, elevação, industrial
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Conjunto 800 kg
+Duração: 46s
+Descrição Detalhada: Apresentação de conjunto compacto de 800 kg com cintas vermelhas e azuis. Ideal para
+cargas leves e operações de pequeno porte. Demonstra portabilidade e relação custo-benefício para pequenas
+transportadoras e motoristas autônomos.
+Produtos Mencionados: Conjunto Cinta + Catraca 800 kg
+Público-Alvo: Pequenas transportadoras, motoqueiros, motoristas autônomos
+Uso Comercial Sugerido: Enviar para clientes com operações menores. Usar em campanhas de segmentação por
+capacidade. Demonstrar acessibilidade.
+Objeções que Contorna: Não sei qual capacidade escolher | É caro para operação pequena | Faltam opções para
+cargas leves
+Palavras-chave: conjunto 800 kg, compacto, carga leve, custo-benefício, portabilidade, PME, acessível
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Conjunto Graneleiro 3.000 kg
+Duração: 42s
+Descrição Detalhada: Demonstração de conjunto especializado para graneleiros com capacidade de 3.000 kg.
+Cintas brancas e azuis. Voltado especificamente para transporte de grãos e cargas agrícolas, demonstrando
+especialização da MAVE em diferentes segmentos.
+Produtos Mencionados: Conjunto Graneleiro 3.000 kg
+Público-Alvo: Transportadores de grãos, cooperativas agrícolas, distribuidoras de insumos
+Uso Comercial Sugerido: Enviar em prospecção de clientes agrícolas. Usar em campanhas sazonais (safra).
+Demonstrar expertise no segmento.
+Objeções que Contorna: Não tem produto específico para granéis | Produtos são genéricos | Capacidade
+insuficiente para grãos
+Palavras-chave: graneleiro, 3.000 kg, safra, grãos, agrícola, especializado, transporte
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Itens Geral
+Duração: 29s
+Descrição Detalhada: Visão geral do portfólio completo MAVE com cintas, catracas, extensores, redes e acessórios
+em diversas cores e tamanhos. Dá panorama abrangente das soluções disponíveis para diferentes necessidades de
+amarração.
+Produtos Mencionados: Cintas, Catracas, Extensores, Redes, Toldo (portfólio completo)
+Público-Alvo: Novos clientes, distribuidoras, varejistas
+Uso Comercial Sugerido: Usar como introdução ao portfólio MAVE para prospects. Base para primeiro contato
+comercial. Enviar para clientes que querem conhecer a marca.
+Objeções que Contorna: Não conheço os produtos MAVE | Vocês têm solução para meu problema? | Quero ver
+todas as opções
+Palavras-chave: portfólio, variedade, catálogo, soluções, linha completa, produtos diversos
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Elevações
+Duração: 1min16s
+Descrição Detalhada: Vídeo educativo sobre cintas de elevação e suas aplicações em operações de içamento e
+movimentação segura de cargas. Mostra sistemas de elevação em cores variadas (rosa/vermelho). Conteúdo
+técnico para operações de warehouse e logística.
+Produtos Mencionados: Cintas de Elevação (várias capacidades)
+Público-Alvo: Gerentes de warehouse, operadores de empilhadeira, empresas logísticas, construtoras
+Uso Comercial Sugerido: Enviar quando cliente pergunta sobre soluções de elevação. Usar em treinamentos de
+segurança. Demonstrar versatilidade.
+Objeções que Contorna: Insegurança sobre elevação segura | Não conheço produtos específicos de elevação |
+Risco em operações
+Palavras-chave: elevação, içamento, palete, warehouse, logística, segurança, operacional, industrial
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Geral Linha Leve
+Duração: 58s
+Descrição Detalhada: Apresentação completa da linha leve com analogia humorística (comparação com foguete da
+NASA) para demonstrar que produtos leves são altamente eficazes e confiáveis. Estratégia moderna de
+comunicação usando humor para desfazer percepção de fragilidade.
+Produtos Mencionados: Linha Leve completa (conjuntos de 800 kg a 1.500 kg)
+Público-Alvo: Público geral, consumidores que subestimam produtos leves
+Uso Comercial Sugerido: Compartilhar em redes sociais para engajamento. Enviar quando cliente acha que linha
+leve não é resistente.
+Objeções que Contorna: Produtos leves são menos resistentes | Desconfiança sobre capacidade real | Linha leve é
+fraca
+Palavras-chave: linha leve, resistência, capacidade, humor, criatividade, produto, comunicação
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Linha Leve
+Duração: 34s
+Descrição Detalhada: Apresentação da linha leve com variedade de produtos, materiais de trade marketing e
+embalagens. Destaque para mensagem 'ATENÇÃO E AGILIDADE NA ENTREGA É COM A GENTE!', posicionando
+MAVE como parceira confiável e ágil.
+Produtos Mencionados: Linha Leve completa
+Público-Alvo: Varejistas, ferragistas, distribuidoras
+Uso Comercial Sugerido: Enviar em follow-up de vendas. Demonstrar compromisso com atendimento ágil e
+entrega rápida.
+Objeções que Contorna: Demora na entrega | Receio de falta de reposição | Fornecedor não é ágil
+Palavras-chave: linha leve, agilidade, entrega, atendimento, varejo, confiança, parceria
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Rede de Contenção
+Duração: 43s
+Descrição Detalhada: Exibição detalhada de rede de contenção laranja/vermelha com estrutura de malha e pontos
+de fixação. Produto para cargas irregulares ou itens pequenos que precisam de contenção durante transporte.
+Produtos Mencionados: Rede de Contenção
+Público-Alvo: Transportadores de carga fracionada, logística
+Uso Comercial Sugerido: Propor para clientes com cargas irregulares. Demonstrar economia versus cinta individual
+por item.
+Objeções que Contorna: Itens pequenos caem do veículo | Não consigo prender todos os itens | É trabalhoso fixar
+cada item separadamente
+Palavras-chave: rede contenção, malha, fixação, carga fracionada, irregular, prática, segurança
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Toldo de Lona
+Duração: 1min17s
+Descrição Detalhada: Demonstração de toldo de lona com ênfase na impermeabilidade total (símbolo de gotículas
+de chuva). Acabamento em lona laranja para proteção de cargas contra intempéries. Produto totalmente
+impermeável, ideal para transportadores de mercadoria sensível à umidade.
+Produtos Mencionados: Toldo de Lona Impermeável
+Público-Alvo: Transportadores de carga, proprietários de caminhões, logística
+Uso Comercial Sugerido: Enviar em períodos de chuvas intensas. Destacar para clientes que transportam
+mercadorias sensíveis à umidade.
+Objeções que Contorna: Carga fica molhada | Preciso de proteção contra chuva | Toldo não é impermeável
+Palavras-chave: toldo, lona, impermeável, proteção, carga, cobertura, chuva, intempéries
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Kit Moto
+Duração: 44s
+Descrição Detalhada: Kit completo para motocicletas com cinta e catraca em embalagem laranja com logo MAVE.
+Solução integrada e pronta para uso em motos, demonstrando especialização no segmento de duas rodas.
+Produtos Mencionados: Kit Moto (Cinta + Catraca)
+Público-Alvo: Motoqueiros, transportadores de moto, oficinas, distribuidoras de acessórios
+Uso Comercial Sugerido: Enviar em prospecção de motoqueiros. Demonstrar portfólio segmentado para duas
+rodas.
+Objeções que Contorna: Não tem solução específica para motos | Não conheço produtos adequados | Segurança
+em cargas em motos
+Palavras-chave: kit moto, motoqueiro, segmentado, cinta, catraca, duas rodas, especializado
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação do Site
+Duração: 44s
+Descrição Detalhada: Apresentação da plataforma digital e site institucional MAVE com laptop mostrando interface
+moderna. Demonstra presença online, transformação digital e facilidade de acesso a informações sobre produtos e
+serviços.
+Produtos Mencionados: Site MAVE (plataforma digital)
+Público-Alvo: Clientes novos, visitantes online, distribuidores
+Uso Comercial Sugerido: Enviar para clientes em processo de onboarding. Usar em campanhas de conscientização
+digital.
+Objeções que Contorna: Falta de presença online | Dificuldade em encontrar informações | Não conheço o
+portfólio completo
+Palavras-chave: site, digital, plataforma, tecnologia, e-commerce, informações, portfólio
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Os Melhores Produtos
+Duração: 37s
+Descrição Detalhada: Apresentação motivacional com mulher segurando extensores em estúdio moderno.
+Posicionamento direto dos produtos MAVE como os melhores da categoria com mensagem simples e impactante.
+Produtos Mencionados: Extensores MAVE, Linha completa
+Público-Alvo: Cliente final, consumidores, varejistas
+Uso Comercial Sugerido: Usar em redes sociais para posicionamento de marca. Material de brand awareness.
+Objeções que Contorna: Dúvida sobre qualidade vs concorrentes | Ceticismo sobre superioridade | Falta de
+convicção
+Palavras-chave: qualidade, melhor marca, posicionamento, excelência, confiabilidade
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+EXTENSORES
+11 vídeo(s) nesta categoria
+
+Apresentação Linha de Extensores
+Duração: 1min12s
+Descrição Detalhada: Visão geral da linha completa de extensores com demonstração de variedade de tamanhos,
+tipos e embalagens. Mostra todas as opções de gancho e capacidades disponíveis, desde extensores tradicionais
+até premium.
+Produtos Mencionados: Extensores diversos (linha completa)
+Público-Alvo: Ferragistas, clientes B2B, distribuidoras
+Uso Comercial Sugerido: Enviar como catálogo da linha. Demonstrar amplitude de soluções.
+Objeções que Contorna: Falta de opções | Preciso de múltiplos fornecedores | Dificuldade em achar tamanho
+certo
+Palavras-chave: extensores, linha completa, variedade, catálogo, tamanhos, gancho, capacidade
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Extensor de Lona
+Duração: 43s
+Descrição Detalhada: Demonstração de extensor de lona em close-up detalhado mostrando textura, qualidade de
+costuras e construção robusta. Solução específica para proteção e fixação complementar de cargas.
+Produtos Mencionados: Extensor de Lona
+Público-Alvo: Motoristas de caminhão, transportadores, empresas de mudança
+Uso Comercial Sugerido: Enviar quando cliente pergunta sobre proteção de carga. Demonstrar qualidade de
+acabamento.
+Objeções que Contorna: Durabilidade de lona questionada | Resistência a intempéries | Proteção efetiva de carga
+Palavras-chave: extensor lona, costura, durabilidade, proteção, carga, qualidade, acabamento
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Extensor Gancho Duplo
+Duração: 31s
+Descrição Detalhada: Apresentação técnica de extensor com gancho duplo em close-up, componentes metálicos
+com polimento profissional. Versatilidade de uso com dois ganchos para amarração dupla.
+Produtos Mencionados: Extensor Gancho Duplo
+Público-Alvo: Ferragistas, motoristas experientes, distribuidoras especializadas
+Uso Comercial Sugerido: Enviar em resposta a dúvidas sobre extensores. Comparar com concorrentes. Incluir em
+catálogos técnicos.
+Objeções que Contorna: Confusão entre tipos de extensores | Não sabe aplicação correta | Desconhece
+versatilidade
+Palavras-chave: extensor, gancho duplo, versatilidade, aplicação, técnico, dupla amarração
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentação Extensor Premium
+Duração: 44s
+Descrição Detalhada: Extensor premium em fundo profissional, mostrando componentes de alta qualidade,
+acabamento e resistência diferenciados. Posicionado como solução de ponta para clientes exigentes.
+Produtos Mencionados: Extensor Premium
+Público-Alvo: Clientes premium, grandes frotas, distribuidoras seletivas
+Uso Comercial Sugerido: Enviar em vendas consultivas premium. Justificar diferencial de qualidade e preço.
+Objeções que Contorna: Preço elevado | Justificar diferencial | Competição com produtos mais baratos
+Palavras-chave: premium, qualidade, extensor, diferenciação, exclusividade, durabilidade, alto padrão
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Apresentando os Extensores
+Duração: 1min11s
+Descrição Detalhada: Apresentação com definição de 'Maverrar' (fixar do brasileiro), destacando qualidade
+premium e padrão altíssimo. Homem em camiseta com slogan explica variações e aplicações de extensores.
+Produtos Mencionados: Extensores MAVE (linha premium)
+Público-Alvo: Transportadores, caminhoneiros, comerciantes
+Uso Comercial Sugerido: Apresentar como complemento de cintas e catracas. Enviar quando cliente precisa de
+flexibilidade.
+Objeções que Contorna: Carga não cabe nas dimensões padrão | Preciso de flexibilidade | Cintas sozinhas não
+resolvem
+Palavras-chave: extensor, Maverrar, premium, qualidade, flexibilidade, variedade
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Extensores (apresentação rápida)
+Duração: 20s
+Descrição Detalhada: Apresentação rápida de extensores com foco em durabilidade e elasticidade, mostrando
+produtos com ganchos de metal em preto e vermelho.
+Produtos Mencionados: Extensores (vários modelos)
+Público-Alvo: Ferragistas, vendedores, caminhoneiros
+Uso Comercial Sugerido: Usar como conteúdo rápido para status de WhatsApp. Engajamento em redes sociais.
+Objeções que Contorna: Falta de opções | Extensores não são resistentes
+Palavras-chave: extensor, durabilidade, elasticidade, gancho metal, rápido, WhatsApp
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Nova Embalagem Extensor
+Duração: 24s
+Descrição Detalhada: Lançamento de nova embalagem comparando 'elásticos premium' (embalagem
+preta/premium com detalhes vermelhos) versus 'elásticos tradicionais' (embalagem vermelha). Inovação em design
+e diferenciação de linhas.
+Produtos Mencionados: Extensores Premium, Extensores Tradicionais (nova embalagem)
+Público-Alvo: Varejistas, ferragistas, gerentes de loja, consumidor final
+Uso Comercial Sugerido: Anunciar lançamento. Educação de PDV sobre diferenciação de linhas premium vs
+tradicional.
+Objeções que Contorna: Confusão entre produtos premium e tradicionais | Percepção de aumento de preço sem
+valor
+Palavras-chave: embalagem nova, lançamento, extensores, premium, tradicional, inovação, diferenciação
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Resistência Extensor de Lona
+Duração: 52s
+Descrição Detalhada: Teste técnico de resistência em laboratório: pesagem com equipamento profissional
+mostrando exatidão de pesos (36 kg com 4 cintas de elevação de 1 kg cada, depois 63 kg com 2 catracas de 100mm
+de 3,5 kg cada). Comprovação científica de capacidade.
+Produtos Mencionados: Extensores de Lona, Cintas de Elevação, Catracas
+Público-Alvo: Clientes técnicos, compradores B2B, gerentes de logística
+Uso Comercial Sugerido: Demonstrar capacidade em apresentação técnica. Convencer cliente exigente sobre
+especificações reais.
+Objeções que Contorna: Dúvida sobre capacidade real de carga | Ceticismo sobre especificações do fabricante |
+Segurança de carga pesada
+Palavras-chave: resistência, capacidade de carga, teste, peso, especificação técnica, laboratório, segurança
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Como saber se um extensor é realmente bom
+Duração: 1min29s
+Descrição Detalhada: Tutorial educativo com apresentador mostrando critérios para avaliar qualidade: etiqueta
+azul MAVE, espessura do material metálico de 2,2mm, costuras e acabamento. Guia prático para diferenciar
+produtos de qualidade de produtos baratos.
+Produtos Mencionados: Extensores MAVE, Etiqueta de Qualidade MAVE
+Público-Alvo: Ferragistas, revendedores, consumidores educados
+Uso Comercial Sugerido: Educar clientes sobre qualidade. Posicionar MAVE como referência. Treinar vendedores
+revendedores.
+Objeções que Contorna: Não sei como escolher extensor | Concorrente é mais barato | Qualidade parece igual
+Palavras-chave: qualidade, extensor, como escolher, etiqueta, 2,2mm, educação, critérios, diferenciação
+──────────────────────────────────────────────────────────────────────────────────────────
+Produção de Extensores
+Duração: 55s
+Descrição Detalhada: Bastidores da fábrica com homem em uniforme MAVE relatando aumento de ~30% na
+capacidade de produção. Mostra máquinas industriais e volume. Demonstra crescimento, investimento e
+capacidade de atender demanda.
+Produtos Mencionados: Extensores MAVE (produção)
+Público-Alvo: Clientes B2B, varejistas, distribuidoras
+Uso Comercial Sugerido: Tranquilizar cliente sobre disponibilidade de estoque. Demonstrar solidez e crescimento
+da empresa.
+Objeções que Contorna: Preocupação com falta de estoque | Ceticismo sobre capacidade de entregar volume |
+Fornecedor pequeno
+Palavras-chave: produção, crescimento 30%, capacidade, fábrica, investimento, volume, escalabilidade
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Mave na Prática - Medição de Extensores
+Duração: 44s
+Descrição Detalhada: Produtor de uva em vinhedo explicando como medir e escolher tamanho correto de extensor
+na prática. Demonstra que 'o cinco consegue segurar' e discute capacidades diferentes em cenário real de safra.
+Produtos Mencionados: Extensores MAVE (vários tamanhos)
+Público-Alvo: Ferragistas, operadores de carga, agricultores
+Uso Comercial Sugerido: Enviar para clientes com dúvida sobre tamanho correto. Material educacional em pontos
+de venda.
+Objeções que Contorna: Confusão sobre tamanhos | Dúvida sobre qual modelo escolher | Capacidade correta
+Palavras-chave: medição, tamanho correto, capacidade, como escolher, safra uva, aplicação prática
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+CATRACAS E CONJUNTOS
+10 vídeo(s) nesta categoria
+
+ASMR 40mm MAVE PRO
+Duração: 44s
+Descrição Detalhada: Conteúdo sensorial ASMR em close-up da catraca MAVE PRO de 40mm. Textura, som do
+mecanismo e especificações técnicas em detalhe. Abordagem moderna criando conexão sensorial com o produto
+premium. Estratégia para viralizar em TikTok/Instagram.
+Produtos Mencionados: Catraca MAVE PRO 40mm
+Público-Alvo: Público jovem, influenciadores, clientes premium
+Uso Comercial Sugerido: Viralizar em redes sociais. Campanhas de lançamento premium. Gerar buzz digital.
+Objeções que Contorna: Marca parece datada | Falta diferenciação visual | Desconexão com público jovem
+Palavras-chave: ASMR, MAVE PRO, 40mm, premium, sensorial, viral, marketing moderno
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Conjuntos Pretos MAVE PRO
+Duração: 55s
+Descrição Detalhada: Apresentação dos conjuntos pretos premium com etiquetas azuis características,
+empunhadura ergonômica exclusiva da versão 5T e espessura de 2,2mm do gancho de metal. Locução explica
+especificações técnicas e vantagens competitivas.
+Produtos Mencionados: Conjunto Preto MAVE PRO, Empunhadura Ergonômica 5T, Gancho 2,2mm
+Público-Alvo: Ferragistas, vendedores, clientes B2B técnicos
+Uso Comercial Sugerido: Enviar quando cliente pergunta sobre especificações técnicas. Demonstrar ergonomia vs
+concorrentes.
+Objeções que Contorna: Qualidade do material | Espessura do gancho | Ergonomia do produto | Usabilidade diária
+Palavras-chave: MAVE PRO, conjunto preto, empunhadura ergonômica, 5T, gancho 2,2mm, premium,
+especificações
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Conj Pretos MAVE PRO - Caminhão
+Duração: 50s
+Descrição Detalhada: Demonstração de catracas retráteis pretas MAVE PRO instaladas em caminhão real,
+mostrando amarração de carga profissional. Catracas amarelas e pretas em uso na lateral do veículo, comprovando
+funcionalidade e resistência.
+Produtos Mencionados: Conjunto Preto MAVE PRO, Catraca Retrátil
+Público-Alvo: Caminhoneiros, transportadores, motoristas profissionais
+Uso Comercial Sugerido: Demonstrar aplicação real em veículos comerciais. Compartilhar com clientes de cargas
+pesadas.
+Objeções que Contorna: Durabilidade em uso intenso | Resistência de catracas em ambiente profissional | Produto
+não aguenta caminhão
+Palavras-chave: MAVE PRO, caminhão, catraca retrátil, amarração, carga profissional, durabilidade
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Catraca Invertida na Prática
+Duração: 29s
+Descrição Detalhada: Demonstração prática em uso real: mecanismo invertido facilita liberação de carga sem
+deslizar. Mostra diferença de força necessária para soltar versus catraca tradicional. Inovação para facilitar
+trabalho.
+Produtos Mencionados: Catraca Invertida
+Público-Alvo: Transportadores que usam catraca frequentemente, motoristas profissionais
+Uso Comercial Sugerido: Enviar quando cliente reclama de dificuldade em soltar catraca. Destacar ergonomia e
+facilidade.
+Objeções que Contorna: Catraca tradicional é cansativa | Preciso de muito esforço | Quero algo mais fácil de soltar
+Palavras-chave: catraca invertida, facilidade, inovação, esforço, ergonomia, prática
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Catraca Tradicional X Invertida
+Duração: 46s
+Descrição Detalhada: Comparação lado a lado dos dois modelos com demonstração de mecanismo. Mostra
+vantagens e desvantagens de cada um: facilidade de liberação da invertida versus robustez da tradicional.
+Educativo para escolha correta.
+Produtos Mencionados: Catraca Tradicional, Catraca Invertida
+Público-Alvo: Varejistas, novos clientes, tomadores de decisão
+Uso Comercial Sugerido: Educar cliente sobre diferenças. Ajudar na escolha correta conforme necessidade.
+Objeções que Contorna: Qual catraca devo usar? | Qual é melhor? | Qual é mais segura?
+Palavras-chave: tradicional, invertida, comparação, mecanismo, escolha, diferenças, funcionalidade
+──────────────────────────────────────────────────────────────────────────────────────────
+Como Lubrificar Catracas
+Duração: 25s
+Descrição Detalhada: Tutorial de manutenção: procedimento correto de lubrificação com spray em pontos
+específicos da catraca. Essencial para manutenção preventiva e prolongamento da vida útil.
+Produtos Mencionados: Catraca MAVE, Lubrificante/Spray
+Público-Alvo: Usuários frequentes, transportadores, técnicos
+Uso Comercial Sugerido: Acompanhar venda com educação de manutenção. Reduzir desgaste prematuro.
+Aumentar satisfação.
+Objeções que Contorna: Produto durou pouco | Catraca enferrujou | Não funciona mais direito
+Palavras-chave: lubrificação, manutenção, conservação, durabilidade, tutorial, cuidado, preventiva
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Boas Práticas ao Utilizar Catracas
+Duração: 55s
+Descrição Detalhada: Orientações sobre uso correto de catracas: proteger cantos vivos da cinta, posicionamento
+adequado, ângulo de fixação e força aplicada. Tema de segurança no trabalho para maximizar vida útil.
+Produtos Mencionados: Catraca, Cinta de Amarração
+Público-Alvo: Novos usuários, transportadores, vendedores
+Uso Comercial Sugerido: Acompanhar venda com educação de uso. Reduzir reclamações por uso incorreto.
+Objeções que Contorna: Não sei como usar | Produto quebrou rápido | Não está durando o prometido
+Palavras-chave: boas práticas, uso correto, segurança, longevidade, educação, manuseio
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Linha PRO
+Duração: 38s
+Descrição Detalhada: Apresentação premium com texto 'DESBRAVAR O MUNDO' e imagens de motoqueiros em
+estrada. Posicionamento adventure e durabilidade para uso extremo. Design premium da linha profissional.
+Produtos Mencionados: Linha PRO MAVE (catracas, cintas)
+Público-Alvo: Profissionais extremos, pilotos, entusiastas adventure
+Uso Comercial Sugerido: Posicionar linha premium. Atingir público disposto a pagar mais por qualidade.
+Objeções que Contorna: Preço elevado da linha PRO | Preciso ver durabilidade superior | Não justifica o
+investimento
+Palavras-chave: linha PRO, premium, adventure, extremo, qualidade, resistência, desbravar
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Novos Modelos Linha Leve
+Duração: 45s
+Descrição Detalhada: Lançamento com título 'Todas as variações com CINTA PRETA'. Nova cor de catracas em cinta
+preta versus modelos tradicionais azuis. Padronização estética e inovação da linha.
+Produtos Mencionados: Catracas MAVE PRO Linha Leve, Cinta Preta
+Público-Alvo: Varejistas premium, transportadores leves, motoqueiros
+Uso Comercial Sugerido: Lançamento de nova linha. Upgrade de cliente da linha tradicional para premium.
+Objeções que Contorna: Ceticismo sobre mudança estética | Preocupação com compatibilidade | Valor agregado
+Palavras-chave: linha leve, cinta preta, novo design, inovação, padronização, catraca
+──────────────────────────────────────────────────────────────────────────────────────────
+Vídeo Cinta Branca
+Duração: 34s
+Descrição Detalhada: Apresentação de cinta branca com integração digital e plataformas online. Mostra
+transformação tecnológica da empresa, conectando produto físico ao ecossistema digital.
+Produtos Mencionados: Cinta Branca, Plataforma Digital
+Público-Alvo: Clientes em transição digital, distribuidores
+Uso Comercial Sugerido: Demonstrar modernização. Enviar para clientes que buscam fornecedor tecnológico.
+Objeções que Contorna: Fornecedor é antiquado | Falta tecnologia | Não tem ferramentas digitais
+Palavras-chave: cinta branca, digital, plataforma, tecnologia, modernização
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+CATRACA RETRÁTIL - APLICAÇÕES PRÁTICAS
+6 vídeo(s) nesta categoria
+
+Catraca Retrátil - Downhill
+Duração: 34s
+Descrição Detalhada: Ação em trilha de downhill com bicicleta em mata. Catraca retrátil MAVE PRO fixada no
+transporte do equipamento demonstra resistência em condições extremas de vibração e impacto.
+Produtos Mencionados: Catraca Retrátil MAVE PRO
+Público-Alvo: Ciclistas, esportistas radicais, aventureiros
+Uso Comercial Sugerido: Demonstrar resistência extrema. Expandir para mercado de esportes e adventure.
+Objeções que Contorna: Produto não é resistente | Não confio para uso em trilha | Preciso de algo durável
+Palavras-chave: catraca retrátil, downhill, bicicleta, resistência, uso extremo, adventure
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Catraca Retrátil - Jet Ski
+Duração: 50s
+Descrição Detalhada: Catraca retrátil MAVE PRO fixada em reboque de jet ski, demonstrando aplicação em
+ambiente aquático e lazer. Mostra versatilidade do produto para esportes aquáticos.
+Produtos Mencionados: Catraca Retrátil MAVE PRO
+Público-Alvo: Esportistas aquáticos, donos de jet ski, aventureiros
+Uso Comercial Sugerido: Apresentar versatilidade para novos mercados. Expandir awareness em público aquático.
+Objeções que Contorna: Não sabia que podia usar em jet ski | Preciso de segurança aquática | Equipamento caía
+Palavras-chave: catraca retrátil, jet ski, aquático, versatilidade, Mave Pro, segurança
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Catraca Retrátil - Moto de Estrada
+Duração: 40s
+Descrição Detalhada: Demonstração de fixação de carga em motocicleta de estrada com catraca retrátil.
+Praticidade e segurança para motoqueiros que transportam equipamento.
+Produtos Mencionados: Catraca Retrátil
+Público-Alvo: Motociclistas, viajantes de moto, entregadores
+Uso Comercial Sugerido: Propor solução para motoqueiros. Demonstrar adaptabilidade do produto.
+Objeções que Contorna: Não consigo prender carga na moto | Moto é pequena | Equipamento cai durante viagem
+Palavras-chave: catraca retrátil, moto estrada, fixação, segurança, motocicleta, viagem
+──────────────────────────────────────────────────────────────────────────────────────────
+Catraca Retrátil - Moto de Trilha
+Duração: 48s
+Descrição Detalhada: Uso em moto de trilha em terreno off-road com poeira e condições extremas. Demonstra
+que catraca retém equipamento mesmo em impactos fortes e vibração de trilha.
+Produtos Mencionados: Catraca Retrátil
+Público-Alvo: Motociclistas off-road, trilheiros, aventureiros
+Uso Comercial Sugerido: Validar para mercado off-road. Demonstrar resistência em condições adversas.
+Objeções que Contorna: Trilha é muito agressiva | Equipamento se solta | Não aguenta vibração
+Palavras-chave: catraca retrátil, moto trilha, off-road, resistência, vibração, extremo
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Mave na Prática - Catraca Retrátil (Tutorial)
+Duração: 39s
+Descrição Detalhada: Tutorial passo a passo: 'Passo 03: Aperte o botão para tensionar a catraca retrátil'.
+Demonstra funcionalidade do botão de retenção e operação simples e segura no dia a dia.
+Produtos Mencionados: Catraca Retrátil MAVE
+Público-Alvo: Novos usuários, revendedores treinando clientes
+Uso Comercial Sugerido: Treinar vendedores e clientes. Demonstrar facilidade de uso. Reduzir dúvidas.
+Objeções que Contorna: Parece complicado de usar | Não sei operar | É muito técnico
+Palavras-chave: tutorial, catraca retrátil, passo a passo, botão, funcionalidade, fácil uso
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Mave na Prática - Bike + Moto
+Duração: 34s
+Descrição Detalhada: Uso prático de catraca retrátil em bicicleta e motocicleta para transporte seguro. Close-up do
+produto em veículos de duas rodas.
+Produtos Mencionados: Catraca Retrátil, Extensores
+Público-Alvo: Motoqueiros, ciclistas, entregadores, lojas de bikes
+Uso Comercial Sugerido: Demonstrar versatilidade. Atingir comunidade de ciclismo e motociclismo.
+Objeções que Contorna: Não serve para bike/moto | Produto é só para caminhão | Muito grande
+Palavras-chave: bike, moto, catraca retrátil, prático, duas rodas, versátil, entregador
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+KIT MOTO E REDES
+4 vídeo(s) nesta categoria
+
+Kit Moto Cinta e Catraca
+Duração: 54s
+Descrição Detalhada: Kit completo com cinta de amarração + catraca em embalagem retail para motoqueiros.
+Solução integrada eliminando necessidade de comprar produtos separados.
+Produtos Mencionados: Kit Moto (Cinta + Catraca)
+Público-Alvo: Motoqueiros, entregadores, lojas de motos
+Uso Comercial Sugerido: Vender kits integrados. Posicionar como solução completa. Facilitar recomendação.
+Objeções que Contorna: Preciso comprar separado | Não tem kit pronto | Inconveniente montar kit próprio
+Palavras-chave: kit moto, cinta, catraca, integrado, solução completa, motoqueiro, varejo
+──────────────────────────────────────────────────────────────────────────────────────────
+Kit Moto Esticador
+Duração: 51s
+Descrição Detalhada: Kit com catraca retrátil + esticador para motocicletas profissionais. Composição do kit com
+dois componentes principais, oferecendo conveniência e valor.
+Produtos Mencionados: Kit Moto (Catraca Retrátil + Esticador)
+Público-Alvo: Motoqueiros profissionais, motoboys, entregadores
+Uso Comercial Sugerido: Aumentar ticket médio. Demonstrar valor agregado de kit vs compra individual.
+Objeções que Contorna: Preço de compra separada | Kit é caro | Prefiro comprar unitário
+Palavras-chave: kit moto, esticador, catraca retrátil, profissional, praticidade, valor agregado
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Rede de Motos
+Duração: 35s
+Descrição Detalhada: Rede de contenção preta com detalhes coloridos para motocicletas em close-up.
+Especificações da malha e estrutura industrial robusta.
+Produtos Mencionados: Rede de Motos MAVE
+Público-Alvo: Motoqueiros, transportadores de motos, mecânicos
+Uso Comercial Sugerido: Apresentar produto específico para segmento de motos.
+Objeções que Contorna: Rede não segura a moto | Preocupação com dano ao veículo | Não é resistente
+Palavras-chave: rede motos, contenção, segurança, transporte, motocicleta, resistência
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Rede para Moto (Display)
+Duração: 25s
+Descrição Detalhada: Display retail de redes para motos em variedade de cores (laranja, azul, amarelo) e
+tamanhos. Embalagem atrativa para ponto de venda.
+Produtos Mencionados: Rede para Motos (vários modelos/cores)
+Público-Alvo: Motoqueiros, lojas de motos, entregadores
+Uso Comercial Sugerido: Demonstrar variedade de opções. Material de PDV.
+Objeções que Contorna: Falta variedade | Só tem uma cor | Não tem meu tamanho
+Palavras-chave: rede moto, variedade, cores, retail, display, PDV
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+CINTAS DE AMARRAÇÃO - EDUCATIVO
+6 vídeo(s) nesta categoria
+
+Etiquetas e Costuras das Cintas
+Duração: 48s
+Descrição Detalhada: Close-up detalhado das etiquetas azuis e costuras reforçadas das cintas MAVE PRO.
+Demonstra elementos de qualidade: etiquetagem clara, costuras duplas e acabamento que indica processo de
+manufatura rigoroso.
+Produtos Mencionados: Cintas de Amarração MAVE, Etiquetas MAVE
+Público-Alvo: Ferragistas, revendedores, compradores técnicos
+Uso Comercial Sugerido: Demonstrar qualidade superior vs concorrentes. Educar sobre garantia de durabilidade.
+Objeções que Contorna: Qualidade de acabamento questionada | Costura não parece forte | Como sei que é bom?
+Palavras-chave: etiquetas, costuras, qualidade, durabilidade, acabamento, detalhe técnico, MAVE PRO
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Linhas nas Cintas de Amarração
+Duração: 49s
+Descrição Detalhada: Vídeo educativo comparando cintas com diferentes qualidades de costuras. Demonstra que
+linhas reforçadas indicam durabilidade superior e são diferencial crítico entre produtos de qualidade e baratos.
+Produtos Mencionados: Cintas de Amarração MAVE
+Público-Alvo: Compradores conscientes, ferragistas, revendedores
+Uso Comercial Sugerido: Educar sobre importância de costuras reforçadas. Justificar preço premium.
+Objeções que Contorna: Preocupação com rompimento | Durabilidade questionada | Concorrente é mais barato
+Palavras-chave: linhas, costuras, reforço, qualidade, durabilidade, diferencial, educação
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Vida Útil das Cintas
+Duração: 1min03s
+Descrição Detalhada: Demonstração de como manusear corretamente cintas para prolongar vida útil. Texto 'Pega
+as tuas cintas' com boas práticas de uso e manutenção. Educacional sobre preservação.
+Produtos Mencionados: Cintas de Amarração
+Público-Alvo: Ferragistas, caminhoneiros, transportadores
+Uso Comercial Sugerido: Enviar quando cliente questiona durabilidade. Treinamentos de boas práticas.
+Objeções que Contorna: Cinta durou pouco | Vida útil curta | Manuseio inadequado danifica
+Palavras-chave: vida útil, durabilidade, manuseio, manutenção, preservação, boas práticas, cuidado
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Novas Etiquetas - Cintas de Elevação
+Duração: 54s
+Descrição Detalhada: Lançamento de novas etiquetas de identificação com comparação entre embalagem
+premium (preta/azul) e tradicional (vermelha). Clareza de especificações técnicas e categorização de linhas.
+Produtos Mencionados: Cintas de Elevação MAVE (novas etiquetas)
+Público-Alvo: Vendedores, gerentes de loja, compradores industriais
+Uso Comercial Sugerido: Treinamento de PDV sobre identificação correta. Educação sobre diferenças de linha.
+Objeções que Contorna: Confusão entre modelos | Dúvida sobre especificação | Dificuldade de identificar
+capacidade
+Palavras-chave: etiquetas novas, cintas elevação, identificação, especificação, capacidade, padronização
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Jornada da Cinta 1
+Duração: 1min27s
+Descrição Detalhada: Primeiro episódio documentando o processo produtivo: matéria-prima, manufatura e
+inspeção de qualidade em fábrica. Transparência sobre origem e processo de produção.
+Produtos Mencionados: Cintas de Amarração MAVE (produção)
+Público-Alvo: Clientes conscientes, revendedores educadores
+Uso Comercial Sugerido: Educar sobre processo. Demonstrar transparência. Criar conexão emocional com produto.
+Objeções que Contorna: Falta de transparência | Não sei como é feito | Qualidade de materiais é duvidosa
+Palavras-chave: jornada da cinta, produção, fábrica, transparência, matéria-prima, qualidade, processo
+──────────────────────────────────────────────────────────────────────────────────────────
+Jornada da Cinta 2
+Duração: 52s
+Descrição Detalhada: Segundo episódio mostrando etapas intermediárias da transformação dos materiais.
+Continua a narrativa educativa sobre excelência operacional e controle de qualidade.
+Produtos Mencionados: Cintas de Amarração MAVE (processo)
+Público-Alvo: Clientes conscientes, revendedores
+Uso Comercial Sugerido: Aprofundar educação sobre processo produtivo. Diferenciar por excelência operacional.
+Objeções que Contorna: Dúvidas sobre processo | Garantias sobre qualidade | Controle de qualidade existe?
+Palavras-chave: jornada, processo, manufatura, qualidade, controle, produção, excelência
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+TOLDO DE LONA
+1 vídeo(s) nesta categoria
+
+Vídeo Toldo
+Duração: 1min17s
+Descrição Detalhada: Toldo de lona MAVE instalado em estrutura de transporte real. Demonstra flexibilidade,
+facilidade de manejo e adaptação a diferentes tamanhos de carga. Praticidade no dia a dia.
+Produtos Mencionados: Toldo de Lona MAVE
+Público-Alvo: Transportadores, caminhoneiros, proprietários de frota
+Uso Comercial Sugerido: Demonstrar facilidade de instalação e uso. Enviar para clientes que questionam
+praticidade.
+Objeções que Contorna: É difícil de instalar | Não vale a pena | Ocupa muito espaço | Toldo rasga fácil
+Palavras-chave: toldo, lona, prático, fácil, instalação, flexível, transporte, proteção
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+TRILHO E CONJUNTO BAÚ
+3 vídeo(s) nesta categoria
+
+Trilho e Conj Baú - Brazilian Trucker 1
+Duração: 1min38s
+Descrição Detalhada: Homem jovem em uniforme MAVE dentro de caminhão baú mostrando redes de contenção
+laranja e trilho instalado. Explica como sistema funciona na prática. Solução completa para transporte em baú.
+Produtos Mencionados: Trilho MAVE, Conjunto Baú, Redes de Contenção
+Público-Alvo: Caminhoneiros, transportadores, logistas, proprietários de frota
+Uso Comercial Sugerido: Série educativa sobre solução completa de baú. Demonstração prática do sistema.
+Objeções que Contorna: Sistema é complicado | Não sei como instalar trilho | Não vale o investimento
+Palavras-chave: trilho, baú, caminhão, fixação, contenção, transporte, sistema completo
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Trilho e Conj Baú - Brazilian Trucker 2
+Duração: 59s
+Descrição Detalhada: Depoimento de cliente influenciador (Brazilian Trucker) sobre material personalizado MAVE
+recebido. Grande volume de cintas em embalagem retail com branding.
+Produtos Mencionados: Trilho Baú, Cintas MAVE (personalização)
+Público-Alvo: Caminhoneiros, transportadores, logística
+Uso Comercial Sugerido: Prova social com influenciador. Demonstrar personalização e volume.
+Objeções que Contorna: Marca desconhecida | Ninguém usa | Falta referência de outros clientes
+Palavras-chave: depoimento, influenciador, trilho baú, personalização, cliente satisfeito, prova social
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Trilho e Conj Baú - Brazilian Trucker 3
+Duração: 59s
+Descrição Detalhada: Continuação mostrando grande volume de produtos com branding BRASIL e embalagem
+retail profissional. Reforça parceria de longo prazo.
+Produtos Mencionados: Trilho Baú, Cintas MAVE
+Público-Alvo: Caminhoneiros, transportadores
+Uso Comercial Sugerido: Reforçar volume e capacidade de entrega. Prova social continuada.
+Objeções que Contorna: Não entrega em volume | Parceria não é duradoura | Sem prova de satisfação
+Palavras-chave: trilho baú, volume, embalagem, branding, parceria, confiança
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+MAVE NA PRÁTICA - APLICAÇÕES
+4 vídeo(s) nesta categoria
+
+Içamento de Paletes
+Duração: 29s
+Descrição Detalhada: Cintas de elevação MAVE em operação real de içamento de paletes com texto 'CINTA DE
+ELEVAÇÃO PARA IÇAMENTO DE PALETES'. Empilhadeira com cargas suspensas usando cintas, comprovando
+segurança em operações pesadas.
+Produtos Mencionados: Cintas de Elevação MAVE
+Público-Alvo: Operadores de logística, gerentes de depósito
+Uso Comercial Sugerido: Demonstrar segurança em aplicações críticas. Vender para setor logístico.
+Objeções que Contorna: Insegurança em içamento | Produto não aguenta carga | Risco na operação
+Palavras-chave: içamento, palete, elevação, logística, carga pesada, segurança, operacional
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Mave Resolve - Fixar em Palete
+Duração: 42s
+Descrição Detalhada: Cintas de elevação vermelhas com alças azuis fixando caixa em palete dentro de depósito.
+Solução MAVE para problema comum de logística: carga solta em palete.
+Produtos Mencionados: Cintas de Elevação MAVE
+Público-Alvo: Operadores logísticos, gerentes de depósito, distribuidoras
+Uso Comercial Sugerido: Posicionar MAVE como solucionadora de problemas reais. Demonstrar aplicabilidade.
+Objeções que Contorna: Não tenho solução para fixar palete | Carga fica solta | Produto cai no transporte
+Palavras-chave: palete, fixação, solução, logística, segurança, carga, prático
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Desafio Piva
+Duração: 35s
+Descrição Detalhada: Desafio de carga extrema com logo 'GABO DE GUERRA' em ambiente de construção. Veículo
+elevando cargas pesadas com amarrações MAVE. Prova real de resistência.
+Produtos Mencionados: Cintas MAVE, Produtos de Amarração
+Público-Alvo: Caminhoneiros, construtoras, operadores pesados
+Uso Comercial Sugerido: Demonstrar resistência em condições extremas. Impressionar cliente.
+Objeções que Contorna: Limite de carga | Não aguenta condições extremas | Capacidade insuficiente
+Palavras-chave: desafio, resistência, extremo, carga pesada, prova, capacidade, durabilidade
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Mave na Prática - Comac
+Duração: 1min20s
+Descrição Detalhada: Entrevista em instalação industrial da Comac com trabalhador usando capacete
+demonstrando extensor de lona amarelo em guincho/talha para içar caixa. Aplicação real em ambiente industrial.
+Produtos Mencionados: Extensores de Lona, Cintas de Elevação
+Público-Alvo: Operadores de equipamento pesado, gerentes de logística, compradores industriais
+Uso Comercial Sugerido: Demonstrar aplicação real em elevação. Provar resistência em situação de trabalho
+industrial.
+Objeções que Contorna: Dúvida sobre capacidade | Segurança | Ceticismo sobre durabilidade em uso pesado
+Palavras-chave: Comac, industrial, elevação, talha, extensor lona, aplicação prática, segurança
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+SAFRAS AGRÍCOLAS
+5 vídeo(s) nesta categoria
+
+Safra da Uva - Episódio 1
+Duração: 57s
+Descrição Detalhada: Documentário em vinhedo mostrando uso de redes de contenção na colheita de uva durante
+desengacagem. Colaboradora MAVE demonstra aplicação prática.
+Produtos Mencionados: Redes de Contenção, Cintas de Amarração
+Público-Alvo: Produtores agrícolas, cooperativas vitivinícolas, distribuidores agrícolas
+Uso Comercial Sugerido: Converter clientes do setor vitivinícola. Demonstrar aplicação em safra.
+Objeções que Contorna: Produto não serve para agricultura | Não conheço aplicação em colheita | Redes são
+genéricas
+Palavras-chave: safra uva, redes contenção, colheita, vinhedo, agricultura, aplicação prática
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Safra da Uva - Episódio 2
+Duração: 1min25s
+Descrição Detalhada: Entrevista com produtor rural idoso em vinhedo relatando parceria de longa data com MAVE.
+Depoimento autêntico sobre confiabilidade e qualidade consistente entre safras.
+Produtos Mencionados: Extensores, Redes de Contenção, Cintas
+Público-Alvo: Produtores vitivinícolas, agricultores
+Uso Comercial Sugerido: Depoimento de cliente satisfeito. Fortalecer relacionamento com setor agrícola.
+Objeções que Contorna: Qualidade varia entre lotes | Parceria não é duradoura | Produto não resiste à safra
+Palavras-chave: depoimento, safra uva, parceria, confiabilidade, longo prazo, agricultura, produtor
+──────────────────────────────────────────────────────────────────────────────────────────
+Safra da Uva - Episódio 3
+Duração: 1min18s
+Descrição Detalhada: Reboque carregado com caixas de uva em condições de temporal. Demonstra que produtos
+MAVE seguram carga mesmo com vento forte e condições adversas durante colheita.
+Produtos Mencionados: Extensores, Cintas de Amarração, Redes
+Público-Alvo: Produtores rurais, operadores de carga agrícola
+Uso Comercial Sugerido: Provar resistência em condições adversas. Confiabilidade em cenário de pressão.
+Objeções que Contorna: Não segura em condições de vento | Não dura na chuva | Não aguenta pressão da safra
+Palavras-chave: safra uva, temporal, vento, resistência, condições adversas, segurança, confiabilidade
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Safra da Uva (geral)
+Duração: 1min25s
+Descrição Detalhada: Documentário completo sobre transporte de colheita de uva com rede de contenção e
+fixação de carga em caminhão graneleiro. Segurança no transporte agrícola.
+Produtos Mencionados: Redes de Contenção, Cintas, Extensores
+Público-Alvo: Produtores vitivinícolas, logística agrícola
+Uso Comercial Sugerido: Material educativo sobre segurança no transporte agrícola.
+Objeções que Contorna: Não preciso de rede na safra | Transporte agrícola não precisa de amarração | É custo
+desnecessário
+Palavras-chave: safra uva, rede contenção, transporte agrícola, segurança, graneleiro
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Safra da Pluma
+Duração: 1min05s
+Descrição Detalhada: Caminhão em rodovia com rede de contenção transportando carga de pluma/penas em
+granja. Demonstra versatilidade para diferentes safras e cargas agrícolas.
+Produtos Mencionados: Redes de Contenção, Cintas de Amarração
+Público-Alvo: Granjas, produtores agrícolas, cooperativas
+Uso Comercial Sugerido: Expandir penetração em mercado agrícola. Demonstrar aplicação em diferentes culturas.
+Objeções que Contorna: Produto não é para criação animal | Não conhecia uso em pluma | É genérico demais
+Palavras-chave: safra pluma, granja, agricultura, rede contenção, criação animal, versatilidade
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+SEGURANÇA E LEGISLAÇÃO
+5 vídeo(s) nesta categoria
+
+Lei de Amarração de Cargas
+Duração: 1min21s
+Descrição Detalhada: Conteúdo educativo sobre legislação com apresentadora explicando requisitos legais. Mostra
+como usar MAVE PRO em conformidade com regulamentações de transporte de carga.
+Produtos Mencionados: Catraca Retrátil MAVE, MAVE PRO
+Público-Alvo: Caminhoneiros, transportadores, motoristas profissionais
+Uso Comercial Sugerido: Demonstrar conformidade legal. Educar sobre regulações. Posicionar como choice segura.
+Objeções que Contorna: Não preciso de cinta | Nunca fui multado | É gasto desnecessário
+Palavras-chave: lei, legislação, amarração, conformidade, regulamento, segurança, multa, obrigatório
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Multa Surpresa
+Duração: 52s
+Descrição Detalhada: Homem em pátio de carga falando sobre fiscalizações e multas por amarração incorreta.
+Produtos MAVE ajudam a evitar problemas legais. Foco em aspecto regulatório.
+Produtos Mencionados: Cintas de Amarração, Extensores, Sistema de Amarração
+Público-Alvo: Caminhoneiros, despachantes, gerentes de logística, fiscais de frota
+Uso Comercial Sugerido: Enviar quando cliente menciona preocupação com multas. Material de compliance.
+Objeções que Contorna: Custos aparentemente altos | Resistência a investir em segurança | Desconhecimento da
+lei
+Palavras-chave: multa, legislação, compliance, segurança, fiscalização, regulamentação, transporte
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Meta do Ano - Amarrar a Carga
+Duração: 50s
+Descrição Detalhada: Campanha motivacional com humor e descontração. Representante em camiseta 'Mave &
+Mavereia & Maverou & Maverado' responde objeções comuns de forma leve sobre importância de amarrar carga.
+Produtos Mencionados: Cintas MAVE, Catracas
+Público-Alvo: Equipe de vendas, consultores comerciais
+Uso Comercial Sugerido: Material de motivação e treinamento para lidar com objeções de forma descontraída.
+Objeções que Contorna: Cliente não vê importância | Resistência à venda | Falta de interesse inicial
+Palavras-chave: meta, amarração, motivação, treinamento, objeções, humor, vendas
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Operação PRF - 1
+Duração: 47s
+Descrição Detalhada: Documentário de fiscalização da PRF em rodovia com caminhão sendo inspecionado em
+paisagem de serra. Importância de amarração correta e compliance com legislação.
+Produtos Mencionados: Cintas de Amarração, Sistema de Fixação
+Público-Alvo: Caminhoneiros, transportadores, gerentes de frota, consultores de segurança
+Uso Comercial Sugerido: Educar sobre legislação obrigatória. Motivar compra de segurança. Treinamento de
+compliance.
+Objeções que Contorna: Nunca acontece fiscalização | Risco de multa é baixo | Não preciso investir nisso
+Palavras-chave: PRF, fiscalização, legislação, segurança, compliance, caminhoneiro, rodovia
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Operação Prisma - 2
+Duração: 55s
+Descrição Detalhada: Narração sobre produção interna com meta de 1.500.000 metros de elásticos. Demonstra
+escala de produção, eficiência e capacidade produtiva da MAVE.
+Produtos Mencionados: Extensores de Lona, Elásticos
+Público-Alvo: Clientes B2B, varejistas em larga escala, potenciais parceiros
+Uso Comercial Sugerido: Demonstrar capacidade produtiva. Tranquilizar sobre disponibilidade de estoque.
+Objeções que Contorna: Falta de estoque | Não entrega em volume | Empresa é pequena
+Palavras-chave: produção, escala, capacidade, 1.500.000 metros, eficiência, volume, disponibilidade
+──────────────────────────────────────────────────────────────────────────────────────────
+TRADE MARKETING E PDV
+8 vídeo(s) nesta categoria
+
+Ação Trade - Acessórios Marques
+Duração: 1min14s
+Descrição Detalhada: Ação comercial no PDV do parceiro Acessórios Marques. Vendedor MAVE educando
+vendedor da loja sobre características e como vender os produtos. Treinamento in-loco.
+Produtos Mencionados: Cintas, Catracas, Extensores
+Público-Alvo: Gerentes de loja, vendedores, proprietários de PDV
+Uso Comercial Sugerido: Capacitar equipes de vendas. Demonstrar suporte MAVE a parceiros. Replicar modelo.
+Objeções que Contorna: Equipe não sabe vender MAVE | Sem treinamento | Vendedores não explicam bem
+Palavras-chave: trade marketing, treinamento, vendedor, PDV, ação, parceiro, educação, capacitação
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Materiais de Trade - Arrumando o PDV
+Duração: 1min11s
+Descrição Detalhada: Funcionária MAVE organizando ponto de venda com materiais de merchandising em
+ferragaria. Best practices de apresentação visual para impulsionar vendas.
+Produtos Mencionados: Materiais de Trade, Expositores
+Público-Alvo: Ferragistas, gerentes de loja, revendedores
+Uso Comercial Sugerido: Treinar sobre merchandising. Maximizar vendas em PDV.
+Objeções que Contorna: PDV desorganizado | Não sei como arrumar | Vendas estão baixas
+Palavras-chave: trade, PDV, merchandising, expositor, organização, ponto de venda, visual
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Materiais de Trade - Display de Balcão
+Duração: 45s
+Descrição Detalhada: Montagem passo a passo de display para balcão em ferragaria. Organização em espaço
+limitado para máxima visibilidade e compra por impulso.
+Produtos Mencionados: Display MAVE, Materiais de Trade
+Público-Alvo: Ferragistas, gerentes de loja, donos de revendedoras
+Uso Comercial Sugerido: Treinar montagem eficiente. Aumentar impulso de compra.
+Objeções que Contorna: Falta de espaço na loja | Não sei montar display | Balcão é pequeno
+Palavras-chave: display, balcão, trade, montagem, PDV, organização, espaço
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Mave na Prática - Materiais de PDV
+Duração: 38s
+Descrição Detalhada: Organização e uso correto de materiais de merchandising com cintas aplicadas em ponto de
+venda.
+Produtos Mencionados: Materiais de PDV, Cintas
+Público-Alvo: Ferragistas, gerentes de loja
+Uso Comercial Sugerido: Reforçar como usar materiais de trade. Treinar staff.
+Objeções que Contorna: Materiais são inúteis | Não sei usar | Não impactam vendas
+Palavras-chave: PDV, materiais, merchandising, organização, trade, loja
+──────────────────────────────────────────────────────────────────────────────────────────
+Montando Material de Trade MKT
+Duração: 38s
+Descrição Detalhada: Passo a passo de montagem de estruturas de exposição em armazém. Preparação completa
+de materiais de marketing para envio a PDVs.
+Produtos Mencionados: Estruturas de Exposição, Materiais de Trade Marketing
+Público-Alvo: Ferragistas, gerentes de loja, revendedores
+Uso Comercial Sugerido: Treinar montagem. Maximizar ROI dos materiais fornecidos.
+Objeções que Contorna: Não sei usar materiais | Desperdiço potencial de venda | Montagem é difícil
+Palavras-chave: trade marketing, montagem, exposição, merchandising, passo a passo, material
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Vídeo de Uso - Materiais de PDV
+Duração: 38s
+Descrição Detalhada: Demonstração educativa de como usar corretamente materiais de ponto de venda.
+Treinamento e boas práticas com sistema de gestão/catálogo de materiais.
+Produtos Mencionados: Materiais de PDV
+Público-Alvo: Varejistas, gerentes de loja
+Uso Comercial Sugerido: Enviar para varejistas que querem melhorar merchandising.
+Objeções que Contorna: Falta de materiais visuais | Desorganização | Baixa visibilidade de produtos
+Palavras-chave: PDV, tutorial, treinamento, materiais, merchandising, varejo
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Pontos Quentes da Loja
+Duração: 1min18s
+Descrição Detalhada: Homem em escritório explicando conceito de 'pontos quentes' - áreas estratégicas de venda
+em loja. Usa laser/apontador para demonstrar posicionamento ideal de produtos.
+Produtos Mencionados: Produtos MAVE (estratégia de PDV)
+Público-Alvo: Gerentes de loja, consultores de merchandising, varejistas
+Uso Comercial Sugerido: Treinamento de parceiros. Consultoria de layout. Estratégia de aumento de vendas.
+Objeções que Contorna: Vendas baixas na loja | Não sei onde posicionar produtos | Layout não funciona
+Palavras-chave: pontos quentes, merchandising, layout, estratégia, vendas, posicionamento, PDV
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Novos Expositores
+Duração: 31s
+Descrição Detalhada: Mulher sorridente em PDV moderno exibindo extensores coloridos em novo design de
+expositor. Butique moderna com iluminação profissional. Renovação visual.
+Produtos Mencionados: Expositores MAVE, Extensores
+Público-Alvo: Varejistas, gerentes de loja, consultores de PDV
+Uso Comercial Sugerido: Propor mudança visual. Material de merchandising. Renovação de imagem.
+Objeções que Contorna: Expositor é feio | Falta de espaço | Custo do novo expositor
+Palavras-chave: expositor novo, merchandising, PDV, visual, layout, organização, moderno
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+EXPOSITORES E CLIENTES
+3 vídeo(s) nesta categoria
+Expositor Bello Peças
+Duração: 5s
+Descrição Detalhada: Expositor MAVE em loja de ferragens com produtos organizados em prateleiras: cintas
+vermelhas, pretas e amarelo fluorescente em embalagens atrativas e acessíveis ao cliente final.
+Produtos Mencionados: Cintas de Amarração, Expositor PDV
+Público-Alvo: Ferragistas, donos de lojas de ferragem
+Uso Comercial Sugerido: Referência de arranjo visual. Demonstrar como produtos ganham destaque com
+expositor.
+Objeções que Contorna: Não tenho como expor bem | Produtos não vendem na loja | Falta merchandising
+Palavras-chave: expositor, PDV, ferragem, display, organização, varejo, visual
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Expositor Postos Marajó
+Duração: 19s
+Descrição Detalhada: Expositor em posto de combustível/parada de caminhoneiros com cintas e catracas em cores
+variadas. Canal de venda em local estratégico para público transportador.
+Produtos Mencionados: Cintas, Catracas, Expositor PDV
+Público-Alvo: Caminhoneiros, transportadores, postos de parada
+Uso Comercial Sugerido: Propor instalação em postos. Mostrar vendas impulso. Case real de implementação.
+Objeções que Contorna: Não sei vender para caminhoneiros | PDV diferente de ferragem | Sem visibilidade
+Palavras-chave: expositor, posto, caminhoneiro, parada, PDV, varejo, impulso
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Arrumando o Expositor
+Duração: 1min53s
+Descrição Detalhada: Demonstração detalhada de como arrumar expositor MAVE com layout recomendado em
+diferentes níveis de prateleira. Merchandising correto impacta vendas.
+Produtos Mencionados: Expositor MAVE, Produtos diversos
+Público-Alvo: Gerentes de PDV, ferragistas, vendedores
+Uso Comercial Sugerido: Treinar sobre montagem. Enviar para quem recebe novo expositor. Base para visita
+técnica.
+Objeções que Contorna: Não sei montar | Sem padrão visual | Desorganizado
+Palavras-chave: expositor, merchandising, organização, treinamento, PDV, apresentação, layout
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+VENDAS E QUEBRA DE OBJEÇÕES
+3 vídeo(s) nesta categoria
+
+Quebra de Objeções
+Duração: 58s
+Descrição Detalhada: Vídeo educacional com fichas/cards das objeções mais frequentes e técnicas de resposta.
+Treinamento de vendas para lidar com resistências de clientes.
+Produtos Mencionados: Todos os produtos MAVE
+Público-Alvo: Equipe de vendas, consultores comerciais, gerentes de venda
+Uso Comercial Sugerido: Material de treinamento. Workshop de técnicas comerciais. Preparação de equipe.
+Objeções que Contorna: Vendedor inseguro | Não sabe responder objeções | Falta confiança na abordagem
+Palavras-chave: objeções, técnicas de venda, treinamento, resposta, comercial, skills, vendedor
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Mave Resolve - Respondendo Objeções
+Duração: 53s
+Descrição Detalhada: Representante MAVE em estúdio (fundo gradiente roxo/rosa) explicando qualidade dos fios
+das cintas e respondendo dúvidas técnicas. Educa sobre material e segurança.
+Produtos Mencionados: Cintas de Amarração, Fios premium
+Público-Alvo: Gerentes de loja, ferragistas, vendedores internos
+Uso Comercial Sugerido: Treinamentos de equipe. Educação sobre especificações técnicas.
+Objeções que Contorna: Material é de qualidade duvidosa | Fios não são resistentes | Durabilidade insuficiente
+Palavras-chave: objeções, qualidade fios, cintas, durabilidade, especificações, treinamento, educação
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Hey Ferragista!
+Duração: 30s
+Descrição Detalhada: Call-to-action direto para ferragistas. Mulher jovem com óculos em depósito apresentando
+convite para programa de parceria MAVE. Informal e engajador.
+Produtos Mencionados: Programa MAVE (parceria)
+Público-Alvo: Ferragistas, revendedores independentes
+Uso Comercial Sugerido: Recrutar ferragistas. Engajar comunidade. Criar identificação.
+Objeções que Contorna: Marca desconhecida | Sem benefício de parceria | Não vejo vantagem
+Palavras-chave: ferragista, comunidade, parceria, programa, reconhecimento, engajamento, convite
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+DE CARONA COM A MAVE (VISITAS)
+5 vídeo(s) nesta categoria
+
+De Carona - Ferragem Farroupilha
+Duração: 2min16s
+Descrição Detalhada: Visita a cliente na Ferragem Farroupilha com entrevista. Mostra história e sucesso do
+revendedor, relação de parceria duradoura e contribuição da MAVE para o negócio local.
+Produtos Mencionados: Linha completa MAVE
+Público-Alvo: Ferragistas, revendedores, potenciais parceiros
+Uso Comercial Sugerido: Inspirar novos revendedores. Demonstrar casos de sucesso. Fortalecer relacionamento.
+Objeções que Contorna: Revenda não é rentável | Marca não dá suporte | Não tenho cases de sucesso
+Palavras-chave: visita, ferragem, revendedor, parceria, sucesso, relacionamento, trade
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+De Carona - Postos Squizzato
+Duração: 1min26s
+Descrição Detalhada: Visita a Postos Squizzato com gerente explicando parceria MAVE em ambiente de posto de
+combustível. Demonstra viabilidade em diferentes canais de distribuição.
+Produtos Mencionados: Linha Profissional MAVE
+Público-Alvo: Donos de postos, gerentes de lojas, novos distribuidores
+Uso Comercial Sugerido: Demonstrar viabilidade em postos. Inspirar novos canais. Mostrar adaptabilidade.
+Objeções que Contorna: Não funciona em posto | Canal diferente de ferragem | Sem potencial de lucro
+Palavras-chave: posto combustível, distribuição, parceria, conveniência, profissional, varejo
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Se a Mave Fosse um Posto de Gasolina
+Duração: 1min32s
+Descrição Detalhada: Vídeo humorístico com funcionária promovendo produtos de forma criativa. Cenário fictício
+com slogan 'Mave & Mavereia & Maverou & Tá Maverado'. Conteúdo viral.
+Produtos Mencionados: Marca MAVE (campanha conceitual)
+Público-Alvo: Público geral, redes sociais
+Uso Comercial Sugerido: Conteúdo viral. Brand awareness. Humor comercial para engajamento.
+Objeções que Contorna: Marca sem personalidade | Empresa genérica | Falta diferenciação
+Palavras-chave: humor, storytelling, marca, viral, criatividade, brand awareness, engajamento
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Se a Mave Fosse Uma Distribuidora
+Duração: 1min04s
+Descrição Detalhada: Vídeo conceitual com duas funcionárias em ambiente moderno conversando sobre
+atendimento ao cliente. Humor e criatividade no posicionamento de marca.
+Produtos Mencionados: Marca MAVE (campanha conceitual)
+Público-Alvo: Público geral, redes sociais, distribuidores
+Uso Comercial Sugerido: Engajamento de audiência. Storytelling de marca. Brand positioning.
+Objeções que Contorna: Não entendo modelo de negócio | Empresa sem visão | Marca commoditizada
+Palavras-chave: humor, storytelling, marca, criatividade, distribuidora, posicionamento
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Vidente - Ferragens
+Duração: 1min16s
+Descrição Detalhada: Ação promocional conectando MAVE a ferrarias com branding visual forte. Mulher em
+camiseta laranja promovendo parcerias com o setor de ferragens.
+Produtos Mencionados: Produtos MAVE (ação)
+Público-Alvo: Ferragistas, donos de ferrarias, varejistas
+Uso Comercial Sugerido: Campanhas de parceria com ferragens. Aumentar visibilidade no setor.
+Objeções que Contorna: Falta de parcerias | Alcance limitado junto a ferrarias | Não conheço a marca
+Palavras-chave: ferragem, parceria, visibilidade, branding, promoção, alcance, rede
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+PROGRAMA MAVERAR
+4 vídeo(s) nesta categoria
+
+No Programa Maverar Tem!
+Duração: 51s
+Descrição Detalhada: Mulher em ambiente corporativo consultando laptop/smartphone sobre expositores e
+produtos. Promove vantagens exclusivas do programa Maverar para varejistas e consultores.
+Produtos Mencionados: Programa Maverar, Expositores, Catálogo
+Público-Alvo: Ferragistas, gerentes de lojas, potenciais parceiros
+Uso Comercial Sugerido: Recrutar novos parceiros. Apresentar benefícios. Material de onboarding.
+Objeções que Contorna: Receio de comprometimento exclusivo | Benefícios não são reais | Sem vantagem
+competitiva
+Palavras-chave: Maverar, programa, fidelização, benefícios, parceria, exclusivo, varejo
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Você Foi Escolhido - Programa Maverar
+Duração: 56s
+Descrição Detalhada: Vídeo promocional apresentando oportunidades e benefícios para participantes selecionados
+do programa. Sentimento de exclusividade e reconhecimento.
+Produtos Mencionados: Programa Maverar
+Público-Alvo: Revendedores selecionados, varejistas premium
+Uso Comercial Sugerido: Onboarding de novos participantes. Gerar senso de exclusividade.
+Objeções que Contorna: Não sou especial para a marca | Programa é genérico | Sem diferencial
+Palavras-chave: Maverar, seleção, exclusividade, oportunidade, benefícios, programa, reconhecimento
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Vídeo Depoimento - Programa Maverar
+Duração: 38s
+Descrição Detalhada: Depoimento de representante falando sobre materiais de PDV e estrutura da loja, com xícara
+Mave. Testemunho autêntico sobre benefícios reais.
+Produtos Mencionados: Programa Maverar, Materiais de PDV
+Público-Alvo: Revendedores em potencial, participantes atuais
+Uso Comercial Sugerido: Prova social. Prospecting de novos revendedores.
+Objeções que Contorna: Ceticismo sobre benefícios | Falta credibilidade | Programa não funciona
+Palavras-chave: depoimento, Maverar, benefícios, credibilidade, testemunho, PDV, revendedor
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Vídeo Depoimento (Programa Maverar 2)
+Duração: 38s
+Descrição Detalhada: Segundo depoimento sobre sucesso em vendas e suporte do programa. Prova social e
+credibilidade com caso real.
+Produtos Mencionados: Programa Maverar
+Público-Alvo: Potenciais parceiros, revendedores
+Uso Comercial Sugerido: Reforçar prova social. Demonstrar resultados reais.
+Objeções que Contorna: Só promessa | Nenhum resultado comprovado | Outros não tiveram sucesso
+Palavras-chave: depoimento, sucesso, vendas, Maverar, prova social, resultado, parceria
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+CAMPANHAS E PROMOÇÕES
+3 vídeo(s) nesta categoria
+
+Black Friday - Promoção
+Duração: 35s
+Descrição Detalhada: Oferta de Black Friday com Conjunto Cinta + Catraca de 1.500 kg (35mm), extensões de 3m-
+6m-9m. Preço de custo por tempo limitado, pedido mínimo 20 unidades. Urgência de compra em volume.
+Produtos Mencionados: Conjunto Cinta + Catraca 1.500 kg
+Público-Alvo: Ferragistas, distribuidoras, gerenciadores de carga
+Uso Comercial Sugerido: Gerar urgência. Propostas de bulk/volume. Comunicação sazonal.
+Objeções que Contorna: É muito caro | Não compro em volume | Preço não é competitivo
+Palavras-chave: Black Friday, promoção, preço de custo, volume, conjunto, limitado, urgência
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Desenrolados - Preparação Black
+Duração: 1min17s
+Descrição Detalhada: Equipe MAVE preparando materiais e produtos para Black Friday. Logística e eficiência
+operacional para atender pico de demanda sazonal.
+Produtos Mencionados: Produtos sortidos, Materiais Black Friday
+Público-Alvo: Clientes se preparando para Black Friday, revendedores
+Uso Comercial Sugerido: Anunciar promoções sazonais. Demonstrar volume disponível.
+Objeções que Contorna: Disponibilidade em alta demanda | Vai faltar estoque | Demora na entrega
+Palavras-chave: Black Friday, preparação, logística, equipe, sazonal, disponibilidade, volume
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+Whatsapp - Lançamento MAVE PRO
+Duração: 51s
+Descrição Detalhada: Vídeo promocional para redes sociais focando em materiais de marketing e lançamento da
+linha MAVE PRO. Conteúdo otimizado para WhatsApp e Instagram.
+Produtos Mencionados: Linha MAVE PRO
+Público-Alvo: Clientes em redes sociais, varejistas
+Uso Comercial Sugerido: Lançamento de linha. Marketing digital. Compartilhamento em WhatsApp.
+Objeções que Contorna: Não conheço a linha PRO | Não vi lançamento | Falta informação
+Palavras-chave: lançamento, MAVE PRO, WhatsApp, marketing digital, redes sociais, promoção
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+CULTURA ORGANIZACIONAL
+2 vídeo(s) nesta categoria
+
+Dia do GPTW
+Duração: 1min25s
+Descrição Detalhada: Evento Great Place to Work com funcionários demonstrando engajamento e cultura
+organizacional positiva. Reforça reputação como empresa que cuida dos colaboradores.
+Produtos Mencionados: Empresa MAVE (institucional)
+Público-Alvo: Potenciais funcionários, parceiros B2B
+Uso Comercial Sugerido: Fortalecer marca empregadora. Aumentar confiança de clientes na empresa.
+Objeções que Contorna: Empresa não parece confiável | Sem credibilidade corporativa | Empresa pequena
+Palavras-chave: GPTW, cultura, empresa, ambiente trabalho, engajamento, reconhecimento, valores
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+The Mave Office 5 - Café
+Duração: 1min07s
+Descrição Detalhada: Ambiente interno moderno da MAVE com mesa de trabalho, notebook e xícara. Cultura
+corporativa de inovação e colaboração. Employer branding.
+Produtos Mencionados: Empresa MAVE (institucional)
+Público-Alvo: Candidatos, parceiros B2B, investidores
+Uso Comercial Sugerido: Employer branding no LinkedIn. Reforçar imagem corporativa profissional.
+Objeções que Contorna: Empresa parece desorganizada | Falta profissionalismo | Não conheço a empresa
+Palavras-chave: cultura corporativa, ambiente trabalho, branding, inovação, empresa moderna, profissional
+──────────────────────────────────────────────────────────────────────────────────────────
+MAPA DE OBJEÇÕES COMERCIAIS
+Este mapa relaciona as principais objeções de clientes com os vídeos que ajudam a contorná-las. Quando o
+cliente apresentar uma objeção, consulte esta seção para encontrar os vídeos mais adequados e construir sua
+argumentação.
+
+PREÇO / CUSTO
+Objeções comuns: É muito caro | O concorrente é mais barato | Não justifica o investimento | Não tenho
+orçamento
+
+Vídeos recomendados:
+
+         > Black Friday - Promoção (preço de custo por tempo limitado)
+         > Como saber se um extensor é realmente bom (justifica qualidade vs preço)
+         > Resistência Extensor de Lona (teste técnico comprova capacidade real)
+         > Etiquetas e Costuras das Cintas (demonstra acabamento superior)
+         > Linhas nas Cintas de Amarração (mostra diferencial de costura reforçada)
+         > Jornada da Cinta 1 e 2 (transparência do processo justifica preço)
+         > Conjuntos Pretos MAVE PRO (espessura 2,2mm do gancho, empunhadura ergonômica)
+Argumento sugerido para o agente: O preço reflete a qualidade real do produto. Os testes de resistência
+comprovam capacidade superior (36kg e 63kg em extensores). As costuras reforçadas e ganchos de 2,2mm de
+espessura garantem durabilidade que compensa o investimento. Produto barato que quebra sai mais caro.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+QUALIDADE / DURABILIDADE
+Objeções comuns: Não confio na qualidade | Produto não é resistente | Costura parece fraca | Material é duvidoso
+| Produto durou pouco
+
+Vídeos recomendados:
+
+         > Resistência Extensor de Lona (teste laboratorial com pesos)
+         > Etiquetas e Costuras das Cintas (close-up de acabamento)
+         > Linhas nas Cintas de Amarração (comparação de costuras)
+         > ASMR 40mm MAVE PRO (detalhe premium da catraca)
+         > Jornada da Cinta 1 e 2 (processo de fabricação)
+         > Vida Útil das Cintas (boas práticas de manuseio)
+         > Como Lubrificar Catracas (manutenção preventiva)
+         > Boas Práticas ao Utilizar Catracas (uso correto prolonga vida útil)
+Argumento sugerido para o agente: A MAVE usa matéria-prima de alta qualidade com processo de manufatura
+rigoroso (série Jornada da Cinta). Os testes laboratoriais comprovam resistência real. Se o produto durou pouco,
+pode ser questão de manuseio - temos vídeos educativos sobre uso correto e lubrificação que prolongam
+significativamente a vida útil.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+NECESSIDADE / IMPORTÂNCIA
+Objeções comuns: Não preciso de cinta | Nunca usei e nunca tive problema | É gasto desnecessário | Minha carga
+não precisa de amarração
+
+Vídeos recomendados:
+         > Lei de Amarração de Cargas (obrigatoriedade legal)
+         > Multa Surpresa (risco de multa por fiscalização)
+         > Operação PRF - 1 (fiscalização real em rodovia)
+         > Meta do Ano - Amarrar a Carga (importância da segurança)
+         > Safra da Uva - Episódio 3 (demonstra necessidade em condições adversas)
+Argumento sugerido para o agente: A legislação brasileira OBRIGA a amarração correta de cargas. Fiscalizações da
+PRF são cada vez mais frequentes e a multa é significativa. Além do aspecto legal, carga solta causa acidentes
+graves. O vídeo da Operação PRF mostra fiscalização real. A safra da uva demonstra que até cargas aparentemente
+leves precisam de contenção em condições de vento.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+MARCA DESCONHECIDA
+Objeções comuns: Não conheço a MAVE | Nunca ouvi falar | Ninguém usa essa marca | Não tenho referências
+
+Vídeos recomendados:
+
+         > Apresentação Itens Geral (portfólio completo)
+         > De Carona - Ferragem Farroupilha (case de sucesso real)
+         > De Carona - Postos Squizzato (parceria em posto)
+         > Trilho e Conj Baú - Brazilian Trucker 2 e 3 (influenciador)
+         > Safra da Uva - Episódio 2 (depoimento de cliente de longa data)
+         > Dia do GPTW (empresa reconhecida Great Place to Work)
+         > Produção de Extensores (crescimento de 30% na capacidade)
+Argumento sugerido para o agente: A MAVE é reconhecida como Great Place to Work e tem parcerias de longa
+data com clientes em diversos segmentos (ferragens, postos, agricultura). O crescimento de 30% na produção
+demonstra solidez. Temos depoimentos reais de clientes satisfeitos, incluindo influenciadores do setor de
+transporte.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+DIFICULDADE DE USO
+Objeções comuns: É complicado de usar | Não sei operar a catraca | Muito técnico | Demora muito para amarrar
+
+Vídeos recomendados:
+
+         > Mave na Prática - Catraca Retrátil (tutorial passo a passo)
+         > Catraca Invertida na Prática (facilidade de soltura)
+         > Catraca Tradicional X Invertida (ajuda a escolher o modelo certo)
+         > Boas Práticas ao Utilizar Catracas (uso correto simplificado)
+         > Como Lubrificar Catracas (manutenção simples)
+Argumento sugerido para o agente: Nossos vídeos tutoriais mostram que operar uma catraca MAVE é simples. A
+catraca retrátil tem apenas 3 passos: encaixar, puxar e apertar o botão. A catraca invertida facilita ainda mais a
+soltura. Temos vídeos de passo a passo que qualquer pessoa entende.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+EXPOSIÇÃO E VENDAS NO PDV
+Objeções comuns: Produtos não vendem na minha loja | Não tenho espaço para expor | Não sei como organizar |
+Minha equipe não sabe vender
+Vídeos recomendados:
+
+         > Pontos Quentes da Loja (estratégia de posicionamento)
+         > Materiais de Trade - Arrumando o PDV (organização)
+         > Materiais de Trade - Display de Balcão (espaço limitado)
+         > Arrumando o Expositor (demonstração de layout)
+         > Novos Expositores (visual moderno)
+         > Ação Trade - Acessórios Marques (treinamento in-loco)
+         > Quebra de Objeções (capacitação de vendedores)
+Argumento sugerido para o agente: A MAVE oferece suporte completo de trade marketing: expositores, displays
+de balcão, treinamento de equipe e consultoria de merchandising. O vídeo 'Pontos Quentes' ensina onde
+posicionar produtos para maximizar vendas. A Ação Trade mostra nosso treinamento in-loco para sua equipe.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+ESPECÍFICA POR SEGMENTO - MOTO
+Objeções comuns: Não tem produto para moto | Não consigo prender carga na moto | Produto é só para
+caminhão
+
+Vídeos recomendados:
+
+         > Kit Moto Cinta e Catraca (solução completa)
+         > Kit Moto Esticador (kit com catraca retrátil)
+         > Rede de Motos (contenção específica)
+         > Catraca Retrátil - Moto de Estrada
+         > Catraca Retrátil - Moto de Trilha
+         > Mave na Prática - Bike + Moto
+         > Apresentação Kit Moto
+Argumento sugerido para o agente: Temos linha completa para motos: kit cinta+catraca, kit esticador, redes de
+contenção em várias cores e catracas retráteis testadas em moto de estrada E de trilha. Tudo em embalagem retail
+pronta para venda.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+ESPECÍFICA POR SEGMENTO - AGRICULTURA
+Objeções comuns: Produto não serve para agricultura | Não conheço uso em safra | É genérico demais para meu
+setor
+
+Vídeos recomendados:
+
+         > Safra da Uva - Episódios 1, 2 e 3 (série completa)
+         > Safra da Pluma (criação animal)
+         > Mave na Prática - Medição de Extensores (em vinhedo)
+         > Conjunto Graneleiro 3.000 kg (específico para grãos)
+Argumento sugerido para o agente: Temos produtos específicos para agricultura: Conjunto Graneleiro de 3.000 kg
+para transporte de grãos, redes de contenção para safra de uva e pluma, e extensores medidos especificamente
+para uso em vinhedo. A série Safra da Uva documenta nossa atuação no setor.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+PROGRAMA DE PARCERIA
+Objeções comuns: Não vale a pena ser revendedor | Marca não dá suporte | Programa não tem benefício real
+
+Vídeos recomendados:
+
+         > No Programa Maverar Tem! (benefícios exclusivos)
+         > Você Foi Escolhido - Programa Maverar (exclusividade)
+         > Vídeo Depoimento - Programa Maverar 1 e 2 (prova social)
+         > De Carona - Ferragem Farroupilha (case de sucesso)
+         > Hey Ferragista! (convite para comunidade)
+Argumento sugerido para o agente: O Programa Maverar oferece benefícios exclusivos: expositores gratuitos,
+materiais de trade, treinamento e suporte comercial. Nossos depoimentos mostram resultados reais de parceiros
+satisfeitos. A série 'De Carona' documenta sucesso de revendedores em diferentes segmentos.
+
+──────────────────────────────────────────────────────────────────────────────────────────
+ÍNDICE DE PALAVRAS-CHAVE
+Utilize este índice para localizar rapidamente vídeos por tema. Cada palavra-chave está associada aos vídeos mais
+relevantes.
+
+1.500.000 metros: Operação Prisma - 2
+2,2mm: Como saber se um extensor é realmente bom
+3.000 kg: Apresentação Conjunto Graneleiro 3.000 kg
+40mm: ASMR 40mm MAVE PRO
+5T: Conjuntos Pretos MAVE PRO
+acabamento: Apresentação Extensor de Lona, Etiquetas e Costuras das Cintas
+acessível: Apresentação Conjunto 800 kg
+adventure: Linha PRO, Catraca Retrátil - Downhill
+agilidade: Apresentação Linha Leve
+agricultura: Safra da Uva - Episódio 1, Safra da Uva - Episódio 2, Safra da Pluma
+agrícola: Apresentação Conjunto Graneleiro 3.000 kg
+alcance: Vidente - Ferragens
+alta capacidade: Apresentação Conjunto 10.000 kg (10 ton)
+alto padrão: Apresentação Extensor Premium
+amarração: Apresentação Catraca Fixa, Conj Pretos MAVE PRO - Caminhão, Lei de Amarração de Cargas, Meta do Ano - Amarrar
+a Carga
+ambiente trabalho: Dia do GPTW, The Mave Office 5 - Café
+aplicação: Apresentação Extensor Gancho Duplo
+aplicação prática: Mave na Prática - Medição de Extensores, Mave na Prática - Comac, Safra da Uva - Episódio 1
+apresentação: Arrumando o Expositor
+aquático: Catraca Retrátil - Jet Ski
+ASMR: ASMR 40mm MAVE PRO
+atendimento: Apresentação Linha Leve
+ação: Ação Trade - Acessórios Marques
+balcão: Materiais de Trade - Display de Balcão
+baú: Trilho e Conj Baú - Brazilian Trucker 1
+benefícios: No Programa Maverar Tem!, Você Foi Escolhido - Programa Maverar, Vídeo Depoimento - Programa Maverar
+bicicleta: Catraca Retrátil - Downhill
+bike: Mave na Prática - Bike + Moto
+Black Friday: Black Friday - Promoção, Desenrolados - Preparação Black
+boas práticas: Boas Práticas ao Utilizar Catracas, Vida Útil das Cintas
+botão: Mave na Prática - Catraca Retrátil (Tutorial)
+brand awareness: Se a Mave Fosse um Posto de Gasolina
+branding: Trilho e Conj Baú - Brazilian Trucker 3, Vidente - Ferragens, The Mave Office 5 - Café
+caminhoneiro: Operação PRF - 1, Expositor Postos Marajó
+caminhão: Conj Pretos MAVE PRO - Caminhão, Trilho e Conj Baú - Brazilian Trucker 1
+capacidade: Apresentação Conjunto 5.000 kg, Apresentação Geral Linha Leve, Apresentação Linha de Extensores, Produção de
+Extensores (+4 mais)
+capacidade de carga: Resistência Extensor de Lona
+capacitação: Ação Trade - Acessórios Marques
+carga: Apresentação Toldo de Lona, Apresentação Extensor de Lona, Mave Resolve - Fixar em Palete
+carga fracionada: Apresentação Rede de Contenção
+carga leve: Apresentação Conjunto 800 kg
+carga pesada: Apresentação Conjunto 5.000 kg, Apresentação Conjunto 10.000 kg (10 ton), Içamento de Paletes, Desafio Piva
+carga profissional: Conj Pretos MAVE PRO - Caminhão
+catraca: Apresentação Kit Moto, Novos Modelos Linha Leve, Kit Moto Cinta e Catraca
+catraca fixa: Apresentação Catraca Fixa
+catraca invertida: Apresentação Catraca Invertida, Catraca Invertida na Prática
+catraca retrátil: Conj Pretos MAVE PRO - Caminhão, Catraca Retrátil - Downhill, Catraca Retrátil - Jet Ski, Catraca Retrátil - Moto
+de Estrada (+4 mais)
+catálogo: Apresentação Itens Geral, Apresentação Linha de Extensores
+chuva: Apresentação Toldo de Lona
+cinta: Apresentação Kit Moto, Kit Moto Cinta e Catraca
+cinta branca: Vídeo Cinta Branca
+cinta preta: Novos Modelos Linha Leve
+cintas: Mave Resolve - Respondendo Objeções
+cintas elevação: Novas Etiquetas - Cintas de Elevação
+cliente satisfeito: Trilho e Conj Baú - Brazilian Trucker 2
+cobertura: Apresentação Toldo de Lona
+colheita: Safra da Uva - Episódio 1
+Comac: Mave na Prática - Comac
+comercial: Quebra de Objeções
+como escolher: Como saber se um extensor é realmente bom, Mave na Prática - Medição de Extensores
+compacto: Apresentação Conjunto 800 kg
+comparação: Catraca Tradicional X Invertida
+compliance: Multa Surpresa, Operação PRF - 1
+comunicação: Apresentação Geral Linha Leve
+comunidade: Hey Ferragista!
+condições adversas: Safra da Uva - Episódio 3
+confiabilidade: Os Melhores Produtos, Safra da Uva - Episódio 2, Safra da Uva - Episódio 3
+confiança: Apresentação Linha Leve, Trilho e Conj Baú - Brazilian Trucker 3
+conformidade: Lei de Amarração de Cargas
+conjunto: Black Friday - Promoção
+conjunto 10 toneladas: Apresentação Conjunto 10.000 kg (10 ton)
+conjunto 5.000 kg: Apresentação Conjunto 5.000 kg
+conjunto 800 kg: Apresentação Conjunto 800 kg
+conjunto preto: Conjuntos Pretos MAVE PRO
+conservação: Como Lubrificar Catracas
+contenção: Rede de Motos, Trilho e Conj Baú - Brazilian Trucker 1
+controle: Jornada da Cinta 2
+conveniência: De Carona - Postos Squizzato
+convite: Hey Ferragista!
+cores: Rede para Moto (Display)
+costura: Apresentação Extensor de Lona
+costuras: Etiquetas e Costuras das Cintas, Linhas nas Cintas de Amarração
+credibilidade: Vídeo Depoimento - Programa Maverar
+crescimento 30%: Produção de Extensores
+criatividade: Apresentação Geral Linha Leve, Se a Mave Fosse um Posto de Gasolina, Se a Mave Fosse Uma Distribuidora
+criação animal: Safra da Pluma
+critérios: Como saber se um extensor é realmente bom
+cuidado: Como Lubrificar Catracas, Vida Útil das Cintas
+cultura: Dia do GPTW
+cultura corporativa: The Mave Office 5 - Café
+custo-benefício: Apresentação Conjunto 800 kg
+depoimento: Trilho e Conj Baú - Brazilian Trucker 2, Safra da Uva - Episódio 2, Vídeo Depoimento - Programa Maverar, Vídeo
+Depoimento (Programa Maverar 2)
+desafio: Desafio Piva
+desbravar: Linha PRO
+detalhe técnico: Etiquetas e Costuras das Cintas
+diferencial: Linhas nas Cintas de Amarração
+diferenciação: Apresentação Catraca Invertida, Apresentação Extensor Premium, Nova Embalagem Extensor, Como saber se um
+extensor é realmente bom
+diferenças: Catraca Tradicional X Invertida
+digital: Apresentação do Site, Vídeo Cinta Branca
+display: Rede para Moto (Display), Materiais de Trade - Display de Balcão, Expositor Bello Peças
+disponibilidade: Operação Prisma - 2, Desenrolados - Preparação Black
+distribuidora: Se a Mave Fosse Uma Distribuidora
+distribuição: De Carona - Postos Squizzato
+downhill: Catraca Retrátil - Downhill
+duas rodas: Apresentação Kit Moto, Mave na Prática - Bike + Moto
+dupla amarração: Apresentação Extensor Gancho Duplo
+durabilidade: Apresentação Extensor de Lona, Apresentação Extensor Premium, Extensores (apresentação rápida), Conj Pretos
+MAVE PRO - Caminhão (+6 mais)
+e-commerce: Apresentação do Site
+educação: Como saber se um extensor é realmente bom, Boas Práticas ao Utilizar Catracas, Linhas nas Cintas de Amarração,
+Ação Trade - Acessórios Marques (+1 mais)
+eficiência: Operação Prisma - 2
+elasticidade: Extensores (apresentação rápida)
+elevação: Apresentação Conjunto 10.000 kg (10 ton), Apresentação Elevações, Içamento de Paletes, Mave na Prática - Comac
+embalagem: Trilho e Conj Baú - Brazilian Trucker 3
+embalagem nova: Nova Embalagem Extensor
+empresa: Dia do GPTW
+empresa moderna: The Mave Office 5 - Café
+empunhadura ergonômica: Conjuntos Pretos MAVE PRO
+engajamento: Hey Ferragista!, Se a Mave Fosse um Posto de Gasolina, Dia do GPTW
+entrega: Apresentação Linha Leve
+entregador: Mave na Prática - Bike + Moto
+equipe: Desenrolados - Preparação Black
+ergonomia: Catraca Invertida na Prática
+escala: Operação Prisma - 2
+escalabilidade: Produção de Extensores
+escolha: Catraca Tradicional X Invertida
+esforço: Catraca Invertida na Prática
+espaço: Materiais de Trade - Display de Balcão
+especializado: Apresentação Conjunto Graneleiro 3.000 kg, Apresentação Kit Moto
+especificação: Novas Etiquetas - Cintas de Elevação
+especificação técnica: Resistência Extensor de Lona
+especificações: Conjuntos Pretos MAVE PRO, Mave Resolve - Respondendo Objeções
+especificações técnicas: Apresentação Catraca Fixa
+esticador: Kit Moto Esticador
+estratégia: Pontos Quentes da Loja
+etiqueta: Como saber se um extensor é realmente bom
+etiquetas: Etiquetas e Costuras das Cintas
+etiquetas novas: Novas Etiquetas - Cintas de Elevação
+excelência: Os Melhores Produtos, Jornada da Cinta 2
+exclusividade: Apresentação Extensor Premium, Você Foi Escolhido - Programa Maverar
+exclusivo: No Programa Maverar Tem!
+expositor: Materiais de Trade - Arrumando o PDV, Expositor Bello Peças, Expositor Postos Marajó, Arrumando o Expositor
+expositor novo: Novos Expositores
+exposição: Montando Material de Trade MKT
+extensor: Apresentação Extensor Gancho Duplo, Apresentação Extensor Premium, Apresentando os Extensores, Extensores
+(apresentação rápida) (+1 mais)
+extensor lona: Apresentação Extensor de Lona, Mave na Prática - Comac
+extensores: Apresentação Linha de Extensores, Nova Embalagem Extensor
+extremo: Linha PRO, Catraca Retrátil - Moto de Trilha, Desafio Piva
+facilidade: Apresentação Catraca Invertida, Catraca Invertida na Prática
+ferragem: Expositor Bello Peças, De Carona - Ferragem Farroupilha, Vidente - Ferragens
+ferragista: Hey Ferragista!
+fidelização: No Programa Maverar Tem!
+fiscalização: Multa Surpresa, Operação PRF - 1
+fixação: Apresentação Rede de Contenção, Catraca Retrátil - Moto de Estrada, Trilho e Conj Baú - Brazilian Trucker 1, Mave
+Resolve - Fixar em Palete
+flexibilidade: Apresentando os Extensores
+flexível: Vídeo Toldo
+funcionalidade: Catraca Tradicional X Invertida, Mave na Prática - Catraca Retrátil (Tutorial)
+fábrica: Produção de Extensores, Jornada da Cinta 1
+fácil: Vídeo Toldo
+fácil uso: Mave na Prática - Catraca Retrátil (Tutorial)
+gancho: Apresentação Linha de Extensores
+gancho 2,2mm: Conjuntos Pretos MAVE PRO
+gancho duplo: Apresentação Extensor Gancho Duplo
+gancho J: Apresentação Catraca Fixa, Apresentação Catraca Invertida
+gancho metal: Extensores (apresentação rápida)
+gancho S: Apresentação Catraca Fixa, Apresentação Catraca Invertida
+GPTW: Dia do GPTW
+graneleiro: Apresentação Conjunto Graneleiro 3.000 kg, Safra da Uva (geral)
+granja: Safra da Pluma
+grãos: Apresentação Conjunto Graneleiro 3.000 kg
+humor: Apresentação Geral Linha Leve, Meta do Ano - Amarrar a Carga, Se a Mave Fosse um Posto de Gasolina, Se a Mave
+Fosse Uma Distribuidora
+identificação: Novas Etiquetas - Cintas de Elevação
+impermeável: Apresentação Toldo de Lona
+impulso: Expositor Postos Marajó
+industrial: Apresentação Conjunto 5.000 kg, Apresentação Conjunto 10.000 kg (10 ton), Apresentação Elevações, Mave na
+Prática - Comac
+influenciador: Trilho e Conj Baú - Brazilian Trucker 2
+informações: Apresentação do Site
+inovação: Apresentação Catraca Invertida, Nova Embalagem Extensor, Catraca Invertida na Prática, Novos Modelos Linha Leve
+(+1 mais)
+instalação: Vídeo Toldo
+integrado: Kit Moto Cinta e Catraca
+intempéries: Apresentação Toldo de Lona
+invertida: Catraca Tradicional X Invertida
+investimento: Produção de Extensores
+irregular: Apresentação Rede de Contenção
+içamento: Apresentação Elevações, Içamento de Paletes
+jet ski: Catraca Retrátil - Jet Ski
+jornada: Jornada da Cinta 2
+jornada da cinta: Jornada da Cinta 1
+kit moto: Apresentação Kit Moto, Kit Moto Cinta e Catraca, Kit Moto Esticador
+laboratório: Resistência Extensor de Lona
+lançamento: Nova Embalagem Extensor, Whatsapp - Lançamento MAVE PRO
+layout: Pontos Quentes da Loja, Novos Expositores, Arrumando o Expositor
+legislação: Lei de Amarração de Cargas, Multa Surpresa, Operação PRF - 1
+lei: Lei de Amarração de Cargas
+limitado: Black Friday - Promoção
+linha completa: Apresentação Itens Geral, Apresentação Linha de Extensores
+linha leve: Apresentação Geral Linha Leve, Apresentação Linha Leve, Novos Modelos Linha Leve
+linha PRO: Linha PRO
+linhas: Linhas nas Cintas de Amarração
+logística: Apresentação Conjunto 5.000 kg, Apresentação Elevações, Içamento de Paletes, Mave Resolve - Fixar em Palete (+1
+mais)
+loja: Mave na Prática - Materiais de PDV
+lona: Apresentação Toldo de Lona, Vídeo Toldo
+longevidade: Boas Práticas ao Utilizar Catracas
+longo prazo: Safra da Uva - Episódio 2
+lubrificação: Como Lubrificar Catracas
+malha: Apresentação Rede de Contenção
+manufatura: Jornada da Cinta 2
+manuseio: Boas Práticas ao Utilizar Catracas, Vida Útil das Cintas
+manutenção: Como Lubrificar Catracas, Vida Útil das Cintas
+marca: Se a Mave Fosse um Posto de Gasolina, Se a Mave Fosse Uma Distribuidora
+marketing digital: Whatsapp - Lançamento MAVE PRO
+marketing moderno: ASMR 40mm MAVE PRO
+materiais: Mave na Prática - Materiais de PDV, Vídeo de Uso - Materiais de PDV
+material: Montando Material de Trade MKT
+matéria-prima: Jornada da Cinta 1
+MAVE PRO: ASMR 40mm MAVE PRO, Conjuntos Pretos MAVE PRO, Conj Pretos MAVE PRO - Caminhão, Catraca Retrátil - Jet Ski
+(+2 mais)
+Maverar: No Programa Maverar Tem!, Você Foi Escolhido - Programa Maverar, Vídeo Depoimento - Programa Maverar, Vídeo
+Depoimento (Programa Maverar 2)
+Maverrar: Apresentando os Extensores
+mecanismo: Catraca Tradicional X Invertida
+medição: Mave na Prática - Medição de Extensores
+melhor marca: Os Melhores Produtos
+merchandising: Materiais de Trade - Arrumando o PDV, Mave na Prática - Materiais de PDV, Montando Material de Trade MKT,
+Vídeo de Uso - Materiais de PDV (+3 mais)
+meta: Meta do Ano - Amarrar a Carga
+modernização: Vídeo Cinta Branca
+moderno: Novos Expositores
+montagem: Materiais de Trade - Display de Balcão, Montando Material de Trade MKT
+motivação: Meta do Ano - Amarrar a Carga
+moto: Mave na Prática - Bike + Moto
+moto estrada: Catraca Retrátil - Moto de Estrada
+moto trilha: Catraca Retrátil - Moto de Trilha
+motocicleta: Catraca Retrátil - Moto de Estrada, Rede de Motos
+motoqueiro: Apresentação Kit Moto, Kit Moto Cinta e Catraca
+multa: Lei de Amarração de Cargas, Multa Surpresa
+novo design: Novos Modelos Linha Leve
+objeções: Meta do Ano - Amarrar a Carga, Quebra de Objeções, Mave Resolve - Respondendo Objeções
+obrigatório: Lei de Amarração de Cargas
+off-road: Catraca Retrátil - Moto de Trilha
+operacional: Apresentação Elevações, Içamento de Paletes
+oportunidade: Você Foi Escolhido - Programa Maverar
+organização: Materiais de Trade - Arrumando o PDV, Materiais de Trade - Display de Balcão, Mave na Prática - Materiais de
+PDV, Novos Expositores (+2 mais)
+padronização: Novos Modelos Linha Leve, Novas Etiquetas - Cintas de Elevação
+palete: Apresentação Elevações, Içamento de Paletes, Mave Resolve - Fixar em Palete
+parada: Expositor Postos Marajó
+parceiro: Ação Trade - Acessórios Marques
+parceria: Apresentação Linha Leve, Trilho e Conj Baú - Brazilian Trucker 3, Safra da Uva - Episódio 2, Hey Ferragista! (+5 mais)
+passo a passo: Mave na Prática - Catraca Retrátil (Tutorial), Montando Material de Trade MKT
+PDV: Rede para Moto (Display), Ação Trade - Acessórios Marques, Materiais de Trade - Arrumando o PDV, Materiais de Trade -
+Display de Balcão (+8 mais)
+personalização: Trilho e Conj Baú - Brazilian Trucker 2
+peso: Resistência Extensor de Lona
+plataforma: Apresentação do Site, Vídeo Cinta Branca
+PME: Apresentação Conjunto 800 kg
+ponto de venda: Materiais de Trade - Arrumando o PDV
+pontos quentes: Pontos Quentes da Loja
+portabilidade: Apresentação Conjunto 800 kg
+portfólio: Apresentação Itens Geral, Apresentação do Site
+posicionamento: Os Melhores Produtos, Pontos Quentes da Loja, Se a Mave Fosse Uma Distribuidora
+posto: Expositor Postos Marajó
+posto combustível: De Carona - Postos Squizzato
+praticidade: Apresentação Catraca Invertida, Kit Moto Esticador
+premium: Apresentação Extensor Premium, Apresentando os Extensores, Nova Embalagem Extensor, ASMR 40mm MAVE PRO
+(+2 mais)
+preparação: Desenrolados - Preparação Black
+preservação: Vida Útil das Cintas
+preventiva: Como Lubrificar Catracas
+preço de custo: Black Friday - Promoção
+PRF: Operação PRF - 1
+processo: Jornada da Cinta 1, Jornada da Cinta 2
+produto: Apresentação Geral Linha Leve
+produtor: Safra da Uva - Episódio 2
+produtos diversos: Apresentação Itens Geral
+produção: Produção de Extensores, Jornada da Cinta 1, Jornada da Cinta 2, Operação Prisma - 2
+profissional: Kit Moto Esticador, De Carona - Postos Squizzato, The Mave Office 5 - Café
+programa: Hey Ferragista!, No Programa Maverar Tem!, Você Foi Escolhido - Programa Maverar
+promoção: Vidente - Ferragens, Black Friday - Promoção, Whatsapp - Lançamento MAVE PRO
+proteção: Apresentação Toldo de Lona, Apresentação Extensor de Lona, Vídeo Toldo
+prova: Desafio Piva
+prova social: Trilho e Conj Baú - Brazilian Trucker 2, Vídeo Depoimento (Programa Maverar 2)
+prática: Apresentação Rede de Contenção, Catraca Invertida na Prática
+prático: Mave na Prática - Bike + Moto, Vídeo Toldo, Mave Resolve - Fixar em Palete
+qualidade: Apresentação Catraca Fixa, Os Melhores Produtos, Apresentação Extensor de Lona, Apresentação Extensor Premium
+(+7 mais)
+qualidade fios: Mave Resolve - Respondendo Objeções
+reconhecimento: Hey Ferragista!, Você Foi Escolhido - Programa Maverar, Dia do GPTW
+rede: Vidente - Ferragens
+rede contenção: Apresentação Rede de Contenção, Safra da Uva (geral), Safra da Pluma
+rede moto: Rede para Moto (Display)
+rede motos: Rede de Motos
+redes contenção: Safra da Uva - Episódio 1
+redes sociais: Whatsapp - Lançamento MAVE PRO
+reforço: Linhas nas Cintas de Amarração
+regulamentação: Multa Surpresa
+regulamento: Lei de Amarração de Cargas
+relacionamento: De Carona - Ferragem Farroupilha
+resistência: Apresentação Catraca Fixa, Apresentação Conjunto 5.000 kg, Apresentação Geral Linha Leve, Resistência Extensor
+de Lona (+6 mais)
+resistência extrema: Apresentação Conjunto 10.000 kg (10 ton)
+resposta: Quebra de Objeções
+resultado: Vídeo Depoimento (Programa Maverar 2)
+retail: Rede para Moto (Display)
+revendedor: De Carona - Ferragem Farroupilha, Vídeo Depoimento - Programa Maverar
+rodovia: Operação PRF - 1
+rápido: Extensores (apresentação rápida)
+safra: Apresentação Conjunto Graneleiro 3.000 kg
+safra pluma: Safra da Pluma
+safra uva: Mave na Prática - Medição de Extensores, Safra da Uva - Episódio 1, Safra da Uva - Episódio 2, Safra da Uva - Episódio
+3 (+1 mais)
+sazonal: Desenrolados - Preparação Black
+segmentado: Apresentação Kit Moto
+segurança: Apresentação Conjunto 5.000 kg, Apresentação Elevações, Apresentação Rede de Contenção, Resistência Extensor
+de Lona (+12 mais)
+seleção: Você Foi Escolhido - Programa Maverar
+sensorial: ASMR 40mm MAVE PRO
+sistema completo: Trilho e Conj Baú - Brazilian Trucker 1
+site: Apresentação do Site
+skills: Quebra de Objeções
+solução: Mave Resolve - Fixar em Palete
+solução completa: Kit Moto Cinta e Catraca
+soluções: Apresentação Itens Geral
+storytelling: Se a Mave Fosse um Posto de Gasolina, Se a Mave Fosse Uma Distribuidora
+sucesso: De Carona - Ferragem Farroupilha, Vídeo Depoimento (Programa Maverar 2)
+talha: Mave na Prática - Comac
+tamanho correto: Mave na Prática - Medição de Extensores
+tamanhos: Apresentação Linha de Extensores
+tecnologia: Apresentação do Site, Vídeo Cinta Branca
+temporal: Safra da Uva - Episódio 3
+teste: Resistência Extensor de Lona
+testemunho: Vídeo Depoimento - Programa Maverar
+toldo: Apresentação Toldo de Lona, Vídeo Toldo
+trade: Materiais de Trade - Arrumando o PDV, Materiais de Trade - Display de Balcão, Mave na Prática - Materiais de PDV, De
+Carona - Ferragem Farroupilha
+trade marketing: Ação Trade - Acessórios Marques, Montando Material de Trade MKT
+tradicional: Nova Embalagem Extensor, Catraca Tradicional X Invertida
+transparência: Jornada da Cinta 1
+transporte: Apresentação Conjunto Graneleiro 3.000 kg, Rede de Motos, Vídeo Toldo, Trilho e Conj Baú - Brazilian Trucker 1 (+1
+mais)
+transporte agrícola: Safra da Uva (geral)
+treinamento: Meta do Ano - Amarrar a Carga, Ação Trade - Acessórios Marques, Vídeo de Uso - Materiais de PDV, Arrumando o
+Expositor (+2 mais)
+trilho: Trilho e Conj Baú - Brazilian Trucker 1
+trilho baú: Trilho e Conj Baú - Brazilian Trucker 2, Trilho e Conj Baú - Brazilian Trucker 3
+tutorial: Como Lubrificar Catracas, Mave na Prática - Catraca Retrátil (Tutorial), Vídeo de Uso - Materiais de PDV
+técnicas de venda: Quebra de Objeções
+técnico: Apresentação Extensor Gancho Duplo
+urgência: Black Friday - Promoção
+uso correto: Boas Práticas ao Utilizar Catracas
+uso extremo: Catraca Retrátil - Downhill
+valor agregado: Kit Moto Esticador
+valores: Dia do GPTW
+varejo: Apresentação Linha Leve, Kit Moto Cinta e Catraca, Vídeo de Uso - Materiais de PDV, Expositor Bello Peças (+3 mais)
+variedade: Apresentação Itens Geral, Apresentação Linha de Extensores, Apresentando os Extensores, Rede para Moto (Display)
+vendas: Meta do Ano - Amarrar a Carga, Pontos Quentes da Loja, Vídeo Depoimento (Programa Maverar 2)
+vendedor: Ação Trade - Acessórios Marques, Quebra de Objeções
+vento: Safra da Uva - Episódio 3
+versatilidade: Apresentação Extensor Gancho Duplo, Catraca Retrátil - Jet Ski, Safra da Pluma
+versátil: Mave na Prática - Bike + Moto
+viagem: Catraca Retrátil - Moto de Estrada
+vibração: Catraca Retrátil - Moto de Trilha
+vida útil: Vida Útil das Cintas
+vinhedo: Safra da Uva - Episódio 1
+viral: ASMR 40mm MAVE PRO, Se a Mave Fosse um Posto de Gasolina
+visibilidade: Vidente - Ferragens
+visita: De Carona - Ferragem Farroupilha
+visual: Materiais de Trade - Arrumando o PDV, Novos Expositores, Expositor Bello Peças
+volume: Produção de Extensores, Trilho e Conj Baú - Brazilian Trucker 3, Operação Prisma - 2, Black Friday - Promoção (+1 mais)
+warehouse: Apresentação Elevações
+WhatsApp: Extensores (apresentação rápida), Whatsapp - Lançamento MAVE PRO
+

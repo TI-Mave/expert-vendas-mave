@@ -1,0 +1,1365 @@
+  CATALOGO DE IMAGENS - AGENTE DE VENDAS MAVE
+
+
+INSTRUCOES PARA O AGENTE DE IA
+Este documento e um banco de dados visual completo para auxiliar vendedores Mave a encontrar imagens de produtos,
+campanhas e materiais corporativos.
+
+COMO USAR ESTE CATALOGO
+
+CENARIO 1: VENDEDOR PROCURA IMAGENS POR PALAVRA-CHAVE
+• Exemplo: "Me manda imagens de catraca"
+• Acao: Procure no indice de palavras-chave por "catraca"
+• Resposta: Retorne TODAS as secoes e caminhos de arquivo que contenham essa palavra-chave
+• Formato: Sempre forneca o caminho completo comecando com `MARKETING/`
+CENARIO 2: VENDEDOR APRESENTA OBJECAO DO CLIENTE
+• Exemplo: "Cliente disse que e muito caro"
+• Acao: Procure a coluna "Objecoes que contorna" em cada secao
+• Resposta: Identifique quais imagens e secoes abordam essa objecao especifica
+• Explicacao: Descreva COMO usar a imagem para neutralizar a objecao
+• Exemplo pratico: "Use as imagens do Lancamento 1500kg que mostram fotos profissionais de estudio para demonstrar qualidade
+premium e acabamento impecavel"
+CENARIO 3: VENDEDOR QUER TODAS AS IMAGENS DE UM TEMA
+• Exemplo: "Quero material de trade marketing"
+• Acao: Localize a secao correspondente
+• Resposta: Liste TODOS os arquivos da secao com caminhos completos
+
+REGRAS IMPORTANTES
+
+1. Sempre retorne caminhos completos comecando com `MARKETING/`
+2. Nunca omita imagens - se o vendedor pedir um tema, retorne TODAS as imagens daquele tema
+3. Combine secoes relacionadas quando apropriado (ex: promocoes + descontos)
+4. Explique o valor comercial de cada imagem no contexto da objecao ou necessidade
+5. Use o indice de palavras-chave no final para buscas rapidas
+         1. FOTOS CORPORATIVAS DA EQUIPE
+         Quantidade: 15 imagens
+         Uso comercial: Institucional, credibilidade em apresentacoes, pagina "sobre nos", demonstracao de cultura empresarial
+         Palavras-chave da secao: corporativo | equipe | galpao | estrutura | profissional | confianca | uniformes | instalacoes |
+         industria
+         Objecoes que contorna:
+         • "Nao conheco a Mave" → Mostre que a empresa tem +30 funcionarios em uniforme profissional em galpao industrial moderno
+         • "Marca desconhecida / empresa pequena" → Apresente o galpao industrial com estrutura metalica, caixas logisticas coloridas, pilares e
+         iluminacao LED
+         • "Nao confio na empresa" → Demonstre organizacao, profissionalismo e capacidade produtiva visivel
+         Como usar: Utilize estas fotos em apresentacoes iniciais, website, LinkedIn e redes sociais para criar percepcao de solidez
+         e confiabilidade.
+Descricao Detalhada                                                           Palavras-chave
+
+Foto de grande grupo de funcionarios reunidos no interior de galpao industrial equipe          galpao                    grupo-grande              industria
+amplo com pilares, iluminacao LED, caixas amarelas e azuis empilhadas nas
+laterais
+Equipe completa em uniforme preto alinhada em galpao com estrutura            equipe           galpao                    estrutura                 armazenamen
+metalica de armazenamento e caixas de produtos empilhadas
+Equipe posicionada para foto corporativa no galpao com caixas logisticas      equipe           logistica                 galpao                    operacoes
+coloridas em primeiro plano, demonstrando operacoes ativas
+Funcionarios em uniforme preto em galpao mostrando estrutura de               equipe           galpao                    armazenamento             estrutura
+armazenamento e racks metalicos
+Grupo de aproximadamente 30 funcionarios em galpao com caixas coloridas       equipe           galpao                    volume                    producao
+visiveis ao fundo, transmitindo volume operacional
+Equipe de funcionarios em uniforme escuro posada no interior do galpao para equipe             uniforme                  corporativo               profissional
+foto corporativa formal
+Equipe em galpao industrial para foto corporativa com estruturas de           equipe           galpao                    logistica                 corporativo
+armazenamento e sistema de boxes logisticos
+Aproximadamente 30 pessoas em uniforme escuro em galpao com piso              equipe           galpao                    organizacao               profissional
+cinzento e estrutura organizada
+Grupo de 6 homens em camisetas pretas em galpao industrial com colunas        equipe-pequena   galpao                    uniforme                  profissional
+cinzas e verdes, paredes de tijolos, iluminacao natural
+Equipe de 6 homens em uniforme preto/azul em galpao industrial com            equipe-pequena   galpao                    uniforme                  estrutura
+estrutura de fundo
+Grupo de 6 homens em uniforme preto com estrutura metalica e organizacao      equipe-pequena   uniforme                  galpao                    estrutura-meta
+visivel ao fundo
+Equipe de 6 homens em uniforme preto posada em interior de galpao para        equipe-pequena   galpao                    corporativo               uniforme
+foto corporativa
+Grupo de 6 homens em uniforme preto/azul em galpao industrial com caixas      equipe-pequena   uniforme                  galpao                    profissional
+ao fundo
+Equipe de 6 homens em uniforme escuro em galpao para foto corporativa         equipe-pequena   corporativo               uniforme                  galpao
+demonstrando profissionalismo
+Grupo de 6 homens em uniforme preto com maquinas de producao ao fundo,        equipe-pequena   producao                  maquinas                  uniforme
+demonstrando estrutura produtiva
+               2. CARDS INSTAGRAM - PRODUTOS PRINCIPAIS
+               Quantidade: 15 imagens
+               Uso comercial: Catalogo digital, redes sociais (Instagram/Facebook), apresentacoes comerciais, compartilhamento via
+               WhatsApp. Visao geral do portfolio Mave.
+               Palavras-chave da secao: Instagram | card | catalogo | produtos | catraca | cinta | extensor | conjunto | especificacoes |
+               tecnico | visual
+               Objecoes que contorna:
+               • "Nao conheco os produtos" → Apresentar catalogo visual completo de toda linha
+               • "Quais sao as opcoes?" → Mostrar variedade de produtos: catracas, cintas, extensores, conjuntos
+               • "Qual a diferenca entre modelos?" → Cards com especificacoes tecnicas e visuais de cada tipo
+               Como usar: Compartilhe via WhatsApp e Instagram. Use em apresentacoes iniciais para mostrar amplitude de portfolio.
+               Cada card e independente e pode ser enviado individualmente.
+      Descricao Detalhada                                                             Palavras-chave
+
+      Card laranja Mave mostrando Catraca Fixa 10 Toneladas com Chapa Pintura         catraca-fixa        100mm           10-toneladas         epoxi
+      Epoxi Preta. Destaca: Aco Carbono (duravel), Cortes a Laser (acabamento
+      impecavel), Pintura Epoxi (resistencia quimica e corrosao)
+      Card Catraca Fixa Zincada 50mm ressaltando resistencia a corrosao,              catraca-fixa        zincada         50mm                 corrosao
+      material duravel para ambientes agressivos
+      Card Catraca Fixa 50mm padrao em laranja com detalhes tecnicos e                catraca-fixa        50mm            especificacoes       card
+      especificacoes de funcionamento
+      Card Catraca Invertida 5 toneladas em cores laranja e azul mostrando design catraca-invertida       5-toneladas     capacidade           design
+      reverso, capacidade de carga e especificacoes
+      Card mostrando sistema de Cintas de Elevacao com cores variadas por             cinta               elevacao        cores                tonelagem
+      tonelagem (1T a 10T) e fator de seguranca 7:1
+      Card Conjunto 10 toneladas mostrando sistema completo com cores,                conjunto            10-toneladas    capacidade           sistema
+      capacidades de elevacao/cesta e especificacoes
+      Card Conjunto Compacto 5 toneladas destacando design otimizado para             conjunto-compacto   5-toneladas     compacto             portatil
+      espaco reduzido e portabilidade
+      Card Conjunto Premium 5 toneladas mostrando ganchos reforcados e                conjunto-premium    5-toneladas     ganchos-reforcados   acabamento
+      acabamento premium
+      Card Conjunto Sider 50mm para implementos rodoviarios, especificacoes           Sider               conjunto        50mm                 implementos-r
+      tecnicas e contexto de uso
+      Card laranja Mave "Extensores Elasticos - Maior produtor do Brasil!" com        extensores          duplo-premium   cromado              protecao-UV
+      gancho metal prata, elastico 6mm, ganchos temperados e zincados, interior
+      latex com polipropileno, protecao UV, suporta +30kg
+      Card Extensores com Gancho de Metal polido e brilhante, design robusto e        extensores          gancho-metal    polido               robusto
+      seguro
+      Card Extensores de Lona com interior em latex e protecao UV, product shot       extensores          lona            latex                protecao-UV
+      profissional
+      Card cinza-escuro "Cinta e Catraca para Amarracao - Linha Leve" com             Linha-Leve          leveza          poliester            ganchos-bime
+      produto cinza e detalhes azuis. Destaca: Cinta 100% Poliester, Flexibilidade,
+      Resistencia, Ganchos Bimetalicos
+      Card Essencial formato A4 mostrando produtos principais de catalogo em          essencial           A4              catalogo             grid
+png   grid visual organizado
+      Card Essencial formato A4 mostrando produtos complementares e variacoes, essencial                  A4              complementar         variacoes
+png   visual estruturado
+                 3. CARDS INSTAGRAM - CINTAS DE ELEVACAO
+                 Quantidade: 28 imagens (14 originais + 14 duplicatas em subpasta)
+                 Uso comercial: Vendas tecnicas especializadas, apresentacoes para ferragens e lojas tecnicas. Abordagem com foco em
+                 seguranca e normatizacao.
+                 Palavras-chave da secao: cinta-elevacao | tonelagem | cores | seguranca | 7:1 | NBR | tecnico | capacidade |
+                 fator-seguranca | Instagram | card
+                 Objecoes que contorna:
+                 • "Nao sei qual capacidade preciso" → Mostrar sistema de cores por tonelagem (violeta=1T, verde=2T, amarela=3T, cinza=4T,
+                 vermelha=5T, marrom=6T, azul=8T, laranja=10T)
+                 • "Sao todas iguais" → Demonstrar diferencas claras em cores, largura de fita, capacidades especificas
+                 • "Nao confio na seguranca" → Apresentar fator de seguranca 7:1, conformidade NBR, capacidades testadas e certificadas
+                 Como usar: Use cards individuais para explicar tonelagem especifica quando cliente questiona capacidade. Flyer completo
+                 para apresentacao geral do sistema. Ideal para ferragens e lojas tecnicas.
+       Descricao Detalhada                                                           Palavras-chave
+
+d      Card Instagram mostrando cinta de elevacao azul-claro enrolada com alcas      cinta            cores                   tonelagem       sistema
+       purpura/magenta, titulo "Cintas de Elevacao" com destaque laranja,
+       diferenciais e vantagens
+d      Card mostrando capacidade vertical e em cesta para cada tonelagem, tabela     cinta            capacidade              vertical        cesta
+       comparativa clara
+d      Card configuracoes de uso das cintas e capacidades correspondentes em         cinta            uso                     configuracoes   capacidade
+       diferentes posicoes
+d      Card com cores disponiveis destacadas e explicacao de fator de seguranca      cinta            cores                   fator-7-1       seguranca
+       7:1
+d      Card apresentacao geral capacidades diferentes formatos e configuracoes de cinta               capacidade              formatos        visao-geral
+       cintas
+er     Flyer tabular completo especificando cada cinta por cor, tonelagem,           cinta            flyer                   tabela          especificacao
+       dimensao e capacidade em diferentes configuracoes
+delo   Card laranja detalhado: Cinta Violeta 1 tonelada 30mm. Fator seguranca 7:1.   cinta            1-tonelada              violeta         30mm
+       Capacidades: Vertical 1000kg, Forca 800kg, Cesto 2000kg, Cesto 45 graus
+       1400kg, Cesto 60 graus 1000kg. Comprimentos 1m a 8m
+delo   Card Cinta Verde 2 toneladas 60mm de largura com capacidades em               cinta            2-toneladas             verde           60mm
+       diferentes configuracoes
+delo   Card Cinta Amarela 3 toneladas 90mm de largura, especificacoes de             cinta            3-toneladas             amarela         90mm
+       seguranca
+delo   Card Cinta Cinza 4 toneladas 120mm de largura com especificacoes              cinta            4-toneladas             cinza           120mm
+
+
+delo   Card Cinta Vermelha 5 toneladas 150mm de largura, capacidade maxima           cinta            5-toneladas             vermelha        150mm
+       padrao popular
+delo   Card Cinta Marrom 6 toneladas 180mm de largura com especificacoes             cinta            6-toneladas             marrom          180mm
+
+
+delo   Card Cinta Azul 8 toneladas 240mm de largura para cargas pesadas              cinta            8-toneladas             azul            240mm
+
+
+delo   Card Cinta Laranja 10 toneladas 300mm de largura maxima capacidade com        cinta            10-toneladas            laranja         300mm
+       especificacoes
+tas    (Duplicata) Card sistema cores tonelagem cintas de elevacao                   cinta            cores                   tonelagem       duplicado
+
+
+tas    (Duplicata) Card capacidade vertical e cesta                                  cinta            capacidade              duplicado       tabela
+
+
+tas    (Duplicata) Card configuracoes uso                                            cinta            configuracoes           duplicado       uso
+
+
+tas    (Duplicata) Card cores e fator 7:1                                            cinta            cores                   fator-7-1       duplicado
+
+
+tas    (Duplicata) Card apresentacao geral                                           cinta            visao-geral             duplicado       card
+
+
+tas    (Duplicata) Flyer especificacao completa                                      cinta            flyer                   tabela          duplicado
+
+
+tas    (Duplicata) 1T violeta                                                        cinta            1-tonelada              violeta         duplicado
+
+
+tas    (Duplicata) 2T verde                                                          cinta            2-toneladas             verde           duplicado
+
+
+tas    (Duplicata) 3T amarela                                                        cinta            3-toneladas             amarela         duplicado
+
+
+tas    (Duplicata) 4T cinza                                                          cinta            4-toneladas             cinza           duplicado
+
+
+tas    (Duplicata) 5T vermelha                                                       cinta            5-toneladas             vermelha        duplicado
+      Descricao Detalhada       Palavras-chave
+
+tas   (Duplicata) 6T marrom     cinta            6-toneladas    marrom    duplicado
+
+
+tas   (Duplicata) 8T azul       cinta            8-toneladas    azul      duplicado
+
+
+tas   (Duplicata) 10T laranja   cinta            10-toneladas   laranja   duplicado
+               4. CARDS INSTAGRAM - EXPOSITOR E PDV
+               Quantidade: 38 imagens
+               Uso comercial: Trade marketing, vendas B2B, suporte a clientes que possuem expositores. Materiais de ponto de venda
+               (PDV) para impulsionar vendas no varejo.
+               Palavras-chave da secao: expositor | PDV | trade-marketing | varejo | display | merchandising | ponto-de-venda | aramado |
+               balcao | cliente-real | foto-instalado | adesivo | card | aumento-vendas
+               Objecoes que contorna:
+               • "Produtos nao vendem na minha loja" → Mostrar fotos de clientes reais com expositor instalado vendendo Mave
+               • "Nao tenho espaco" → Apresentar expositores em diferentes tamanhos (Aramado 158x55x49cm, Balcao 50x25x50cm)
+               • "Nao sei organizar o PDV" → Fornecer materiais prontos (adesivos, cards, cartazes) e exemplos de instalacao real
+               • "Expositor e caro" → Destacar retorno em vendas comprovado por clientes
+               Como usar: Apresente fotos de clientes reais com expositor vendendo. Ofereca pacote completo de materiais (adesivos,
+               cartazes). Mostre dimensoes dos expositores. Evidencie feedback positivo e aumento de vendas de clientes.
+      Descricao Detalhada                                                           Palavras-chave
+
+s     Card tecnico laranja mostrando Expositor Aramado com dimensoes: 158cm         expositor        aramado                   medidas          158x55x45
+      altura x 55cm largura x 45cm profundidade. Estrutura metalica branca com
+      prateleiras exibindo produtos Mave laranja e amarelos
+s     Card especificando dimensoes do Expositor de Balcao compacto para lojas       expositor        balcao                    medidas          dimensoes
+      menores
+vo    Foto profissional de estudio do expositor metalico branco com 4 prateleiras   expositor        novo                      design           estudio
+      em parede laranja, contendo extensores de varias cores (vermelho, preto,
+      laranja) e cintas de elevacao
+or    Foto expositor Mave instalado em cliente EVIDENCIA mostrando vendas           expositor        cliente-real              EVIDENCIA        vendas
+      reais em operacao
+or    Foto expositor com anuncio/sinalizacao em cliente, demonstrando destaque      expositor        cliente                   anuncio          visibilidade
+      e visibilidade no PDV
+or    Foto expositor Mave em cliente BM ACESSORIOS com produtos bem                 expositor        cliente-real              BM-ACESSORIOS    organizacao
+      organizados e visuais
+or    Foto expositor branco em BRAMBILA com prateleiras exibindo produtos           expositor        cliente-real              BRAMBILA         acessorios
+      Mave em embalagens laranja e pretas, preco R$12 visivel, parede laranja
+or    Foto expositor primeira unidade EUROTEC mostrando produtos Mave em            expositor        cliente-real              EUROTEC          primeira
+      destaque
+or    Foto expositor segunda unidade EUROTEC demonstrando replicacao de             expositor        cliente-real              EUROTEC          segunda
+      sucesso em multiplas lojas
+or    Foto expositor em ITINGA ACESSORIOS mostrando presenca forte em               expositor        cliente-real              ITINGA           presenca
+      ponto de venda
+or    Foto expositor em L F CLAUDIO com organizacao e apresentacao clara de         expositor        cliente-real              L-F-CLAUDIO      organizacao
+      produtos
+or    Foto expositor em MARINELLO ACESSORIOS mostrando integracao em                expositor        cliente-real              MARINELLO        varejo
+      ambiente comercial
+or    Foto expositor Mave em loja propria/matriz demonstrando setup ideal           expositor        MAVE                      proprio          ideal
+
+
+or    Foto expositor em NORTAO AGROFERRAGENS com produtos em destaque expositor                      cliente-real              NORTAO           destaque
+peg   no varejo
+or    Foto expositor em PALLATINUS mostrando vendas ativas e presenca forte         expositor        cliente-real              PALLATINUS       presenca
+
+
+or    Foto expositor em PASSINI com produtos bem organizados e acessiveis           expositor        cliente-real              PASSINI          organizacao
+
+
+or    Foto expositor Posto Aldo em evento/feira demonstrando flexibilidade de uso   expositor        cliente-real              POSTO-ALDO       feira
+
+
+or    Foto expositor em Posto Aldo mostrando vendas em ambiente de                  expositor        cliente-real              POSTO-ALDO       combustivel
+      combustiveis
+or    Foto expositor em Posto Coqueiro mostrando integracao em PDV de               expositor        cliente-real              POSTO-COQUEIRO   combustivel
+      combustivel
+or    Foto expositor em SANTA CANDIDA CARRETINHAS com apresentacao                  expositor        cliente-real              SANTA-CANDIDA    profissional
+      profissional de produtos
+
+
+or    Foto feedback de cliente ISACAMARA mostrando satisfacao e resultado com       expositor        feedback                  ISACAMARA        satisfacao
+      expositor
+or    Foto feedback de cliente MINIKEL evidenciando aumento de vendas com           expositor        feedback                  MINIKEL          aumento-vend
+      expositor
+      Adesivo circular branco com logo Mave preto, imagem de cinta e catraca,       material         adesivo                   carga-segura     marca
+      texto "Carga Segura, Va de Mave!" para aplicacao em superficies
+      Adesivo variacao 2 para expositor com mensagem comercial Mave                 material         adesivo                   variacao         design
+
+
+      Adesivo variacao 3 para expositor com chamada de venda e beneficios           material         adesivo                   venda            beneficios
+Descricao Detalhada                                                           Palavras-chave
+
+Adesivo variacao 4 opcao adicional de sinalizacao para expositor              material         adesivo   sinalizacao   visual
+
+
+Card de Instagram para expositor sobre produto 1                              material         card      Instagram     produto
+
+
+Card de Instagram para expositor sobre produto 2                              material         card      Instagram     produto
+
+
+Card de Instagram para expositor sobre produto 3                              material         card      Instagram     produto
+
+
+Cartaz A3 laranja dividido em duas secoes com cinta vermelha e catraca na     material         cartaz    A3            grande
+parte superior e cinta verde na inferior. Texto "Carga Segura, Va de Mave!"
+em branco. Design impactante para PDV
+Cartaz A3 variacao 2 para maior impacto visual no ponto de venda              material         cartaz    A3            variacao
+
+
+Cartaz A3 variacao 3 terceira opcao de comunicacao visual                     material         cartaz    A3            variacao
+
+
+Cartaz A4 opcao 1 tamanho medio para expositor ou parede proxima              material         cartaz    A4            medio
+
+
+Cartaz A4 variacao 2 de design                                                material         cartaz    A4            variacao
+
+
+Cartaz A4 variacao 3                                                          material         cartaz    A4            variacao
+
+
+Stories para Instagram 1080x1920 opcao 1 sobre expositor                      material         stories   Instagram     1080x1920
+
+
+Stories Instagram opcao 2 para redes sociais                                  material         stories   Instagram     1080x1920
+
+
+Stories Instagram opcao 3                                                     material         stories   Instagram     1080x1920
+          5. CARDS INSTAGRAM - FLYER PRODUTOS POR SEGMENTO
+          Quantidade: 12 imagens
+          Uso comercial: Abordagem comercial segmentada. Cada flyer e customizado para tipo especifico de cliente (motos, auto
+          pecas, e-commerce, ferragens, agricola, EPI, construcao, combustivel, acessorios, transportadoras, implementos
+          rodoviarios).
+          Palavras-chave da secao: flyer | segmentado | segmento | moto | auto-pecas | e-commerce | ferragem | agricola | EPI |
+          construcao | gasolina | combustivel | acessorio | transportadora | implementos-rodoviarios
+          Objecoes que contorna:
+          • "Seu produto nao serve para meu segmento" → Mostrar flyer especifico que comprova presenca Mave no exato segmento do cliente
+          • "Nao e para minha loja" → Apresentar exemplos de lojas similares usando Mave com sucesso
+          • "Nao conheco aplicacao para meu negocio" → Flyer mostra quais produtos da Mave se aplicam a cada tipo de negocio
+          Como usar: Identifique segmento do cliente. Envie flyer especifico mostrando que Mave ja atua naquele mercado. Use como
+          ponte entre apresentacao geral e discussao de produtos especificos.
+Descricao Detalhada                                                           Palavras-chave
+
+Card laranja com fundo cinza mostrando produtos Mave para motos: rede         moto                      segmento      flyer                rede-moto
+para moto, catraca retratil, kit moto e extensores com dois ganchos. Inclui
+logos redes sociais e contato
+Flyer para loja de auto pecas mostrando catalogo Mave com produtos para       auto-pecas                segmento      flyer                veiculo
+veiculos e implementos
+Card e-commerce mostrando catraca retratil e conjuntos Mave para vendas       e-commerce                digital       varejo-online        catraca-retrati
+online com foto de produtos
+Flyer laranja para ferragens com categorias: cinta+catraca amarracao (4       ferragem                  segmento      flyer                tecnico
+capacidades 800kg a 3000kg), cintas elevacao roxas, extensores em cores
+variadas
+Catalogo visual completo de todos produtos Mave em grid estruturado, visao    catalogo                  completo      visao-geral          produtos
+geral portfolio
+Flyer para lojas de implementos rodoviarios mostrando produtos Mave para      implementos-rodoviarios   segmento      flyer                sider
+setor rodoviario/sider
+Flyer para lojas agricolas mostrando produtos Mave para agronegocio, safra,   agricola                  segmento      flyer                agronegocio
+maquinas agricolas
+Flyer para lojas de EPI/protecao mostrando produtos Mave como                 EPI                       segmento      flyer                protecao
+equipamento de protecao e seguranca
+Flyer para lojas de materiais de construcao mostrando produtos Mave para      construcao                segmento      flyer                construcao-civ
+construcao civil
+Flyer para postos de gasolina/combustivel mostrando produtos Mave             combustivel               gasolina      posto                segmento
+adequados para PDV combustivel
+Flyer para revenda de acessorios mostrando variedade Mave para loja de        acessorio                 revenda       segmento             flyer
+acessorios diversos
+Flyer para transportadoras mostrando produtos Mave para logistica,            transportadora            logistica     segmento             flyer
+carregamento, seguranca de carga
+                    6. CARDS INSTAGRAM - GUIAS, KIT MOTO, LOGO, MAVE PRO, TOLDOS,
+                    TRILHO, REDES E PRODUCAO
+                    Quantidade: 30 imagens
+                    Uso comercial: Diversos - guias tecnicos, kits tematicos, logos, produtos especializados (Mave PRO, toldos, trilhos, redes
+                    de contencao), comunicacao da producao interna.
+                    Palavras-chave da secao: guia | kit-moto | logo | Mave-PRO | toldo | trilho | rede | rede-moto | rede-contencao | producao |
+                    tecnico | card | lancamento | retratil
+                    Objecoes que contorna:
+                    • "Mave so tem catraca e cinta" → Demonstrar amplitude de portfolio: toldos, trilhos, redes, kit moto, extensores, linha PRO
+                    • "Nao tem produto premium" → Apresentar linha Mave PRO com ganchos bicromatizados, empunhadura emborrachada, acabamento preto
+                    premium
+                    • "Preciso de solucao para moto" → Mostrar Kit Moto completo (estojo, catraca, cintas, ganchos, 800kg) e Rede para Moto
+                    • "Produto nao e fabricado aqui" → Fotos de producao comprovam fabricacao interna
+                    Como usar: Use cards especificos conforme oportunidade. Guias tecnicos para questoes de funcionamento. Kit Moto para
+                    vender bundle. Mave PRO para clientes premium. Redes para clientes que precisam contencao/seguranca. Fotos de
+                    producao para demonstrar que e feito internamente.
+          Descricao Detalhada                                                             Palavras-chave
+
+          Tabela informativa com fundo branco e bordas laranja mostrando                  guia             conjunto                    especificacao   tabela
+          especificacoes tecnicas de conjuntos Mave: capacidades (1500kg a
+          10000kg), comprimentos padrao, larguras em mm, tipos de ganchos
+          disponiveis e cores
+          Guia de referencia para cintas de elevacao com especificacoes por               guia             elevacao                    especificacao   cores
+          tonelagem e cor
+          Infografico laranja Kit Moto Mave: estojo, catraca, cintas, ganchos, gancho     kit-moto         moto                        800kg           bundle
+          mosquete. Suporte 800kg, dois tipos de fixacao, icones ilustrativos
+          Kit Moto variacao 2 com informacoes complementares sobre componentes            kit-moto         moto                        variacao        bundle
+          Kit Moto variacao 3 terceira composicao visual do kit tematico moto             kit-moto         moto                        bundle          variacao
+o.png     Logo Mave versao branca para fundos escuros                                     logo             branco                      marca           identidade-vis
+
+          Logo Mave versao laranja e branco                                               logo             laranja-branco              marca           identidade-vis
+
+
+          Logo Mave: palavra "Mave" em preto dentro de retangulo arredondado com          logo             laranja-preto               marca           identidade-vis
+          borda laranja em fundo branco
+ [.png Logo Mave versao totalmente laranja                                                logo             laranja                     marca           identidade-vis
+
+png       Logo Mave versao preta para fundos claros                                       logo             preto                       marca           identidade-vis
+
+etrátil   Folder da Catraca Retratil Mave Pro com especificacoes tecnicas e               Mave-PRO         catraca-retratil            folder          premium
+          diferenciais premium
+s-        Card cinza escuro lancamento Mave PRO: cinta e catraca em preto com             Mave-PRO         conjunto-preto              premium         bicromatizado
+          detalhes azuis. Ganchos bicromatizados, empunhadura emborrachada, cinta
+          100% poliester, aco carbono
+s-        Card Mave PRO variacao 2 conjunto preto com detalhes tecnicos adicionais        Mave-PRO         conjunto-preto              premium         variacao
+
+
+s-        Card Mave PRO variacao 3 angulo diferente do conjunto preto                     Mave-PRO         conjunto-preto              premium         variacao
+
+
+s-        Card Mave PRO variacao 4 detalhe de componentes premium                         Mave-PRO         conjunto-preto              premium         detalhe
+
+
+s-        Post Instagram Mave PRO para publicacao em redes sociais                        Mave-PRO         Instagram                   post            premium
+
+
+ -        Card com ceu azul e paisagem: "MAVE PRO LINHA LEVE - CINTA +                    Mave-PRO         Linha-Leve                  1500kg          35mm
+          CATRACA 1.500kg - LANCAMENTO". Cinta preta com detalhe azul, selo
+          PRODUTO EXCLUSIVO
+          Card cinza aviso importante sobre extensores personalizados. Prazo              producao         extensores                  prazo           personalizado
+          producao 15-20 dias. Mostra 5 extensores com ganchos em
+          cinza/preto/amarelo/vermelho/azul
+          Status WhatsApp producao de extensores formato vertical 1080x1920               producao         extensores                  status          WhatsApp
+
+
+          Card laranja "LANCAMENTO - REDE PARA MOTO" com texto "Garanta                   rede-moto        lancamento                  moto            transporte
+          versatilidade e eficiencia no seu transporte!" Mostra rede preta instalada em
+          moto. Chamada "CONSULTE O SEU VENDEDOR!"
+          Card Rede para Moto variacao 2 com angulo diferente                             rede-moto        moto                        variacao        transporte
+
+          Card Rede para Moto variacao 3 terceira opcao visual                            rede-moto        moto                        variacao        contencao
+
+          Card laranja "LANCAMENTO - TOLDO DE LONA" com toldo preto/cinza.                toldo            lancamento                  lona            protecao-UV
+          Icones: garantia, material qualidade, protecao chuva/raios UV
+        Descricao Detalhada                                                               Palavras-chave
+
+        Card Toldo variacao 2 com detalhes adicionais                                     toldo            lona         variacao        protecao
+
+        Card Toldo variacao 3 terceira opcao visual                                       toldo            lona         variacao        cobertura
+
+        Card especifico Toldo de Lona Azul com especificacoes                             toldo            lona-azul    especificacao   cor
+
+
+        Card especifico Toldo de Lona Preto com especificacoes                            toldo            lona-preto   especificacao   cor
+
+
+1.png   Card laranja Trilho e Conjunto Bau com componentes laranjas e azuis.              trilho           bau          versatilidade   encaixe
+        Destaca: versatilidade, facil encaixe, eficiencia. 3 fotos detalhes de instalacao
+2.png   Card Trilho variacao 2 com informacoes complementares                             trilho           bau          variacao        instalacao
+
+        Card lancamento Linha Bau com especificacoes e chamada comercial                  trilho           bau          lancamento      linha-bau
+                 7. CARDS PROMOCOES DO MES
+                 Quantidade: 23 imagens
+                 Uso comercial: Campanhas mensais, ofertas variaveis, promocoes rotativas. Mantem portfolio de venda sempre fresco com
+                 novas ofertas.
+                 Palavras-chave da secao: promocao | mes | card | desconto | oferta | mensal | variavel | venda | Meta-Ads | stories |
+                 WhatsApp | safra | pluma | extensor | Mave-PRO | catraca-invertida
+                 Objecoes que contorna:
+                 • "Seus precos sao sempre iguais?" → Mostrar que ha promocoes diferentes mensais
+                 • "Preciso de oferta especial" → Cards de promocao do mes podem ser customizados para clientes
+                 • "Nao tem novidade" → Promocoes rotativas demonstram dinamismo comercial
+                 Como usar: Selecione card do mes correspondente. Compartilhe via WhatsApp, Meta Ads, stories. Atualize mensalmente
+                 conforme promocao vigente.
+        Descricao Detalhada                                                       Palavras-chave
+
+        Card com extensores pretos alinhados: "Os extensores mais cobicados do    extensores          agosto          pronta-entrega     35cm
+        Brasil agora DISPONIVEIS A PRONTA ENTREGA". Especificacoes: 35cm
+        comprimento, 5mm espessura, gancho 2.2mm. "SOMOS O MAIOR
+        FABRICANTE DE EXTENSORES DO BRASIL!"
+para    Card promocao Agosto com Uniao para Lona Facil, acessorio pratico para    uniao-lona          agosto          acessorio          facil
+        fixacao
+ento    Card WhatsApp com paisagem montanha: "MAVE PRO CONJUNTO CINTA             Mave-PRO            julho           lancamento         1500kg
+        + CATRACA 1500kg 40mm Gancho S ou J - LANCAMENTO". Selo
+        PRODUTO EXCLUSIVO
+ento    Flyer lancamento Mave PRO formato maior com detalhes completos            Mave-PRO            julho           flyer              lancamento
+
+
+ento    Status WhatsApp lancamento Mave PRO vertical                              Mave-PRO            julho           status             lancamento
+
+
+e       Card queima de estoque Rede de Contenção Junho com preco promocional      rede-contencao      junho           queima-estoque     promocao
+
+
+ adas Card promocao Maio Conjunto 10 Toneladas com oferta especial                10-toneladas        maio            conjunto           promocao
+
+
+ das    Card promocao Maio Conjunto 3 Toneladas                                   3-toneladas         maio            conjunto           promocao
+
+
+ das    Card promocao Maio Conjunto 5 Toneladas                                   5-toneladas         maio            conjunto           promocao
+
+
+        Card geral promocao Maio com multiplos produtos em destaque               maio                card            promocao           multiplos
+
+
+pp      Imagem adicional promocao Maio para compartilhamento WhatsApp             maio                WhatsApp        promocao           imagem
+
+
+rd      Card WhatsApp Novembro formato 1080x1350 com promocao do mes              novembro            WhatsApp        1080x1350          card
+
+
+        Card Novembro extensores misto com variedade de cores e modelos           extensores          novembro        misto              variedade
+
+
+        Status WhatsApp Novembro Azul com extensores em tema azul (Novembro       extensores          novembro-azul   status             conscientizaca
+ng      Azul - conscientizacao masculina)
+        Card Novembro Azul com extensores azuis para campanha de                  extensores          novembro-azul   card               conscientizaca
+        conscientizacao
+atus    Status WhatsApp Novembro formato vertical 1080x1920                       novembro            status          WhatsApp           1080x1920
+
+
+er      Banner site Outubro formato quadrado 1080x1080 para campanha mensal       outubro             banner          site               1080x1080
+
+
+er      Banner site Outubro formato vertical 1080x1920 para stories/mobile        outubro             banner          site               1080x1920
+
+
+er      Banner site Outubro variacao 2 formato quadrado                           outubro             banner          site               1080x1080
+
+
+raca    Card promocao Setembro Catraca Invertida formato vertical 1080x1920       catraca-invertida   setembro        promocao           1080x1920
+
+
+ra da   Card cinza "SAFRA DA PLUMA SERA RECORDE EM 2025" com lona/toldo           safra-pluma         setembro        1080x1350          oportunidade
+        preto e cintas laranja. Mostra carga com cintas de amarracao, incentiva
+        aproveitar oportunidade anual
+ra da   Card Safra da Pluma formato stories vertical 1080x1920 para mobile        safra-pluma         setembro        stories            1080x1920
+
+
+ra da   Card Safra da Pluma formato expandido 1404x1920 para displays maiores     safra-pluma         setembro        1404x1920          expandido
+                8. LANCAMENTO 1500KG 40MM - CARDS E STATUS
+                Quantidade: 19 imagens
+                Uso comercial: Anuncio de novo produto, lancamento exclusivo. Conjunto Mave Pro 1500kg com cinta de 40mm de largura,
+                novidade no portfolio.
+                Palavras-chave da secao: lancamento | 1500kg | 40mm | novo | conjunto | novidade | cinta | card | status | WhatsApp |
+                Mave-PRO | gancho-S | gancho-J | case-exclusiva | Meta-Ads
+                Objecoes que contorna:
+                • "Voces nao tem capacidade que preciso" → Mostrar novo lancamento 1500kg atendendo nova faixa de mercado
+                • "Produtos ficam desatualizados" → Demonstrar que Mave continua inovando e lancando novidades
+                • "Nao tem produto diferenciado" → Conjunto vem com case exclusiva, disponivel com ganchos S e J
+                Como usar: Compartilhe como novidade aos clientes. Use status WhatsApp para anunciar lancamento. Cards para
+                apresentacao inicial. Ressalte que e exclusivo/novo/premium.
+       Descricao Detalhada                                                        Palavras-chave
+
+sapp   Card WhatsApp novo conjunto Mave Pro 1500kg 40mm em fundo cinzento         lancamento       1500kg                   card        WhatsApp
+       com por do sol. Cintas azuis e pretas com logo Mave Pro laranja. Destaca
+       ganchos S e J e case exclusiva
+sapp   Card WhatsApp variacao 2 conjunto Mave Pro 1500kg 40mm                     lancamento       1500kg                   card        WhatsApp
+
+
+sapp   Card WhatsApp variacao 3 conjunto Mave Pro 1500kg 40mm                     lancamento       1500kg                   card        WhatsApp
+
+
+sapp   Card "NAO E SO MAIS UM PRODUTO" fundo cinzento-dourado com por do          lancamento       1500kg                   Meta-Ads    valor
+       sol. Cinta azul e preta Mave Pro, mensagem de valor sobre necessidade na
+       estrada
+sapp   Criativo Meta Ads variacao 2 lancamento 1500kg                             lancamento       1500kg                   Meta-Ads    variacao
+
+
+sapp   Criativo Meta Ads variacao 3 lancamento 1500kg                             lancamento       1500kg                   Meta-Ads    variacao
+
+
+sapp   Criativo Meta Ads variacao 4 lancamento 1500kg                             lancamento       1500kg                   Meta-Ads    variacao
+
+
+sapp   Criativo Meta Ads variacao 5 lancamento 1500kg                             lancamento       1500kg                   Meta-Ads    variacao
+
+
+sapp   Criativo Meta Ads variacao 6 lancamento 1500kg                             lancamento       1500kg                   Meta-Ads    variacao
+
+
+       Flyer vertical lancamento Mave Pro 1500kg 40mm. Multiplas cintas azuis e   lancamento       1500kg                   flyer       1350x1920
+       pretas sobre fundo gradiente cinzento e dourado. Destaca largura 40mm,
+       visual resistente, ganchos S e J
+       Story vertical WhatsApp com fundo dinamico cinzento-dourado. Conjunto      lancamento       1500kg                   status      WhatsApp
+       Mave Pro completo com case preta, cintas azuis e pretas, ganchos. "NOVO
+       CONJUNTO MAVE PRO 1500KG - 40MM"
+       Status WhatsApp variacao 2 lancamento 1500kg vertical                      lancamento       1500kg                   status      WhatsApp
+
+
+       Status WhatsApp variacao 3 lancamento 1500kg                               lancamento       1500kg                   status      WhatsApp
+
+
+       Stories Meta Ads lancamento 1500kg formato 1080x1920 opcao 1               lancamento       1500kg                   stories     Meta-Ads
+
+
+       Stories Meta Ads lancamento 1500kg variacao 2                              lancamento       1500kg                   stories     Meta-Ads
+
+
+       Stories Meta Ads lancamento 1500kg variacao 3                              lancamento       1500kg                   stories     Meta-Ads
+
+
+       Stories Meta Ads lancamento 1500kg variacao 4                              lancamento       1500kg                   stories     Meta-Ads
+
+
+       Stories Meta Ads lancamento 1500kg variacao 5                              lancamento       1500kg                   stories     Meta-Ads
+
+
+       Stories Meta Ads lancamento 1500kg variacao 6                              lancamento       1500kg                   stories     Meta-Ads
+               9. LANCAMENTO 1500KG 40MM - FOTOS PROFISSIONAIS DE ESTUDIO
+               Quantidade: 92 imagens
+               Uso comercial: E-commerce, catalogo online, redes sociais premium, apresentacoes comerciais em alta qualidade. Fotos
+               em fundo infinito azul claro mostrando detalhe de cada produto Mave Pro.
+               Palavras-chave da secao: estudio | 1500kg | 40mm | fundo-infinito | fotografia | profissional | e-commerce | catalogo |
+               detalhe | qualidade | produto | acabamento | costura | gancho | empunhadura | bicromatizado | ratchet | case
+               Objecoes que contorna:
+               • "Qualidade duvidosa" → Mostrar fotos profissionais em estudio mostrando acabamento impecavel, cinta azul e preta premium
+               • "Acabamento fraco" → Fotos close-up evidenciam costura reforcada, ganchos bicromatizados, material de qualidade
+               • "Nao confio no produto" → Fotos de estudio transmitem confianca, profissionalismo e qualidade superior
+               • "Preciso de imagens para meu e-commerce" → Fotos em fundo infinito prontas para uso em catalogo online
+               Como usar: Use em catalogos online, e-commerce, LinkedIn, apresentacoes formais. Cada angulo (frontal, lateral, detalhe
+               de gancho, detalhe de costura, case, ratchet) pode ser usado em contextos diferentes. Ideais para fotos de produtos em alta
+               resolucao.
+     Descricao Detalhada                                                            Palavras-chave
+
+do   Foto estudio fundo infinito azul claro - conjunto 1500kg 40mm angulo frontal   estudio          1500kg                 40mm                   fundo-infinito
+     com cinta azul e preta e gancho metalico
+do   Foto estudio fundo infinito - conjunto 1500kg 40mm vista lateral mostrando     estudio          1500kg                 40mm                   lateral
+     profundidade
+do   Foto estudio - conjunto 1500kg 40mm angulo superior mostrando                  estudio          1500kg                 40mm                   superior
+     acabamento
+do   Foto estudio - detalhe ratchet (trinco) preto com logo Mave Pro laranja        estudio          1500kg                 ratchet                detalhe
+
+
+do   Foto estudio - detalhe gancho metalico bicromatizado do conjunto 1500kg        estudio          1500kg                 gancho-bicromatizado   detalhe
+
+
+do   Foto estudio - detalhe costura reforcada da cinta azul 40mm                    estudio          1500kg                 costura-reforcada      detalhe
+
+
+do   Foto estudio - conjunto 1500kg 40mm com case preta aberta                      estudio          1500kg                 case                   preta
+
+
+do   Foto estudio - par de cintas com ratchet metalico fita azul e preta            estudio          1500kg                 par-cintas             ratchet
+
+
+do   Foto estudio - vista 3/4 frontal do conjunto 1500kg mostrando componentes      estudio          1500kg                 3-4-frontal            componentes
+
+
+do   Foto estudio - detalhe empunhadura emborrachada do ratchet Mave Pro            estudio          1500kg                 empunhadura            emborrachada
+
+
+do   Foto estudio fundo infinito azul claro - conjunto 1500kg 40mm angulo frontal   estudio          1500kg                 40mm                   fundo-infinito
+     com cinta azul e preta e gancho metalico
+do   Foto estudio fundo infinito - conjunto 1500kg 40mm vista lateral mostrando     estudio          1500kg                 40mm                   lateral
+     profundidade
+do   Foto estudio - conjunto 1500kg 40mm angulo superior mostrando                  estudio          1500kg                 40mm                   superior
+     acabamento
+do   Foto estudio - detalhe ratchet (trinco) preto com logo Mave Pro laranja        estudio          1500kg                 ratchet                detalhe
+
+
+do   Foto estudio - detalhe gancho metalico bicromatizado do conjunto 1500kg        estudio          1500kg                 gancho-bicromatizado   detalhe
+
+
+do   Foto estudio - detalhe costura reforcada da cinta azul 40mm                    estudio          1500kg                 costura-reforcada      detalhe
+
+
+do   Foto estudio - conjunto 1500kg 40mm com case preta aberta                      estudio          1500kg                 case                   preta
+
+
+do   Foto estudio - par de cintas com ratchet metalico fita azul e preta            estudio          1500kg                 par-cintas             ratchet
+
+
+do   Foto estudio - vista 3/4 frontal do conjunto 1500kg mostrando componentes      estudio          1500kg                 3-4-frontal            componentes
+
+
+do   Foto estudio - detalhe empunhadura emborrachada do ratchet Mave Pro            estudio          1500kg                 empunhadura            emborrachada
+
+
+do   Foto estudio fundo infinito azul claro - conjunto 1500kg 40mm angulo frontal   estudio          1500kg                 40mm                   fundo-infinito
+     com cinta azul e preta e gancho metalico
+do   Foto estudio fundo infinito - conjunto 1500kg 40mm vista lateral mostrando     estudio          1500kg                 40mm                   lateral
+     profundidade
+do   Foto estudio - conjunto 1500kg 40mm angulo superior mostrando                  estudio          1500kg                 40mm                   superior
+     acabamento
+do   Foto estudio - detalhe ratchet (trinco) preto com logo Mave Pro laranja        estudio          1500kg                 ratchet                detalhe
+
+
+do   Foto estudio - detalhe gancho metalico bicromatizado do conjunto 1500kg        estudio          1500kg                 gancho-bicromatizado   detalhe
+     Descricao Detalhada                                                            Palavras-chave
+
+do   Foto estudio - detalhe costura reforcada da cinta azul 40mm                    estudio          1500kg   costura-reforcada      detalhe
+
+
+do   Foto estudio - conjunto 1500kg 40mm com case preta aberta                      estudio          1500kg   case                   preta
+
+
+do   Foto estudio - par de cintas com ratchet metalico fita azul e preta            estudio          1500kg   par-cintas             ratchet
+
+
+do   Foto estudio - vista 3/4 frontal do conjunto 1500kg mostrando componentes      estudio          1500kg   3-4-frontal            componentes
+
+
+do   Foto estudio - detalhe empunhadura emborrachada do ratchet Mave Pro            estudio          1500kg   empunhadura            emborrachada
+
+
+do   Foto estudio fundo infinito azul claro - conjunto 1500kg 40mm angulo frontal   estudio          1500kg   40mm                   fundo-infinito
+     com cinta azul e preta e gancho metalico
+do   Foto estudio fundo infinito - conjunto 1500kg 40mm vista lateral mostrando     estudio          1500kg   40mm                   lateral
+     profundidade
+do   Foto estudio - conjunto 1500kg 40mm angulo superior mostrando                  estudio          1500kg   40mm                   superior
+     acabamento
+do   Foto estudio - detalhe ratchet (trinco) preto com logo Mave Pro laranja        estudio          1500kg   ratchet                detalhe
+
+
+do   Foto estudio - detalhe gancho metalico bicromatizado do conjunto 1500kg        estudio          1500kg   gancho-bicromatizado   detalhe
+
+
+do   Foto estudio - detalhe costura reforcada da cinta azul 40mm                    estudio          1500kg   costura-reforcada      detalhe
+
+
+do   Foto estudio - conjunto 1500kg 40mm com case preta aberta                      estudio          1500kg   case                   preta
+
+
+do   Foto estudio - par de cintas com ratchet metalico fita azul e preta            estudio          1500kg   par-cintas             ratchet
+
+
+do   Foto estudio - vista 3/4 frontal do conjunto 1500kg mostrando componentes      estudio          1500kg   3-4-frontal            componentes
+
+
+do   Foto estudio - detalhe empunhadura emborrachada do ratchet Mave Pro            estudio          1500kg   empunhadura            emborrachada
+
+
+do   Foto estudio fundo infinito azul claro - conjunto 1500kg 40mm angulo frontal   estudio          1500kg   40mm                   fundo-infinito
+     com cinta azul e preta e gancho metalico
+do   Foto estudio fundo infinito - conjunto 1500kg 40mm vista lateral mostrando     estudio          1500kg   40mm                   lateral
+     profundidade
+do   Foto estudio - conjunto 1500kg 40mm angulo superior mostrando                  estudio          1500kg   40mm                   superior
+     acabamento
+do   Foto estudio - detalhe ratchet (trinco) preto com logo Mave Pro laranja        estudio          1500kg   ratchet                detalhe
+
+
+do   Foto estudio - detalhe gancho metalico bicromatizado do conjunto 1500kg        estudio          1500kg   gancho-bicromatizado   detalhe
+
+
+do   Foto estudio - detalhe costura reforcada da cinta azul 40mm                    estudio          1500kg   costura-reforcada      detalhe
+
+
+do   Foto estudio - conjunto 1500kg 40mm com case preta aberta                      estudio          1500kg   case                   preta
+
+
+do   Foto estudio - par de cintas com ratchet metalico fita azul e preta            estudio          1500kg   par-cintas             ratchet
+
+
+do   Foto estudio - vista 3/4 frontal do conjunto 1500kg mostrando componentes      estudio          1500kg   3-4-frontal            componentes
+
+
+do   Foto estudio - detalhe empunhadura emborrachada do ratchet Mave Pro            estudio          1500kg   empunhadura            emborrachada
+
+
+do   Foto estudio fundo infinito azul claro - conjunto 1500kg 40mm angulo frontal   estudio          1500kg   40mm                   fundo-infinito
+     com cinta azul e preta e gancho metalico
+do   Foto estudio fundo infinito - conjunto 1500kg 40mm vista lateral mostrando     estudio          1500kg   40mm                   lateral
+     profundidade
+do   Foto estudio - conjunto 1500kg 40mm angulo superior mostrando                  estudio          1500kg   40mm                   superior
+     acabamento
+do   Foto estudio - detalhe ratchet (trinco) preto com logo Mave Pro laranja        estudio          1500kg   ratchet                detalhe
+
+
+do   Foto estudio - detalhe gancho metalico bicromatizado do conjunto 1500kg        estudio          1500kg   gancho-bicromatizado   detalhe
+
+
+do   Foto estudio - detalhe costura reforcada da cinta azul 40mm                    estudio          1500kg   costura-reforcada      detalhe
+
+
+do   Foto estudio - conjunto 1500kg 40mm com case preta aberta                      estudio          1500kg   case                   preta
+
+
+do   Foto estudio - par de cintas com ratchet metalico fita azul e preta            estudio          1500kg   par-cintas             ratchet
+
+
+do   Foto estudio - vista 3/4 frontal do conjunto 1500kg mostrando componentes      estudio          1500kg   3-4-frontal            componentes
+
+
+do   Foto estudio - detalhe empunhadura emborrachada do ratchet Mave Pro            estudio          1500kg   empunhadura            emborrachada
+
+
+do   Foto estudio fundo infinito azul claro - conjunto 1500kg 40mm angulo frontal   estudio          1500kg   40mm                   fundo-infinito
+     com cinta azul e preta e gancho metalico
+     Descricao Detalhada                                                            Palavras-chave
+
+do   Foto estudio fundo infinito - conjunto 1500kg 40mm vista lateral mostrando     estudio          1500kg   40mm                   lateral
+     profundidade
+do   Foto estudio - conjunto 1500kg 40mm angulo superior mostrando                  estudio          1500kg   40mm                   superior
+     acabamento
+do   Foto estudio - detalhe ratchet (trinco) preto com logo Mave Pro laranja        estudio          1500kg   ratchet                detalhe
+
+
+do   Foto estudio - detalhe gancho metalico bicromatizado do conjunto 1500kg        estudio          1500kg   gancho-bicromatizado   detalhe
+
+
+do   Foto estudio - detalhe costura reforcada da cinta azul 40mm                    estudio          1500kg   costura-reforcada      detalhe
+
+
+do   Foto estudio - conjunto 1500kg 40mm com case preta aberta                      estudio          1500kg   case                   preta
+
+
+do   Foto estudio - par de cintas com ratchet metalico fita azul e preta            estudio          1500kg   par-cintas             ratchet
+
+
+do   Foto estudio - vista 3/4 frontal do conjunto 1500kg mostrando componentes      estudio          1500kg   3-4-frontal            componentes
+
+
+do   Foto estudio - detalhe empunhadura emborrachada do ratchet Mave Pro            estudio          1500kg   empunhadura            emborrachada
+
+
+do   Foto estudio fundo infinito azul claro - conjunto 1500kg 40mm angulo frontal   estudio          1500kg   40mm                   fundo-infinito
+     com cinta azul e preta e gancho metalico
+do   Foto estudio fundo infinito - conjunto 1500kg 40mm vista lateral mostrando     estudio          1500kg   40mm                   lateral
+     profundidade
+do   Foto estudio - conjunto 1500kg 40mm angulo superior mostrando                  estudio          1500kg   40mm                   superior
+     acabamento
+do   Foto estudio - detalhe ratchet (trinco) preto com logo Mave Pro laranja        estudio          1500kg   ratchet                detalhe
+
+
+do   Foto estudio - detalhe gancho metalico bicromatizado do conjunto 1500kg        estudio          1500kg   gancho-bicromatizado   detalhe
+
+
+do   Foto estudio - detalhe costura reforcada da cinta azul 40mm                    estudio          1500kg   costura-reforcada      detalhe
+
+
+do   Foto estudio - conjunto 1500kg 40mm com case preta aberta                      estudio          1500kg   case                   preta
+
+
+do   Foto estudio - par de cintas com ratchet metalico fita azul e preta            estudio          1500kg   par-cintas             ratchet
+
+
+do   Foto estudio - vista 3/4 frontal do conjunto 1500kg mostrando componentes      estudio          1500kg   3-4-frontal            componentes
+
+
+do   Foto estudio - detalhe empunhadura emborrachada do ratchet Mave Pro            estudio          1500kg   empunhadura            emborrachada
+
+
+do   Foto estudio fundo infinito azul claro - conjunto 1500kg 40mm angulo frontal   estudio          1500kg   40mm                   fundo-infinito
+     com cinta azul e preta e gancho metalico
+do   Foto estudio fundo infinito - conjunto 1500kg 40mm vista lateral mostrando     estudio          1500kg   40mm                   lateral
+     profundidade
+do   Foto estudio - conjunto 1500kg 40mm angulo superior mostrando                  estudio          1500kg   40mm                   superior
+     acabamento
+do   Foto estudio - detalhe ratchet (trinco) preto com logo Mave Pro laranja        estudio          1500kg   ratchet                detalhe
+
+
+do   Foto estudio - detalhe gancho metalico bicromatizado do conjunto 1500kg        estudio          1500kg   gancho-bicromatizado   detalhe
+
+
+do   Foto estudio - detalhe costura reforcada da cinta azul 40mm                    estudio          1500kg   costura-reforcada      detalhe
+
+
+do   Foto estudio - conjunto 1500kg 40mm com case preta aberta                      estudio          1500kg   case                   preta
+
+
+do   Foto estudio - par de cintas com ratchet metalico fita azul e preta            estudio          1500kg   par-cintas             ratchet
+
+
+do   Foto estudio - vista 3/4 frontal do conjunto 1500kg mostrando componentes      estudio          1500kg   3-4-frontal            componentes
+
+
+do   Foto estudio - detalhe empunhadura emborrachada do ratchet Mave Pro            estudio          1500kg   empunhadura            emborrachada
+
+
+do   Foto estudio fundo infinito azul claro - conjunto 1500kg 40mm angulo frontal   estudio          1500kg   40mm                   fundo-infinito
+     com cinta azul e preta e gancho metalico
+do   Foto estudio fundo infinito - conjunto 1500kg 40mm vista lateral mostrando     estudio          1500kg   40mm                   lateral
+     profundidade
+                10. PROMOB - EXTENSORES RECORTADOS
+                Quantidade: 23 imagens (12 com 2 ganchos + 11 com 1 gancho)
+                Uso comercial: Apresentacoes em software Promob (e-commerce, decoradores, arquitetos). Imagens recortadas (sem
+                fundo) para composicao em layouts digitais e 3D.
+                Palavras-chave da secao: Promob | recortado | sem-fundo | transparente | extensor | e-commerce | designer | 3D | digital |
+                composicao | layout | amarelo | azul | cinza | preto | verde | vermelho | branco | mesclado | 2-ganchos | 1-gancho | 6mm
+                Objecoes que contorna:
+                • "Preciso de imagem sem fundo para meu catalogo" → Imagens ja recortadas prontas para uso
+                • "Nao tenho foto para e-commerce" → Imagens profissionais recortadas em todas as cores disponiveis
+                • "Quais cores tem?" → Mostrar todas as variacoes: amarelo, azul, cinza, preto, verde, vermelho, branco, versoes mescladas
+                Como usar: Forneca para profissionais de design, e-commerce, decoradores que usam software Promob. Imagens
+                recortadas facilitam composicao em layouts. Separadas em dois modelos: Extensor com 2 ganchos e Extensor com 1
+                gancho.
+       Descricao Detalhada                                                       Palavras-chave
+
+       Extensor elastico 6mm com 2 ganchos metalicos cor amarelo mesclado        promob            extensor                    2-ganchos     6mm
+ELO    recortado sem fundo para composicao digital Promob
+
+
+       Extensor elastico 6mm com 2 ganchos metalicos cor amarelo recortado sem   promob            extensor                    2-ganchos     6mm
+       fundo para composicao digital Promob
+
+
+       Extensor elastico 6mm com 2 ganchos metalicos cor azul mesclado recortado promob            extensor                    2-ganchos     6mm
+       sem fundo para composicao digital Promob
+
+
+       Extensor elastico 6mm com 2 ganchos metalicos cor azul recortado sem      promob            extensor                    2-ganchos     6mm
+png    fundo para composicao digital Promob
+       Extensor elastico 6mm com 2 ganchos metalicos cor cinza recortado sem     promob            extensor                    2-ganchos     6mm
+.png   fundo para composicao digital Promob
+      Extensor elastico 6mm com 2 ganchos metalicos cor preto recortado sem      promob            extensor                    2-ganchos     6mm
+O.png fundo para composicao digital Promob
+       Extensor elastico 6mm com 2 ganchos metalicos cor verde mesclado          promob            extensor                    2-ganchos     6mm
+E      recortado sem fundo para composicao digital Promob
+
+
+      Extensor elastico 6mm com 2 ganchos metalicos cor verde recortado sem      promob            extensor                    2-ganchos     6mm
+E.png fundo para composicao digital Promob
+       Extensor elastico 6mm com 2 ganchos metalicos cor vermelho mesclado       promob            extensor                    2-ganchos     6mm
+       recortado sem fundo para composicao digital Promob
+
+
+       Extensor elastico 6mm com 2 ganchos metalicos cor vermelho recortado sem promob             extensor                    2-ganchos     6mm
+       fundo para composicao digital Promob
+
+
+       Extensor elastico 6mm com 2 ganchos metalicos cor preto mesclaro          promob            extensor                    2-ganchos     6mm
+       recortado sem fundo para composicao digital Promob
+
+
+       Extensor elastico 6mm com 2 ganchos metalicos cor branco mesclado         promob            extensor                    2-ganchos     6mm
+ O     recortado sem fundo para composicao digital Promob
+
+
+R      Extensor elastico 6mm com gancho metalico unico cor amarelo mesclado      promob            extensor                    1-gancho      6mm
+       recortado sem fundo para composicao digital Promob
+R      Extensor elastico 6mm com gancho metalico unico cor amarelo recortado     promob            extensor                    1-gancho      6mm
+       sem fundo para composicao digital Promob
+R      Extensor elastico 6mm com gancho metalico unico cor azul mesclado         promob            extensor                    1-gancho      6mm
+       recortado sem fundo para composicao digital Promob
+R      Extensor elastico 6mm com gancho metalico unico cor azul recortado sem    promob            extensor                    1-gancho      6mm
+       fundo para composicao digital Promob
+R      Extensor elastico 6mm com gancho metalico unico cor cinza mesclado        promob            extensor                    1-gancho      6mm
+       recortado sem fundo para composicao digital Promob
+R      Extensor elastico 6mm com gancho metalico unico cor cinza recortado sem   promob            extensor                    1-gancho      6mm
+       fundo para composicao digital Promob
+R      Extensor elastico 6mm com gancho metalico unico cor preto mesclado        promob            extensor                    1-gancho      6mm
+       recortado sem fundo para composicao digital Promob
+R      Extensor elastico 6mm com gancho metalico unico cor preto recortado sem   promob            extensor                    1-gancho      6mm
+       fundo para composicao digital Promob
+R      Extensor elastico 6mm com gancho metalico unico cor verde recortado sem   promob            extensor                    1-gancho      6mm
+       fundo para composicao digital Promob
+R      Extensor elastico 6mm com gancho metalico unico cor vermelho mesclado     promob            extensor                    1-gancho      6mm
+       recortado sem fundo para composicao digital Promob
+R      Extensor elastico 6mm com gancho metalico unico cor vermelho recortado    promob            extensor                    1-gancho      6mm
+       sem fundo para composicao digital Promob
+         11. PROGRAMA MAVERAR
+         Quantidade: 6 imagens
+         Uso comercial: Programa de fidelizacao e capacitacao de clientes. Treinamentos, materiais de marketing, premios e brindes
+         para revendedores.
+         Palavras-chave da secao: Maverar | programa | fidelizacao | beneficios | cliente-frequente | lealdade | promocao-exclusiva |
+         card | treinamento | brindes | premios
+         Objecoes que contorna:
+         • "Preciso de programa especial/desconto para minha empresa" → Mostrar que existe Maverar com beneficios, treinamentos e premios
+         • "Nao tenho suporte de vendas" → Programa oferece materiais de marketing, treinamentos e acompanhamento
+         • "Meu time nao conhece os produtos" → Programa Maverar inclui treinamentos para equipe do revendedor
+         Como usar: Apresente a clientes que fazem compras regulares. Use como incentivo para aumentar frequencia de pedidos.
+         Mostre beneficios exclusivos: treinamentos, materiais, brindes.
+Descricao Detalhada                                                            Palavras-chave
+
+Card com fundo gradiente laranja para vermelho-escuro apresentando             Maverar          treinamento          desempenho             materiais
+Programa Maverar. Exibe interface de treinamentos com imagens de
+produtos em grade laranja. Funcionalidades: Perfil, Curve (desempenho),
+Materiais de Marketing, Premio. "Treine o seu time e veja suas vendas
+aumentarem!"
+Card Maverar variacao 2 com informacoes complementares do programa             Maverar          programa             fidelizacao            card
+
+
+Card Maverar variacao 3 com detalhes adicionais                                Maverar          programa             fidelizacao            card
+
+
+Card Maverar variacao 4 quarta opcao visual do programa                        Maverar          programa             fidelizacao            card
+
+
+Card informativo novo formato "Solicitacao de Brindes" Maverar. Passos do      Maverar          brindes              solicitacao            processo
+processo: Farmers direcionam pedidos, cliente faz login, solicitacao enviada
+para aprovacao da Gerencia, cliente recebe brinde. Formato 1080x1350
+Card Solicitacao de Brindes variacao 2 com layout alternativo do processo      Maverar          brindes              solicitacao            variacao
+               12. SAFRAS
+               Quantidade: 1 imagem
+               Uso comercial: Campanha sazonal agricola. Material para safra com foco em rede de contencao para transporte de cargas
+               agricolas.
+               Palavras-chave da secao: safra | agricola | sazonal | agronegocio | pluma | colheita | rede-contencao | carga | caminhao
+               Objecoes que contorna:
+               • "Nao vendo para agricultores" → Mostrar que Mave atua neste segmento com campanhas e produtos especificos
+               • "Rede de contencao nao e para safra" → Infografico mostra rede instalada em caminhao com carga de safra, 6 cintas com 4 ganchos
+               Como usar: Use durante epoca de safra para comunicar com clientes agricolas. Destaque especificacoes: 6 cintas, 4
+               ganchos, largura/espacamento 45cm, adapta ao volume da carga, alta durabilidade, personalizavel.
+                             Palavras-chave
+
+a. Fundo cinzento com rede   safra                     rede-contencao             pluma                       6-cintas                   4-ganchos
+ quer safra com a Mave!"
+ura/espacamento 45cm. Foto
+ adapta ao volume, alta
+         13. TRADE MARKETING - MATERIAIS DE MERCHANDISING
+         Quantidade: 18 imagens
+         Uso comercial: Materiais de ponto de venda, merchandising, sinalizacao, displays. Complementam expositor com materiais
+         adicionais de comunicacao visual. Inclui display de balcao, stopper, wobbler, cards comerciais e fotos editadas de produtos.
+         Palavras-chave da secao: trade-marketing | merchandising | material | sinalizacao | PDV | display | balcao | stopper |
+         wobbler | ponto-de-venda | mix-expositor | fotos-editadas
+         Objecoes que contorna:
+         • "Nao sei como comunicar os produtos no ponto de venda" → Fornecer materiais prontos: display de balcao, stoppers, wobblers, cards
+         • "Preciso de visual profissional" → Materiais de trade marketing criam ambiente profissional e atraem atencao
+         • "Expositor sozinho nao resolve" → Complementar com stopper, wobbler e fotos editadas para maximizar impacto
+         Como usar: Forneca conjunto completo de materiais junto com expositor. Inclua em kit de PDV. Use stoppers e wobblers
+         para atrair atencao na prateleira. Display de balcao para espacos pequenos. Cards de mix expositor para venda consultiva.
+Descricao Detalhada                                                           Palavras-chave
+
+Expositor vertical laranja Mave para balcao com formato bandeja inclinada.    display          balcao                     laranja              merchandising
+Produto de merchandising com logo Mave branco e preto para exibicao em
+PDV
+Material de merchandising variacao 2 para ponto de venda                      merchandising    PDV                        material             variacao
+
+
+Material de merchandising variacao 3                                          merchandising    PDV                        material             variacao
+
+
+Material de merchandising variacao 5                                          merchandising    PDV                        material             variacao
+
+
+Material de merchandising variacao 6                                          merchandising    PDV                        material             variacao
+
+
+Material de merchandising variacao 7                                          merchandising    PDV                        material             variacao
+
+
+Material de merchandising variacao 8                                          merchandising    PDV                        material             variacao
+
+
+Card promocional laranja "Aquisicao um Mix de produtos seguros e de alta      mix-expositor    R$4000                     portfolio            card
+qualidade!" valor R$ 4.000,00. Imagens de expositor com cintas embaladas.
+"O melhor do nosso portfolio" com visibilidade de produtos
+Display fisico de balcao laranja e branco com logo Mave, contendo cintas em   display          balcao                     fisico               cintas
+vermelho/laranja e azul em embalagem plastica. Texto "Conheca nossos
+produtos: mavebr.com" na base. Fundo desfocado de oficina/loja
+Close de cintas Mave embaladas em display laranja - combinacoes               foto-editada     cintas                     embalagem            display
+laranja/vermelho e azul em embalagem plastica, aspecto comercial
+Foto editada de produtos Mave para uso comercial variacao 2                   foto-editada     produtos                   comercial            variacao
+
+
+Foto editada de produtos Mave variacao 3                                      foto-editada     produtos                   comercial            variacao
+
+
+Foto editada de produtos Mave variacao 4                                      foto-editada     produtos                   comercial            variacao
+
+
+Foto editada de produtos Mave variacao 5                                      foto-editada     produtos                   comercial            variacao
+
+
+Foto editada de produtos Mave variacao 6                                      foto-editada     produtos                   comercial            variacao
+
+
+Foto editada de produtos Mave variacao 7                                      foto-editada     produtos                   comercial            variacao
+
+
+Stopper (etiqueta presa) laranja com logo Mave e imagens de produtos em       stopper          PDV                        carga-segura         sinalizacao
+miniatura. Texto "CARGA SEGURA, VA DE MAVE". Material de PDV para
+atrair atencao na prateleira
+Wobblers circulares laranja com fita de suspensao branca. Logo Mave           wobbler          PDV                        carga-segura         suspenso
+branco, "CARGA SEGURA, VA DE MAVE", imagem cinta de amarracao.
+Website mavebr.com e @mavegaribaldi. Material suspenso para ganchos de
+prateleira
+
+
+
+                               INDICE COMPLETO DE PALAVRAS-CHAVE
+         Use este indice para localizar rapidamente as imagens que melhor atendem cada necessidade.
+
+
+         A
+         • Acessorio: Secao 2 (Cards Produtos Principais), Secao 5 (Flyer Segmentado), Secao 6 (Diversos)
+- Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Extensores*.png, MARKETING/Cards Instagram/Flyer Produtos
+Essenciais/Acessórios para motos.png, MARKETING/Cards Instagram/Flyer Produtos Essenciais/Revenda de Acessórios.png
+• Adesivo: Secao 4 (Expositor/Materiais)
+- Arquivos: MARKETING/Cards Instagram/Expositor/Materiais - Clientes Expositores/Adesivos/*.png
+• Agronegocio: Secao 5 (Flyer Segmentado), Secao 12 (Safras)
+- Arquivos: MARKETING/Cards Instagram/Flyer Produtos Essenciais/Lojas Agrícolas.png, MARKETING/Safras/Rede de contenção Safra da
+Pluma.png
+• Amarelo/Azul/Verde/Vermelho/Cinza/Preto/Branco (cores extensores): Secao 10 (Promob)
+- Arquivos: MARKETING/Promob/Extensor metal 2 ganchos 6MM/*, MARKETING/Promob/Extensor metal 6MM/*
+• Aumento-vendas: Secao 4 (Expositor - Feedback)
+- Arquivos: MARKETING/Cards Instagram/Expositor/Fotos Expositor Clientes/FEEDBACK*.jpg
+
+
+
+B
+• Balcao: Secao 4 (Expositor), Secao 13 (Trade Marketing)
+- Arquivos: MARKETING/Cards Instagram/Expositor/Card Medidas Expositor/Expositor de Balcão.png, MARKETING/Trade Marketing/Materiais de
+Merchandising/Display de Balcão.jpeg
+• Bicromatizado: Secao 6 (Mave PRO), Secao 9 (Fotos Estudio 1500kg)
+- Arquivos: MARKETING/Cards Instagram/MAVE PRO/Conj Pretos - Mave Pro/*.png, MARKETING/Lançamento 1500kg - 40 mm/Fotos Fundo
+Infinito/Web/*
+• Brindes: Secao 11 (Programa Maverar)
+- Arquivos: MARKETING/Programa Maverar/Card Solicitação de Brindes*.png
+
+
+
+C
+• Catraca: Secao 2, 6, 7, 8
+- Arquivos multiplos em todas estas secoes
+• Catraca-fixa: Secao 2 (Cards Produtos Principais)
+- Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Catraca Fixa*.png
+• Catraca-invertida: Secao 2 (Cards Produtos Principais), Secao 7 (Promocoes Setembro)
+- Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Catraca Invertida 5 toneladas.png, MARKETING/Cards Promoções do
+Mês/Setembro/Catraca Invertida/*
+• Catraca-retratil: Secao 6 (Mave PRO)
+- Arquivo: MARKETING/Cards Instagram/MAVE PRO/Catraca Retrátil - Mave Pro/Folder Catraca Retrátil.jpeg
+• Cartaz: Secao 4 (Expositor)
+- Arquivos: MARKETING/Cards Instagram/Expositor/Materiais - Clientes Expositores/Cartaz A3/*.png, MARKETING/Cards
+Instagram/Expositor/Materiais - Clientes Expositores/Cartaz A4/*.png
+• Carga-segura: Secao 4, 5, 13
+- Arquivos: MARKETING/Cards Instagram/Expositor/Materiais - Clientes Expositores/Adesivos/*.png, MARKETING/Trade Marketing/Materiais de
+Merchandising/Stopper.JPG, MARKETING/Trade Marketing/Materiais de Merchandising/Wobbler.JPG
+• Case: Secao 8, 9 (Lancamento 1500kg)
+- Arquivos: MARKETING/Lançamento 1500kg - 40 mm/Card Whatsapp (Conversas)/*.png, MARKETING/Lançamento 1500kg - 40 mm/Fotos Fundo
+Infinito/Web/*
+• Cinta: Secao 2, 3, 5, 6, 8, 9
+- Multiplos arquivos nestas secoes
+• Cinta-elevacao: Secao 3 (Cintas de Elevacao)
+- Arquivos: MARKETING/Cards Instagram/Cintas de Elevação/*
+• Combustivel: Secao 4 (Expositor Postos), Secao 5 (Flyer Segmentado)
+- Arquivos: MARKETING/Cards Instagram/Expositor/Fotos Expositor Clientes/EXPOSITOR POSTO*.jpeg, MARKETING/Cards Instagram/Flyer
+Produtos Essenciais/Postos de Gasolina.png
+• Conjunto: Secao 2, 7, 8, 9
+- Arquivos multiplos: MARKETING/Cards Instagram/Cards Produtos Principais/Conj*.png, MARKETING/Cards Promoções
+do Mês/Maio/*.png, MARKETING/Lançamento 1500kg - 40 mm/*
+• Construcao: Secao 5 (Flyer Segmentado)
+- Arquivo: MARKETING/Cards Instagram/Flyer Produtos Essenciais/Materiais de Construção.png
+• Corporativo: Secao 1
+- Arquivos: MARKETING/1308/DSC_*.JPG
+
+
+
+D
+• Desconto: Secao 7 (Promocoes do Mes)
+- Multiplos arquivos nesta secao
+• Display: Secao 4, 13
+- Arquivos: MARKETING/Cards Instagram/Expositor/*, MARKETING/Trade Marketing/Materiais de Merchandising/Display de Balcão.jpeg
+
+
+
+E
+• E-commerce: Secao 2, 5, 9, 10
+- Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/*, MARKETING/Cards Instagram/Flyer Produtos Essenciais/E-COMMERCE.jpg,
+MARKETING/Lançamento 1500kg - 40 mm/Fotos Fundo Infinito/Web/*, MARKETING/Promob/*
+• Elevacao: Secao 2, 3, 6
+- Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Cintas de Elevação.png, MARKETING/Cards Instagram/Cintas de Elevação/*,
+MARKETING/Cards Instagram/Guias de Referências Produtos Mave/Guia de Referência - Elevação.jpeg
+• EPI: Secao 5 (Flyer Segmentado)
+- Arquivo: MARKETING/Cards Instagram/Flyer Produtos Essenciais/Lojas de EPIs.png
+• Equipe: Secao 1 (Corporativo)
+- Arquivos: MARKETING/1308/DSC_*.JPG
+• Estudio: Secao 9 (Fotos Fundo Infinito)
+- Arquivos: MARKETING/Lançamento 1500kg - 40 mm/Fotos Fundo Infinito/Web/*
+• Expositor: Secao 4, 13
+- Arquivos: MARKETING/Cards Instagram/Expositor/*, MARKETING/Trade Marketing/Materiais de Merchandising/*
+• Extensor: Secao 2, 6, 7, 10
+- Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Extensores*.png, MARKETING/Cards Instagram/Produção de Extensores/*.png,
+MARKETING/Cards Promoções do Mês/Agosto/Extensores.png, MARKETING/Cards Promoções do Mês/Novembro/Extensores*.png,
+MARKETING/Promob/*
+
+
+
+F
+• Fator-7-1 (seguranca): Secao 3 (Cintas de Elevacao)
+- Arquivos: MARKETING/Cards Instagram/Cintas de Elevação/Card 4.png e correlatos
+• Feedback: Secao 4 (Expositor Clientes)
+- Arquivos: MARKETING/Cards Instagram/Expositor/Fotos Expositor Clientes/FEEDBACK*.jpg
+• Ferragem: Secao 5 (Flyer Segmentado)
+- Arquivo: MARKETING/Cards Instagram/Flyer Produtos Essenciais/Ferragens.png
+• Fidelizacao: Secao 11 (Programa Maverar)
+- Arquivos: MARKETING/Programa Maverar/*
+• Flyer: Secao 3, 5, 7, 8
+- Multiplos arquivos
+• Fundo-infinito: Secao 9 (Fotos Estudio)
+- Arquivos: MARKETING/Lançamento 1500kg - 40 mm/Fotos Fundo Infinito/Web/*
+
+
+
+G
+• Gancho: Secao 2, 6, 8, 9, 10
+- Multiplos arquivos
+• Guia: Secao 6 (Guias de Referencia)
+- Arquivos: MARKETING/Cards Instagram/Guias de Referencias Produtos Mave/*
+
+
+
+I
+• Implementos-rodoviarios: Secao 2, 5
+- Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Conj Sider 50mm.jpg, MARKETING/Cards Instagram/Flyer Produtos
+Essenciais/Implementos rodoviários.png
+
+
+
+K
+• Kit-moto: Secao 5, 6
+- Arquivos: MARKETING/Cards Instagram/Flyer Produtos Essenciais/Acessórios para motos.png, MARKETING/Cards Instagram/Kit Moto/*
+L
+• Lancamento: Secao 6, 7, 8, 9
+- Arquivos: MARKETING/Cards Instagram/MAVE PRO/*, MARKETING/Cards Instagram/Toldos/1.png, MARKETING/Cards Instagram/Redes
+Motos/1.jpeg, MARKETING/Cards Instagram/Trilho e Conjunto Baú/Lançamento Linha Baú.png, MARKETING/Cards Promoções do
+Mês/Julho/Lançamento Mave PRO/*, MARKETING/Lançamento 1500kg - 40 mm/*
+• Linha-Leve: Secao 2, 6
+- Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Linha Leve.png, MARKETING/Cards Instagram/MAVE PRO/Linha Leve - Mave
+Pro/Conjunto 35mm.jpeg
+• Logo: Secao 6
+- Arquivos: MARKETING/Cards Instagram/Logo Mave/*
+• Logistica: Secao 1, 5
+- Arquivos: MARKETING/1308/DSC_*.JPG, MARKETING/Cards Instagram/Flyer Produtos Essenciais/Transportadoras.png
+
+
+
+M
+• Mave-PRO: Secao 6, 7, 8, 9
+- Arquivos: MARKETING/Cards Instagram/MAVE PRO/*, MARKETING/Cards Promoções do Mês/Julho/Lançamento Mave PRO/*,
+MARKETING/Lançamento 1500kg - 40 mm/*
+• Maverar: Secao 11
+- Arquivos: MARKETING/Programa Maverar/*
+• Merchandising: Secao 4, 13
+- Arquivos: MARKETING/Cards Instagram/Expositor/Materiais - Clientes Expositores/*, MARKETING/Trade Marketing/Materiais de Merchandising/*
+• Meta-Ads: Secao 7, 8
+- Arquivos: MARKETING/Cards Promoções do Mês/Outubro/Banner Site*.png, MARKETING/Lançamento 1500kg - 40 mm/Card Whatsapp
+(Conversas)/MADS*.png, MARKETING/Lançamento 1500kg - 40 mm/Status Whatsapp/MADS*.png
+• Mix-expositor: Secao 13
+- Arquivo: MARKETING/Trade Marketing/Materiais de Merchandising/Card - Mix Expositor Comercial .png
+• Moto: Secao 5, 6
+- Arquivos: MARKETING/Cards Instagram/Flyer Produtos Essenciais/Acessórios para motos.png, MARKETING/Cards Instagram/Kit Moto/*,
+MARKETING/Cards Instagram/Redes Motos/*
+
+
+
+N
+• Novembro-Azul: Secao 7 (Promocoes Novembro)
+- Arquivos: MARKETING/Cards Promoções do Mês/Novembro/Extensores _ Novembro Azul*.png
+• 1500kg: Secao 8, 9
+- Arquivos: MARKETING/Lançamento 1500kg - 40 mm/*
+
+
+
+P
+• PDV: Secao 4, 13
+- Multiplos arquivos
+• Premium: Secao 2, 6, 8, 9
+- Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Conj Premium*.png, MARKETING/Cards Instagram/MAVE PRO/*,
+MARKETING/Lançamento 1500kg - 40 mm/*
+• Producao: Secao 6 (Producao de Extensores)
+- Arquivos: MARKETING/Cards Instagram/Produção de Extensores/*.png
+• Promocao: Secao 7
+- Arquivos: MARKETING/Cards Promoções do Mês/*
+• Promob: Secao 10
+- Arquivos: MARKETING/Promob/*
+• Protecao-UV: Secao 2, 6
+- Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Extensores Duplo Premium.png, MARKETING/Cards Instagram/Toldos/*.png
+
+
+
+R
+• Rede: Secao 6, 7, 12
+- Arquivos: MARKETING/Cards Instagram/Redes Motos/*.jpeg, MARKETING/Cards Promoções do Mês/Junho/Rede de Contenção*.png,
+MARKETING/Safras/Rede de contenção Safra da Pluma.png
+ • Rede-moto: Secao 6
+ - Arquivos: MARKETING/Cards Instagram/Redes Motos/*.jpeg
+ • Rodoviario: Secao 2, 5
+ - Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Conj Sider 50mm.jpg, MARKETING/Cards Instagram/Flyer Produtos
+ Essenciais/Implementos rodoviários.png
+
+
+
+ S
+ • Safra: Secao 5, 7, 12
+ - Arquivos: MARKETING/Cards Instagram/Flyer Produtos Essenciais/Lojas Agrícolas.png, MARKETING/Cards Promoções do Mês/Setembro/Safra da
+ Pluma/*, MARKETING/Safras/Rede de contenção Safra da Pluma.png
+ • Segmento: Secao 5 (Flyer por Segmento)
+ - Arquivos: MARKETING/Cards Instagram/Flyer Produtos Essenciais/*
+ • Sider: Secao 2, 5
+ - Arquivos: MARKETING/Cards Instagram/Cards Produtos Principais/Conj Sider 50mm.jpg, MARKETING/Cards Instagram/Flyer Produtos
+ Essenciais/Implementos rodoviários.png
+ • Sinalizacao: Secao 4, 13
+ - Arquivos: MARKETING/Cards Instagram/Expositor/Materiais - Clientes Expositores/Adesivos/*.png, MARKETING/Trade Marketing/Materiais de
+ Merchandising/Stopper.JPG, MARKETING/Trade Marketing/Materiais de Merchandising/Wobbler.JPG
+ • Stopper: Secao 13
+ - Arquivo: MARKETING/Trade Marketing/Materiais de Merchandising/Stopper.JPG
+ • Stories: Secao 4, 7, 8
+ - Multiplos arquivos
+
+
+ T
+ • Toldo: Secao 6
+ - Arquivos: MARKETING/Cards Instagram/Toldos/*
+ • Tonelagem: Secao 2, 3, 6, 7
+ - Multiplos arquivos
+ • Trade-marketing: Secao 4, 13
+ - Arquivos: MARKETING/Cards Instagram/Expositor/*, MARKETING/Trade Marketing/Materiais de Merchandising/*
+ • Transportadora: Secao 5
+ - Arquivo: MARKETING/Cards Instagram/Flyer Produtos Essenciais/Transportadoras.png
+ • Treinamento: Secao 11 (Programa Maverar)
+ - Arquivos: MARKETING/Programa Maverar/Card Consulta Maverar*.png
+ • Trilho: Secao 6
+ - Arquivos: MARKETING/Cards Instagram/Trilho e Conjunto Baú/*
+
+
+
+ V
+ • Varejo: Secao 4, 5, 13
+ - Multiplos arquivos
+
+
+ W
+ • WhatsApp: Secao 6, 7, 8, 11
+ - Multiplos arquivos
+ • Wobbler: Secao 13
+ - Arquivo: MARKETING/Trade Marketing/Materiais de Merchandising/Wobbler.JPG
+
+          MAPA DE OBJECOES COMERCIAIS - REFERENCIA
+                          RAPIDA
+Objecao do Cliente                                Secoes Recomendadas                                             Estrategia
+"E muito caro" / "Nao tenho orcamento"            7 (Promocoes do Mes)                                            Mostrar promocoes mensais com
+                                                                                                                  descontos, queima de estoque
+Objecao do Cliente                            Secoes Recomendadas                                   Estrategia
+"Nao conheco a Mave" / "Marca desconhecida"   1 (Corporativo), 4 (Expositor Clientes)               Fotos de equipe em galpao
+                                                                                                    industrial + fotos de clientes reais
+                                                                                                    usando expositor
+"Qualidade duvidosa" / "Acabamento fraco"     9 (Fotos Estudio), 6 (Mave PRO)                       Fotos profissionais close-up
+                                                                                                    mostrando costura, ganchos
+                                                                                                    bicromatizados, acabamento
+                                                                                                    premium
+"Nao confio na seguranca"                     3 (Cintas de Elevacao)                                Cards com fator 7:1,
+                                                                                                    conformidade NBR, sistema de
+                                                                                                    cores por tonelagem
+"Nao serve para meu segmento"                 5 (Flyer Segmentado)                                  Flyer especifico para cada tipo
+                                                                                                    de negocio (moto, auto pecas,
+                                                                                                    ferragem, EPI, etc)
+"Produtos nao vendem na minha loja"           4 (Expositor Clientes)                                Fotos de 20+ clientes reais com
+                                                                                                    expositor instalado vendendo
+                                                                                                    Mave
+"Nao tenho espaco"                            4 (Expositor Medidas)                                 Card com dimensoes exatas:
+                                                                                                    Aramado 158x55x45cm ou
+                                                                                                    Balcao compacto
+"Nao tem novidade"                            8 (Lancamento Cards), 6 (Lancamentos diversos)        Cards de lancamento 1500kg,
+                                                                                                    Mave PRO, Toldos, Redes Moto,
+                                                                                                    Trilho Bau
+"Nao tem produto premium"                     6 (Mave PRO), 8 e 9 (Lancamento 1500kg)               Linha PRO com ganchos
+                                                                                                    bicromatizados, empunhadura
+                                                                                                    emborrachada, case exclusiva
+"Preciso de imagens para e-commerce"          9 (Fotos Estudio), 10 (Promob)                        92 fotos fundo infinito + 23
+                                                                                                    recortados sem fundo em todas
+                                                                                                    as cores
+"Nao sei organizar o PDV"                     4 (Materiais Expositor), 13 (Trade Marketing)         Kit completo: adesivos, cartazes
+                                                                                                    A3/A4, stories, stopper, wobbler,
+                                                                                                    display balcao
+"Preciso de programa de fidelizacao"          11 (Programa Maverar)                                 Treinamentos, materiais
+                                                                                                    marketing, premios e brindes
+                                                                                                    para revendedores
+"Nao vendo para agricultores"                 5 (Flyer Agricola), 12 (Safras), 7 (Safra da Pluma)   Flyer especifico + rede de
+                                                                                                    contencao para safra +
+                                                                                                    promocao sazonal
+"Quais cores tem?"                            3 (Cintas Elevacao), 10 (Promob)                      Sistema cores por tonelagem +
+                                                                                                    extensores em 11 cores com
+                                                                                                    imagens recortadas
+
+ Total de imagens neste catalogo: 320
+ Secoes: 13
+ Ultima atualizacao: Marco 2026
+

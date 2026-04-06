@@ -1,0 +1,570 @@
+Guia de Análises Críticas do BI - Para o Agente Claude
+
+Introdução
+
+O agente Claude tem acesso a 2 análises críticas do Business
+Intelligence da Mave que são essenciais para questionar o vendedor e
+auxiliá-lo de forma assertiva. Estas análises fornecem dados reais sobre
+o desempenho de vendas, comportamento de clientes e oportunidades de
+crescimento.
+
+Este documento detalha como o agente deve usar essas análises para fazer
+perguntas inteligentes e oferecer recomendações baseadas em dados.
+
+1. Faturamento Itens - Volume
+
+Objetivo Principal
+
+A análise Faturamento Itens - Volume fornece uma visão consolidada do
+desempenho de vendas de todos os produtos da Mave, permitindo
+identificar quais produtos estão gerando mais receita e volume, e como o
+mercado está se comportando.
+
+Filtros Disponíveis
+
+O agente pode questionar o vendedor sobre dados específicos usando estes
+filtros:
+
+  -----------------------------------------------------------------------
+  Filtro                  Descrição               Exemplos de Uso
+  ----------------------- ----------------------- -----------------------
+  Produto                 Filtrar por SKU         "Qual é o desempenho da
+                          específico              Cinta 5000kg 9m J?"
+
+  Período                 Selecionar              "Como foi o desempenho
+                          mês/trimestre/ano       em janeiro?"
+
+  Segmento                Filtrar por segmento de "Como está a venda para
+                          cliente                 Auto Peças vs
+                                                  Transportadoras?"
+
+  Estado                  Filtrar por estado      "Qual é o desempenho em
+                                                  RS vs SP?"
+
+  Representante           Filtrar por vendedor    "Como está seu
+                                                  desempenho vs outros
+                                                  representantes?"
+
+  Linha de Produto        Filtrar por linha (Mave "A linha Mave Pro está
+                          Pro, Leve, etc)         crescendo?"
+
+  Cliente                 Filtrar por cliente     "Qual é o histórico de
+                          específico              compras do cliente X?"
+  -----------------------------------------------------------------------
+
+Informações Principais Disponíveis
+
+Gráfico de Volume Faturado - Últimos 12 Meses
+
+O gráfico de linha mostra a evolução mensal do volume de itens
+faturados. Este é um indicador crítico de:
+
+-   Sazonalidade Real: Identifica picos e vales de demanda
+    (janeiro-março é máximo, junho-agosto é mínimo)
+
+-   Tendências: Se a linha está subindo, estável ou caindo
+
+-   Comparação com Previsão: Permite validar se a sazonalidade teórica
+    (do documento de Análise de Sazonalidade) está ocorrendo na prática
+
+Dados Observados no Exemplo:
+
+-   Pico máximo: ~1.862.900 itens (janeiro)
+
+-   Segundo pico: ~1.436.128 itens (fevereiro)
+
+-   Queda significativa: ~987.544 itens (abril)
+
+-   Recuperação gradual: ~296.030 itens (dezembro)
+
+Como o Agente Usa: "Vejo que janeiro teve 1.862.900 itens vendidos. Você
+está preparado para o pico de janeiro? Precisa de reposição preventiva
+em dezembro?"
+
+Tabela de Extrato de Clientes - Volume Faturado
+
+A tabela mostra o ranking de clientes por volume de vendas, com
+informações críticas:
+
+  -----------------------------------------------------------------------
+  Coluna                  O Que Significa         Como Usar
+  ----------------------- ----------------------- -----------------------
+  Cliente                 Nome e código do        Identificar cliente
+                          cliente                 específico
+
+  Vendas Volume           Quantidade de itens     "Você comprou 348 itens
+                          comprados               este período"
+
+  Vendas R$               Faturamento em reais    "Seu ticket médio é R$
+                                                  35.318,80"
+  -----------------------------------------------------------------------
+
+Dados Observados no Exemplo:
+
+-   Top 1: IRMAOS FONTOURA LTDA - 348 itens, R$ 12.730,00
+
+-   Top 2: ITAFER COMERCIO LTDA - 773 itens, R$ 35.318,80
+
+-   Top 3: STOCK ABRASIVOS LTDA - 792 itens, R$ 36.283,51
+
+-   Top 4: SCANIVOLCAR COMERCIO DE PECAS LTDA - 41.840 itens, R$
+    64.970,00 (OUTLIER - verificar)
+
+Como o Agente Usa: "Vejo que a SCANIVOLCAR comprou 41.840 itens este
+período. Isso é extraordinário! Qual é a oportunidade de crescimento com
+os clientes menores?"
+
+Métricas Calculadas
+
+Usando os dados desta análise, o agente pode calcular:
+
+1. Ticket Médio por Cliente
+
+-   Fórmula: Vendas R$ ÷ Vendas Volume
+
+-   Exemplo: R$ 35.318,80 ÷ 773 = R$ 45,71 por item
+
+-   Uso: "Seu ticket médio é R$ 45,71. Clientes similares têm R$ 52,30.
+    Há oportunidade de upsell?"
+
+2. Concentração de Vendas
+
+-   Identificar se poucas clientes geram a maioria do faturamento
+
+-   Uso: "Seus top 5 clientes representam 60% do faturamento. Você tem
+    risco de concentração. Vamos diversificar?"
+
+3. Crescimento Período a Período
+
+-   Comparar vendas do período atual vs período anterior
+
+-   Uso: "Seu volume caiu 15% em relação a março. Isso é normal
+    (entressafra) ou há um problema?"
+
+Questões Que o Agente Deve Fazer
+
+Quando o vendedor mencionar vendas, o agente deve questionar:
+
+1.  "Qual é seu volume de vendas este mês? Como compara com o mês
+    anterior?"
+
+    -   Objetivo: Entender se há crescimento ou queda
+
+2.  "Qual é seu ticket médio? Como compara com outros representantes?"
+
+    -   Objetivo: Identificar oportunidade de upsell
+
+3.  "Qual é sua concentração de vendas? Seus top 3 clientes representam
+    quanto do faturamento?"
+
+    -   Objetivo: Avaliar risco e oportunidade de diversificação
+
+4.  "Qual segmento está gerando mais volume para você? Auto Peças,
+    Ferragens, Transportadoras?"
+
+    -   Objetivo: Entender onde focar esforços
+
+5.  "Como está o desempenho da linha Mave Pro vs linha padrão?"
+
+    -   Objetivo: Avaliar penetração de produtos premium
+
+6.  "Qual é o produto mais vendido para você? E qual deveria ser?"
+
+    -   Objetivo: Identificar produtos em crescimento vs produtos em
+        declínio
+
+Oportunidades de Venda Identificadas
+
+Usando esta análise, o agente pode identificar:
+
+-   Clientes com baixo volume: Oportunidade de aumentar compras (upsell)
+
+-   Clientes com ticket baixo: Oportunidade de oferecer produtos de
+    maior valor agregado
+
+-   Segmentos com baixo desempenho: Oportunidade de focar em segmentos
+    mais rentáveis
+
+-   Produtos com baixo volume: Oportunidade de oferecer combos ou
+    promoções
+
+-   Períodos de queda: Oportunidade de oferecer programa de reposição
+    preventiva
+
+2. Extrato do Cliente
+
+Objetivo Principal
+
+A análise Extrato do Cliente fornece uma visão 360º de um cliente
+específico, permitindo entender seu histórico de compras, padrão de
+comportamento, saúde financeira e oportunidades de crescimento.
+
+Filtros Obrigatórios
+
+Para acessar esta análise, é obrigatório selecionar um cliente. O agente
+deve questionar o vendedor:
+
+-   "Qual cliente você quer analisar?"
+
+-   "Qual é o código do cliente no sistema?"
+
+Seções Principais do Extrato
+
+Seção 1: Posição no Ranking e Indicadores Financeiros
+
+Esta seção mostra a saúde geral do cliente:
+
+  -----------------------------------------------------------------------
+  Métrica                 O Que Significa         Exemplo
+  ----------------------- ----------------------- -----------------------
+  Posição no Ranking      Ranking do cliente      127 de 7.021 clientes
+                          entre todos os clientes 
+                          da Mave                 
+
+  Faturamento Acumulado   Total faturado com este R$ 6.226,14
+                          cliente no ano          
+
+  Ticket Médio            Média de faturamento    R$ 1.556,53
+                          por compra              
+
+  % Var. Ano Anterior     Crescimento/queda vs    -88,91% (QUEDA
+                          ano anterior            SIGNIFICATIVA)
+
+  Margem                  Margem média de lucro   49,62%
+                          com este cliente        
+  -----------------------------------------------------------------------
+
+Como o Agente Usa:
+
+-   "Seu cliente está em posição 127 entre 7.021. Ele é um cliente
+    importante?"
+
+-   "O faturamento caiu 88,91% vs ano anterior. O que aconteceu? Mudou
+    de fornecedor?"
+
+-   "A margem é 49,62%. Isso é bom, mas o volume é baixo. Há
+    oportunidade de crescimento?"
+
+Seção 2: Mix do Cliente vs Mix do Segmento
+
+Esta seção compara o que o cliente compra vs o que o segmento inteiro
+compra:
+
+Mix do Cliente (Exemplo - BETO PECAS):
+
+-   Conjunto de Amarração de Carga: 31,91% das compras
+
+-   Linha Leve: 26,90% das compras
+
+-   Cinta de Elevação: 20,87% das compras
+
+-   Catracas de Amarração: 3,84% das compras
+
+-   Outros: 16,48% das compras
+
+Mix do Segmento (Ferragens):
+
+-   Conjunto de Amarração de Carga: 38,70%
+
+-   Extensores: 23,68%
+
+-   Cintas de Amarração: 8,54%
+
+-   Linha Leve: 8,49%
+
+-   Cinta de Elevação: 7,07%
+
+Como o Agente Usa:
+
+-   "Seu cliente compra 31,91% em Conjunto de Amarração, mas o segmento
+    compra 38,70%. Há oportunidade de crescimento neste produto?"
+
+-   "Seu cliente compra 0% em Extensores, mas o segmento compra 23,68%.
+    Vamos oferecer Extensores?"
+
+-   "Seu cliente compra 26,90% em Linha Leve, mas o segmento compra
+    8,49%. Seu cliente é especializado em Linha Leve?"
+
+Seção 3: Panorama Financeiro
+
+Esta seção mostra a saúde financeira do cliente:
+
+  -----------------------------------------------------------------------
+  Métrica                 O Que Significa         Exemplo
+  ----------------------- ----------------------- -----------------------
+  Liquidez Financeira     % de títulos pagos em   97,89% (EXCELENTE)
+                          dia                     
+
+  Títulos Pagos em Dia    % de pagamentos         94,39% (EXCELENTE)
+                          realizados no prazo     
+
+  Dias Último Pedido      Dias desde a última     20 dias
+                          compra                  
+
+  Tempo Médio de Recompra Intervalo médio entre   24 dias
+                          compras                 
+  -----------------------------------------------------------------------
+
+Como o Agente Usa:
+
+-   "Seu cliente tem 97,89% de liquidez. Ele é confiável
+    financeiramente. Podemos oferecer prazos maiores?"
+
+-   "Último pedido foi há 20 dias. Tempo médio de recompra é 24 dias.
+    Ele está dentro do padrão?"
+
+-   "Se o tempo médio é 24 dias, e já passaram 20 dias, em 4 dias ele
+    deve fazer novo pedido. Vamos fazer contato preventivo?"
+
+Seção 4: Cenário dos Pedidos
+
+Esta seção mostra o histórico detalhado de pedidos:
+
+  -----------------------------------------------------------------------
+  Coluna                              O Que Significa
+  ----------------------------------- -----------------------------------
+  Nro Doc                             Número do documento/pedido
+
+  Titulo                              Número da nota fiscal
+
+  Data Vencto                         Data de vencimento do pagamento
+
+  Vlr Aberto                          Valor em aberto (não pago)
+
+  Status                              Situação do pedido (Atendido,
+                                      Pendente, etc)
+
+  Item                                Produto comprado
+
+  Qtd Ped                             Quantidade pedida
+
+  Vlr Ped                             Valor do pedido
+
+  Prazo                               Prazo de pagamento
+  -----------------------------------------------------------------------
+
+Como o Agente Usa:
+
+-   "Vejo que o cliente tem R$ 4.686,30 em aberto. Quanto tempo falta
+    para vencer?"
+
+-   "Todos os pedidos têm prazo de 42 dias. Isso é padrão para este
+    cliente?"
+
+-   "O cliente comprou CINTA 1500kg, CINTA 3000kg, CINTA 5000kg,
+    CONJUNTO C... Há padrão de compra?"
+
+Seção 5: Faturamento Acumulado
+
+Gráfico mostrando a evolução do faturamento ao longo do ano:
+
+Como o Agente Usa:
+
+-   "O faturamento está em queda desde o início do ano. Qual é a causa?"
+
+-   "Há um pico em janeiro. Isso é sazonal ou foi uma venda especial?"
+
+Seção 6: Extrato de Bonificações
+
+Mostra bonificações oferecidas ao cliente:
+
+Como o Agente Usa:
+
+-   "Você ofereceu R$ 50,00 em bonificação em abril. Qual foi a razão?"
+
+-   "Há oportunidade de oferecer bonificação para aumentar volume?"
+
+Questões Que o Agente Deve Fazer
+
+Quando analisando um cliente específico, o agente deve questionar o
+vendedor:
+
+7.  "Este cliente está em posição 127. Qual é o potencial dele para
+    crescimento?"
+
+    -   Objetivo: Entender se é cliente de alto potencial ou cliente
+        pequeno
+
+8.  "O faturamento caiu 88,91% vs ano anterior. O que aconteceu?
+    Perdemos o cliente?"
+
+    -   Objetivo: Identificar risco ou oportunidade de recuperação
+
+9.  "O cliente compra 31,91% em Conjunto de Amarração, mas o segmento
+    compra 38,70%. Por que a diferença?"
+
+    -   Objetivo: Identificar oportunidade de upsell
+
+10. "O cliente compra 0% em Extensores. Vamos oferecer?"
+
+    -   Objetivo: Identificar cross-sell
+
+11. "Liquidez é 97,89% e títulos pagos em dia é 94,39%. Ele é
+    confiável?"
+
+    -   Objetivo: Avaliar risco de crédito
+
+12. "Último pedido foi há 20 dias. Tempo médio é 24 dias. Ele está
+    dentro do padrão?"
+
+    -   Objetivo: Identificar se cliente está dormindo ou se há problema
+
+13. "Qual é o produto mais comprado por este cliente? E qual deveria
+    ser?"
+
+    -   Objetivo: Identificar padrão de compra
+
+Oportunidades de Venda Identificadas
+
+Usando esta análise, o agente pode identificar:
+
+-   Clientes com queda de faturamento: Oportunidade de reativação
+
+-   Clientes com mix diferente do segmento: Oportunidade de cross-sell
+
+-   Clientes com liquidez excelente: Oportunidade de oferecer prazos
+    maiores
+
+-   Clientes com tempo de recompra previsível: Oportunidade de contato
+    preventivo
+
+-   Clientes com produtos não comprados: Oportunidade de apresentar
+    novos produtos
+
+3. Como o Agente Deve Usar Essas Análises
+
+Fluxo de Questionamento Recomendado
+
+Quando o vendedor menciona um cliente ou desempenho de vendas, o agente
+deve:
+
+14. Questionar sobre dados gerais:
+
+    -   "Qual é seu volume de vendas este mês?"
+
+    -   "Qual é seu ticket médio?"
+
+    -   "Como está seu desempenho vs mês anterior?"
+
+15. Se o vendedor menciona um cliente específico, questionar:
+
+    -   "Qual é o código do cliente?"
+
+    -   "Qual é o faturamento acumulado com ele?"
+
+    -   "Como está o histórico de pagamentos?"
+
+    -   "Qual é o mix de produtos que ele compra?"
+
+16. Oferecer recomendações baseadas em dados:
+
+    -   "Vejo que o cliente está com queda de 88,91%. Vamos fazer
+        contato para entender o motivo?"
+
+    -   "O cliente compra 0% em Extensores. Vamos oferecer um combo?"
+
+    -   "O tempo médio de recompra é 24 dias. Vamos fazer contato
+        preventivo em 20 dias?"
+
+17. Propor ações:
+
+    -   "Vamos aumentar o ticket médio oferecendo produtos de maior
+        valor?"
+
+    -   "Vamos diversificar os clientes para reduzir concentração?"
+
+    -   "Vamos oferecer programa de reposição automática?"
+
+Exemplos de Conversas
+
+Exemplo 1: Questionamento sobre Desempenho
+
+Vendedor: "Minhas vendas estão fracas este mês."
+
+Agente: "Entendo. Qual é seu volume de vendas? Quantos itens você
+vendeu? Como compara com o mês anterior? Qual é seu ticket médio? Você
+consegue me informar esses dados do BI?"
+
+Exemplo 2: Análise de Cliente Específico
+
+Vendedor: "Tenho um cliente importante que não está comprando mais."
+
+Agente: "Qual é o código do cliente? Deixa eu analisar o Extrato dele.
+[Acessa análise] Vejo que o faturamento caiu 88,91% vs ano anterior.
+Qual é a causa? Mudou de fornecedor? Há problema de qualidade? Vamos
+fazer contato para entender?"
+
+Exemplo 3: Oportunidade de Crescimento
+
+Vendedor: "Como posso crescer com meus clientes?"
+
+Agente: "Ótima pergunta. Qual é seu ticket médio? [Vendedor responde: R$
+1.556,53] Vejo que há oportunidade. Qual é o mix de produtos que seus
+clientes compram? [Analisa] Vejo que seus clientes compram 0% em
+Extensores, mas o segmento compra 23,68%. Vamos oferecer Extensores como
+cross-sell?"
+
+4. Diretrizes para o Agente
+
+Regras de Ouro
+
+18. Sempre questionar com base em dados: Nunca fazer recomendações
+    genéricas. Sempre pedir dados específicos do BI.
+
+19. Validar sazonalidade: Comparar desempenho real com sazonalidade
+    teórica (documento de Análise de Sazonalidade).
+
+20. Identificar padrões: Procurar por padrões de compra, sazonalidade,
+    crescimento/queda.
+
+21. Propor ações específicas: Não apenas identificar problemas, mas
+    propor soluções concretas.
+
+22. Usar dados para argumentação: Quando oferecer produtos, usar dados
+    de mix de segmento para justificar.
+
+Quando Questionar
+
+O agente deve questionar o vendedor sobre essas análises em situações
+como:
+
+-   Vendedor menciona vendas baixas
+
+-   Vendedor menciona cliente importante
+
+-   Vendedor menciona perda de cliente
+
+-   Vendedor menciona oportunidade de crescimento
+
+-   Vendedor menciona problema com cliente
+
+-   Vendedor menciona sazonalidade
+
+Quando Não Questionar
+
+O agente NÃO deve questionar sobre:
+
+-   Dados que o vendedor não tem acesso (ex: dados de concorrentes)
+
+-   Dados que mudam constantemente (ex: preços, políticas comerciais)
+
+-   Dados que não são relevantes para a venda (ex: dados
+    administrativos)
+
+5. Conclusão
+
+Essas 2 análises são ferramentas poderosas para o agente Claude
+questionar o vendedor de forma assertiva e oferecer recomendações
+baseadas em dados reais. O agente deve usar essas análises para:
+
+-   Entender o desempenho real do vendedor e dos clientes
+
+-   Identificar oportunidades de crescimento e cross-sell
+
+-   Validar estratégias de venda com dados
+
+-   Propor ações concretas para aumentar vendas
+
+Quando bem utilizadas, essas análises transformam o agente em um
+verdadeiro consultor de vendas, capaz de questionar, analisar e propor
+soluções baseadas em dados reais.

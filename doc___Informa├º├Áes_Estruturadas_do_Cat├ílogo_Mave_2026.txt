@@ -1,0 +1,565 @@
+Informações Estruturadas do Catálogo Mave 2026
+
+Categorias de Produtos
+
+O catálogo 2026 da Mave está organizado nas seguintes categorias:
+
+1.  Mave PRO (página 4) - Linha premium
+
+2.  Linha Leve de Amarração (página 8)
+
+3.  Catracas e Cintas de Amarração (página 11)
+
+4.  Cintas de Amarração (página 19)
+
+5.  Catracas com Rabicho (página 27)
+
+6.  Catracas Móveis (página 35)
+
+7.  Catracas Fixas (página 39)
+
+8.  Cintas para Elevação (página 43)
+
+9.  Extensores Elásticos (página 48)
+
+10. Ganchos (página 51)
+
+11. Rede de Contenção (página 55)
+
+12. Toldo de Lona (página 57)
+
+13. Acessórios (página 59)
+
+Produtos Mave PRO
+
+1. Conjunto Retrátil 800kg 25mm 1,8m S Preto
+
+-   SKU: MCJ402
+
+-   Capacidade: 800kg
+
+-   Largura: 25mm
+
+-   Comprimento: 1,8m
+
+-   Gancho: Tipo S
+
+-   Características: Sistema retrátil com enrolamento automático
+
+2. Conjunto Cinta e Catraca 1500kg 40mm Mosquetão Preto
+
+-   SKU: MCJ707
+
+-   Capacidade: 1500kg
+
+-   Largura: 40mm
+
+-   Comprimento: 3m
+
+-   Gancho: Mosquetão
+
+-   Embalagem: Mala de transporte (Lança Merte)
+
+3. Conjunto Cinta e Catraca 1500kg 40mm J Preto
+
+-   SKU: MCJ719
+
+-   Capacidade: 1500kg
+
+-   Largura: 40mm
+
+-   Comprimento: 6m
+
+-   Gancho: Tipo J
+
+-   Embalagem: Mala de transporte (Lança Merte)
+
+4. Conjunto Cinta e Catraca 1500kg 35mm J Preto
+
+-   SKU: MCJ006 (6m), MCJ007 (9m)
+
+-   Capacidade: 1500kg
+
+-   Largura: 35mm
+
+-   Comprimento: 6m ou 9m
+
+-   Gancho: Tipo J
+
+-   Embalagem: Mala de transporte
+
+5. Conjunto Cinta e Catraca 1500kg 35mm S Preto
+
+-   SKU: MCJ005
+
+-   Capacidade: 1500kg
+
+-   Largura: 35mm
+
+-   Comprimento: 3m
+
+-   Gancho: Tipo S
+
+6. Conjunto Cinta e Catraca 3000kg 9m J Preto
+
+-   SKU: MCJ435
+
+-   Capacidade: 3000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Tipo J
+
+7. Conjunto Cinta e Catraca 5000kg 9m J Preto
+
+-   SKU: MCJ115
+
+-   Capacidade: 5000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Tipo J
+
+8. Kit Moto Catraca 800kg 25mm
+
+-   SKU: MCJ044
+
+-   Capacidade: 800kg
+
+-   Largura: 25mm
+
+-   Comprimento: 3m
+
+-   Gancho: Tipo S
+
+9. Kit Moto Esticador 800kg 25mm
+
+-   SKU: MCJ103
+
+-   Capacidade: 800kg
+
+-   Largura: 25mm
+
+-   Comprimento: 3m
+
+-   Gancho: Tipo S
+
+10. Kit de Cintas Rack
+
+-   SKU: MCJ308
+
+-   Capacidade: 400kg
+
+-   Largura: 25mm
+
+-   Comprimento: 1,8m cada
+
+Linha Leve de Amarração
+
+1. Conjunto Cinta e Catraca 800kg 25mm 3m S Preto
+
+-   SKU: MCJ001
+
+-   Capacidade: 800kg
+
+-   Largura: 25mm
+
+-   Comprimento: 3m
+
+-   Gancho: Tipo S
+
+-   Embalagem: Exclusiva
+
+2. Conjunto Esticador 800kg 25mm 3m S Preto
+
+-   SKU: MCJ002
+
+-   Capacidade: 800kg
+
+-   Largura: 25mm
+
+-   Comprimento: 3m
+
+-   Gancho: Tipo S
+
+3. Conjunto Cinta e Catraca 800kg 25mm 3m J Preto
+
+-   SKU: MCJ177
+
+-   Capacidade: 800kg
+
+-   Largura: 25mm
+
+-   Comprimento: 3m
+
+-   Gancho: Tipo J
+
+4. Conjunto Cinta e Catraca 1500kg 25mm 3m S Preto
+
+-   SKU: MCJ003
+
+-   Capacidade: 1500kg
+
+-   Largura: 25mm
+
+-   Comprimento: 3m
+
+-   Gancho: Tipo S
+
+5. Conjunto Cinta e Catraca 1500kg 25mm 6m J Preto
+
+-   SKU: MCJ004
+
+-   Capacidade: 1500kg
+
+-   Largura: 25mm
+
+-   Comprimento: 6m
+
+-   Gancho: Tipo J
+
+6. Conjunto Cinta e Catraca 1500kg 35mm Preto Compacto
+
+-   SKU: MCJ005B (3m), MCJ006B (6m), MCJ007B (9m)
+
+-   Capacidade: 1500kg
+
+-   Largura: 35mm
+
+-   Gancho: Tipo S / J
+
+-   Comprimento: 3m, 6m ou 9m
+
+Catracas e Cintas de Amarração
+
+1. Conjunto Cinta e Catraca 1500kg 50mm 9m J
+
+-   SKU: MCJ008
+
+-   Capacidade: 1500kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Tipo J
+
+-   Embalagem: Exclusiva
+
+2. Conjunto Cinta e Catraca 1500kg 50mm 9m Sider
+
+-   SKU: MCJ072
+
+-   Capacidade: 1500kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Sider
+
+-   Embalagem: Exclusiva
+
+3. Conjunto Cinta e Catraca 2000kg 9m J
+
+-   SKU: MCJ010
+
+-   Capacidade: 2000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Tipo J
+
+4. Conjunto Cinta e Catraca 2000kg 9m Sider
+
+-   SKU: MCJ064
+
+-   Capacidade: 2000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Sider
+
+5. Conjunto Cinta e Catraca 3000kg 9m J
+
+-   SKU: MCJ014
+
+-   Capacidade: 3000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Tipo J
+
+6. Conjunto Cinta e Catraca 3000kg 9m J Branco
+
+-   SKU: MCJ015
+
+-   Capacidade: 3000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Tipo J
+
+-   Cor: Branco
+
+7. Conjunto Cinta e Catraca 3000kg 9m Sider
+
+-   SKU: MCJ016
+
+-   Capacidade: 3000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Sider
+
+8. Conjunto Cegonheiro 3000kg 4m
+
+-   SKU: MCJ018
+
+-   Capacidade: 3000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 4m
+
+-   Gancho: Giratório
+
+9. Conjunto Cinta e Catraca 4000kg 9m J
+
+-   SKU: MCJ019
+
+-   Capacidade: 4000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Tipo J
+
+10. Conjunto Cinta e Catraca 4000kg 9m Sider
+
+-   SKU: MCJ020
+
+-   Capacidade: 4000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Sider
+
+11. Conjunto Cinta e Catraca 5000kg 9m J
+
+-   SKU: MCJ022
+
+-   Capacidade: 5000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Tipo J
+
+12. Conjunto Cinta e Catraca 5000kg 9m J Compacto
+
+-   SKU: MCJ022B
+
+-   Capacidade: 5000kg
+
+-   Largura: 50mm
+
+-   Comprimento: 9m
+
+-   Gancho: Tipo J
+
+Acessórios
+
+Barrigueiras
+
+-   Barrigueira 3000kg com Gancho (MCJ039): 50mm x 40cm, aço carbono
+
+-   Barrigueira 3000kg com Alça (MCJ038): 50mm x 40cm
+
+Cintas Laterais
+
+-   Cinta Lateral Sider 45mm (MCN049): 70cm de comprimento, aço carbono
+
+-   Cinta Lateral Sider 45mm com Fixador (MCN050): 42cm de comprimento
+
+Fivelas
+
+-   Fivela Lateral Sider (MCJ045): Nylon de alta qualidade
+
+Conjuntos Graneleiro
+
+-   Conjunto Graneleiro 3000kg 50mm (MCJ041): 3m de comprimento, gancho
+    tipo H
+
+-   Conjunto Graneleiro 1500kg 50mm (MCJ040): 3m de comprimento, gancho
+    tipo H
+
+-   Conjunto Graneleiro 50mm com 2 Ganchos em U (sem SKU listado)
+
+Trilhas
+
+-   Trilha de Amarração Baú (MPGN04): 1m de comprimento, 45mm de
+    largura, aço galvanizado
+
+Redes
+
+-   Rede para Moto (MXT462, MXT463): 35x35cm ou 50x50cm, 5mm de
+    espessura
+
+Luvas
+
+-   Luva de Couro de Vaqueta (MDU434, MDU435): 100% couro, punho CA 7 e
+    15cm
+
+Cabos de Aço
+
+-   Cabo de Aço para Lacrar Carga (MDU265, MDU266, MDU267, MDU268):
+    1/16", aço zincado, 23m, 30m, 35m ou 40m
+
+Pinos
+
+-   Pino Quebra-Dedo com Nylon Flexível (MDU357, MDU361): 1/4" ou 5/16",
+    embalagem 25 unidades
+
+-   Pino Quebra-Dedo Corrente (MDU358, MDU362): 1/4" ou 5/16"
+
+-   Pino Quebra-Dedo Cabo de Aço (MDU357, MDU361): 1/4" ou 5/16"
+
+-   Pino Fueiro com Corrente (MDU365, MDU366): 7mm ou 8mm
+
+-   Pino Quebra-Dedo Simples (MDU356, MDU360): 1/4" ou 5/16"
+
+Grampos
+
+-   Grambo Tombador 4,50mm (MDU370): 4,5mm, embalagem 25 unidades
+
+-   Grampo Graneleiro em U (MGN022, MGN023): 35mm ou 50mm, embalagem 25
+    unidades
+
+Argolas e Engates
+
+-   Argola de Engate da Corrente (MDU364): Metal, embalagem 25 unidades
+
+-   Engate Corrente S (MDU367): Metal, embalagem 25 unidades
+
+Joaninhas
+
+-   Joaninhas 3x90 Carrocerias Randon (MDU368): 3mm x 90cm, embalagem 25
+    unidades
+
+-   Joaninha 2,50x65 Carrocerias Guerra (MDU369): 2,5mm x 65cm,
+    embalagem 25 unidades
+
+Fixadores
+
+-   Fixador de Tampa de Carroceria (MDU371, MDU372, MDU373): 5/8", 3/4"
+    ou 7/8", embalagem 25 unidades
+
+Toldos de Lona
+
+1. Toldo de Lona com Armação para Caminhão 2m x 2m
+
+-   SKU: MTD005, MTD006, MTD007
+
+-   Dimensões: 2m x 2m
+
+-   Material: PVC com 600 µm de espessura
+
+-   Características: Ganchos zincados, estrutura reforçada em aço
+    galvanizado, fácil instalação
+
+-   Cores disponíveis: Múltiplas
+
+2. Toldo de Lona com Armação para Caminhão 3m x 2m
+
+-   SKU: MTD002, MTD003, MTD004
+
+-   Dimensões: 3m x 2m
+
+-   Material: PVC com 600 µm de espessura
+
+-   Características: Ganchos zincados, estrutura reforçada em aço
+    galvanizado, fácil instalação
+
+-   Cores disponíveis: Múltiplas
+
+Características Técnicas Gerais
+
+Materiais Utilizados
+
+-   100% Poliéster: Alta resistência e durabilidade nas cintas
+
+-   Aço Carbono Bicromatizado: Ganchos com camada de zinco e cromo para
+    resistência à corrosão
+
+-   Aço Carbono: Catracas com empunhadura emborrachada
+
+-   Aço Galvanizado: Estruturas de toldos e trilhas
+
+-   PVC: Lonas com 600 µm de espessura
+
+-   Nylon: Fivelas e alguns acessórios
+
+-   Couro de Vaqueta: Luvas de proteção
+
+Tipos de Ganchos Disponíveis
+
+-   Tipo J: Gancho em forma de J
+
+-   Tipo S: Gancho em forma de S
+
+-   Sider: Gancho lateral
+
+-   Mosquetão: Gancho tipo mosquetão
+
+-   Giratório: Gancho giratório (para cegonheiro)
+
+-   Tipo H: Gancho em forma de H (para graneleiro)
+
+-   Gancho em U: Para graneleiros
+
+Conformidade Normativa
+
+-   ABNT NBR 15883-2: Especificações de cintas têxteis para amarração de
+    cargas
+
+-   Todos os conjuntos seguem adequações conforme previsto pela norma
+
+Faixa de Capacidades
+
+A Mave oferece produtos em uma ampla faixa de capacidades:
+
+-   Leve: 400kg a 800kg (Linha Leve, Kits de Moto)
+
+-   Média: 1500kg a 2000kg (Linha Leve e Catracas Padrão)
+
+-   Pesada: 3000kg a 5000kg (Catracas de Amarração e Conjuntos
+    Cegonheiro)
+
+Comprimentos Disponíveis
+
+Os produtos estão disponíveis em diversos comprimentos:
+
+-   Curtos: 1,8m a 3m (Linha Leve, Kits Moto, Acessórios)
+
+-   Médios: 4m a 6m (Conjuntos variados)
+
+-   Longos: 9m (Catracas e Cintas de Amarração padrão)

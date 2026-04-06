@@ -1,0 +1,1050 @@
+Análise de Segmentação de Clientes - Mave
+
+Versão: 1.0
+Objetivo: Documento com análise detalhada de segmentação de clientes da
+Mave, incluindo perfis, dores, necessidades, comportamentos de compra e
+estratégias de vendas específicas. Estruturado para auxiliar o agente
+Claude em personalização de abordagem, identificação de oportunidades e
+argumentação consultiva.
+
+Resumo Executivo
+
+A Mave atende a 6.227 clientes distribuídos em 9 segmentos principais,
+cada um com características, desafios e necessidades distintas. Os três
+segmentos principais (Auto Peças/Acessórios para Caminhão, Ferragens e
+Transportadoras) representam 69% dos clientes e 72% do faturamento. Cada
+segmento possui ciclo de compra específico (variando de 63 a 208 dias),
+ticket médio diferenciado e motivações de compra únicas. Compreender
+estes segmentos é crítico para o agente Claude personalizar abordagem e
+maximizar taxa de conversão.
+
+Parte 1: Segmento Auto Peças/Acessórios para Caminhão
+
+1.1 Perfil do Segmento
+
+Tamanho: 2.242 clientes (36% do total)
+Faturamento: 42% do faturamento total
+Ticket Médio: Aproximadamente R$ 8.500 a R$ 12.000
+Ciclo de Compra: 151 dias
+Distribuição Geográfica: Concentrado em RS, SP, SC, PR
+
+Características Principais
+
+O segmento de Auto Peças/Acessórios para Caminhão é composto por lojas
+especializadas em venda de peças, acessórios e produtos para caminhões.
+Estas lojas funcionam como pontos de venda (PDV) que atendem
+transportadores, proprietários de caminhões e oficinas. São
+estabelecimentos que combinam varejo e distribuição, frequentemente com
+estrutura de loja física e atendimento direto ao consumidor final.
+
+Estas lojas possuem características típicas de pequeno a médio varejo:
+espaço limitado, necessidade de giro rápido de estoque, sensibilidade a
+preço, mas também reconhecimento da importância de qualidade. Muitas
+operam em regiões com alta concentração de transportadores, como
+proximidades de rodovias e polos logísticos.
+
+1.2 Dores Principais
+
+1. Pressão de Preço Constante
+
+Clientes deste segmento sofrem pressão contínua de preço de seus
+clientes finais (transportadores). Transportadores buscam reduzir custos
+operacionais, o que se reflete em pressão por preço nas lojas de
+acessórios. Isto força as lojas a negociar preços mais agressivos com
+fornecedores.
+
+2. Necessidade de Giro Rápido de Estoque
+
+Com espaço limitado e capital de giro reduzido, estas lojas precisam
+vender produtos rapidamente. Produtos que ficam muito tempo em estoque
+representam capital imobilizado e risco de obsolescência. Isto cria
+pressão por produtos que vendem rápido.
+
+3. Falta de Visibilidade e Diferenciação
+
+Muitas lojas operam em mercados altamente competitivos com múltiplos
+concorrentes próximos. Falta de visibilidade e diferenciação resulta em
+dificuldade de atrair clientes e justificar preços premium. Isto leva a
+competição baseada em preço.
+
+4. Dificuldade em Manter Equipe Treinada
+
+Rotatividade de funcionários é alta neste segmento. Treinar equipe em
+produtos técnicos é desafiador quando funcionários saem frequentemente.
+Isto resulta em atendimento inconsistente e perda de vendas.
+
+5. Gestão de Estoque Complexa
+
+Com múltiplas categorias de produtos, tamanhos, capacidades e variações,
+gestão de estoque é complexa. Falta de informação sobre quais produtos
+vendem melhor leva a estoque desbalanceado (muito de alguns produtos,
+falta de outros).
+
+6. Competição com Importadores Chineses
+
+Importadores chineses oferecem preços muito mais baixos, mesmo que com
+qualidade inferior. Isto cria pressão para que lojas também ofereçam
+produtos baratos, mesmo que de qualidade questionável.
+
+1.3 Necessidades Principais
+
+1. Produtos que Vendem Rápido
+
+Necessidade crítica de produtos com demanda comprovada que giram estoque
+rapidamente. Produtos que ficam em prateleira são vistos como problema,
+não como oportunidade.
+
+2. Margens Competitivas
+
+Necessidade de margens que permitam competir com concorrentes e
+importadores, mas que também permitam lucro. Busca por equilíbrio entre
+preço competitivo e margem viável.
+
+3. Suporte de Marketing e Visibilidade
+
+Necessidade de suporte para diferenciar-se de concorrentes. Isto inclui
+materiais de marketing, displays, promoções, participação em eventos,
+presença em redes sociais.
+
+4. Treinamento de Equipe
+
+Necessidade de treinamento simples e rápido para equipe de vendas.
+Treinamento que resulte em equipe mais confiante e capaz de vender
+melhor.
+
+5. Informações sobre Tendências
+
+Necessidade de informação sobre quais produtos estão em alta demanda,
+quais segmentos estão crescendo, quais produtos são tendência. Isto
+ajuda em decisões de estoque e mix de produtos.
+
+6. Programa de Fidelização
+
+Necessidade de programas que incentivem compras repetidas e aumentem
+ticket médio. Programas que recompensem volume e lealdade.
+
+1.4 Comportamento de Compra
+
+Frequência: Compras mensais a bimensais, com picos sazonais (safra,
+construção)
+Ticket Médio: R$ 8.500 a R$ 12.000 por compra
+Ciclo: 151 dias entre recompras
+Sensibilidade a Preço: Alta
+Sensibilidade a Qualidade: Média-Alta
+Influenciadores: Demanda de clientes finais, concorrência local,
+tendências de mercado
+
+1.5 Produtos Essenciais
+
+Para o segmento Auto Peças/Acessórios para Caminhão, os produtos
+essenciais recomendados são:
+
+-   Cinta + Catraca para Amarração: Capacidades de 3.000kg, 5.000kg e
+    10.000kg (produtos com maior demanda)
+
+-   Cintas de Elevação: Capacidades de 1.000kg, 2.000kg, 3.000kg e
+    5.000kg
+
+-   Elásticos Extensores: Gancho Metálico, Gancho Plástico, Gancho Duplo
+    Premium, com Embalagem Exclusiva
+
+-   Catracas Fixas: Para operações que requerem amarração permanente
+
+Estes produtos cobrem a maioria das necessidades de clientes neste
+segmento e possuem demanda comprovada.
+
+1.6 Estratégia de Vendas para Este Segmento
+
+Abordagem Inicial
+
+Quando identificar cliente do segmento Auto Peças/Acessórios para
+Caminhão, o agente deve:
+
+1.  Começar com produtos de alta demanda - Oferecer Cinta + Catraca para
+    Amarração (3.000kg, 5.000kg) que sao best-sellers
+
+2.  Destacar giro rápido - Enfatizar que estes produtos vendem rápido
+    (demanda comprovada de transportadores)
+
+3.  Oferecer combos - Propor pacotes com Cintas de Elevação e Elásticos
+    Extensores para aumentar ticket
+
+4.  Propor programa de reposicao - Oferecer reposicao automatica para
+    produtos de alta rotacao, garantindo sempre em estoque
+
+Argumentação Consultiva
+
+Quando cliente menciona preço:
+
+"Entendo que preço é importante. Mas o que importa mais é giro. Produtos
+Mave vendem rápido - lojas que trabalham conosco relatam giro 2-3x mais
+rápido que concorrentes. Isso significa capital de giro liberado mais
+rápido. Você recupera o investimento em 30-40 dias, não em 90-120 dias
+como com produtos baratos que não vendem."
+
+Quando cliente menciona concorrência:
+
+"Concorrência é normal. Mas você pode se diferenciar. Oferecemos suporte
+de marketing, treinamento de equipe e programa de visibilidade. Lojas
+que trabalham conosco crescem 55-270% ao ano. Você quer ser mais um ou
+quer crescer?"
+
+Quando cliente menciona estoque:
+
+"Estoque é problema para muitos. Nós ajudamos com informações de
+demanda, tendências e recomendações de mix. Você não fica com estoque
+parado. Temos programa de reposição automática para produtos de alta
+rotação."
+
+Tática de Venda
+
+5.  Começar com produtos de alta rotação - Oferecer produtos que
+    sabidamente vendem rápido (Mave Pro para moto, cintas 1500kg)
+
+6.  Oferecer suporte de marketing - Propor display, materiais de ponto
+    de venda, treinamento de equipe
+
+7.  Criar programa de volume - Oferecer descontos progressivos por
+    volume mensal, não por unidade
+
+8.  Acompanhar resultados - Demonstrar que produtos Mave vendem melhor
+    que concorrentes
+
+9.  Expandir mix - Após sucesso com produtos iniciais, expandir para
+    outras categorias
+
+Oportunidades de Upsell/Cross-sell
+
+-   Upsell: Quando cliente compra cinta 1500kg, oferecer Mave Pro 1500kg
+    (melhor margem)
+
+-   Cross-sell: Quando cliente compra cintas, oferecer acessórios
+    (pinos, grampos, fivelas)
+
+-   Programa: Quando cliente atinge volume X, oferecer programa
+    exclusivo com benefícios
+
+1.7 Exemplos de Clientes de Sucesso
+
+Vulcano (Distribuidor): Implementou programa "Compre e Gire a Roleta"
+com produtos Mave, resultando em crescimento de 55% em 15 dias com zero
+investimento.
+
+Acessórios Marques (Loja Varejista): Saiu de estagnação para crescimento
+de 38% em faturamento através de programa de visibilidade e treinamento.
+
+Parte 2: Segmento Ferragens
+
+2.1 Perfil do Segmento
+
+Tamanho: 1.083 clientes (17% do total)
+Faturamento: 17% do faturamento total
+Ticket Médio: Aproximadamente R$ 7.500 a R$ 10.000
+Ciclo de Compra: 102 dias
+Distribuição Geográfica: Distribuído nacionalmente, com concentração em
+RS, SP, SC
+
+Características Principais
+
+Ferragens são distribuidoras de ferramentas, acessórios e produtos
+diversos para construção, indústria e manutenção. Diferem de Auto Peças
+por terem portfólio muito mais amplo (não focado em caminhões) e por
+atenderem múltiplos segmentos de clientes. Uma ferragem típica vende
+desde parafusos até equipamentos de elevação, passando por ferramentas
+manuais, elétricas e acessórios diversos.
+
+Ferragens funcionam como distribuidoras de segunda linha, vendendo para
+construtoras, indústrias, lojas especializadas e consumidores finais.
+Possuem estrutura maior que lojas de auto peças, com múltiplos
+departamentos e equipes especializadas. São estabelecimentos mais
+consolidados com maior capital de giro.
+
+2.2 Dores Principais
+
+1. Gestão de Portfólio Complexo
+
+Com portfólio extremamente amplo (múltiplos fornecedores, múltiplas
+categorias), gestão de estoque é extremamente complexa. Decisões sobre
+quais produtos manter em estoque, em que quantidade e com que frequência
+são desafiadoras.
+
+2. Falta de Especialização
+
+Ao vender de tudo um pouco, ferragens frequentemente carecem de
+especialização em categorias específicas. Isto resulta em atendimento
+genérico, sem conhecimento técnico profundo, o que prejudica vendas de
+produtos técnicos como amarração e elevação.
+
+3. Pressão de Margens
+
+Com múltiplos fornecedores e produtos, pressão de margens é constante.
+Clientes (construtoras, indústrias) negociam preços agressivos, o que se
+reflete em pressão nos fornecedores.
+
+4. Dificuldade em Diferenciar Categorias
+
+Ao vender múltiplas categorias, é difícil investir em diferenciação de
+cada uma. Isto resulta em produtos sendo vendidos como commodities, sem
+diferenciação de qualidade ou serviço.
+
+5. Falta de Conhecimento Técnico
+
+Equipe de vendas frequentemente não possui conhecimento técnico profundo
+em categorias especializadas como amarração e elevação. Isto resulta em
+vendas baseadas em preço, não em valor técnico.
+
+2.3 Necessidades Principais
+
+1. Especialização em Categorias-Chave
+
+Necessidade de aprofundar conhecimento em categorias estratégicas que
+oferecem melhor margem e crescimento. Amarração e elevação são
+categorias com bom potencial.
+
+2. Suporte Técnico
+
+Necessidade de suporte técnico de fornecedores para educar equipe e
+clientes. Treinamento técnico que resulte em vendas mais consultivas e
+com melhor margem.
+
+3. Programa de Distribuição
+
+Necessidade de programas que incentivem distribuição de categorias
+específicas. Programas que ofereçam benefícios por volume, exclusividade
+ou performance.
+
+4. Materiais de Marketing Técnico
+
+Necessidade de materiais que eduquem clientes sobre benefícios técnicos
+de produtos. Materiais que permitam vender com base em valor, não apenas
+preço.
+
+5. Suporte em Grandes Projetos
+
+Necessidade de suporte em grandes projetos que envolvem múltiplos
+produtos ou especificações técnicas. Suporte que permita ganhar projetos
+maiores.
+
+2.4 Produtos Essenciais
+
+Para o segmento Ferragens, os produtos essenciais recomendados são
+(mesmos de Auto Peças/Acessórios para Caminhão e Materiais de
+Construção):
+
+-   Cinta + Catraca para Amarração: Capacidades de 800kg, 1.500kg (25mm
+    e 35mm), 3.000kg e 5.000kg
+
+-   Cintas de Elevação: Fator 7:1, 100% Poliéster, capacidades de
+    1.000kg a 10.000kg
+
+-   Elásticos Extensores: Gancho Metálico, Gancho Duplo Premium, Gancho
+    Plástico, com Embalagem Exclusiva
+
+Estes produtos oferecem boa margem e demanda comprovada em ferragens.
+
+2.5 Comportamento de Compra
+
+Frequência: Compras mensais, com variações conforme demanda de clientes
+finais
+Ticket Médio: R$ 7.500 a R$ 10.000 por compra
+Ciclo: 102 dias entre recompras
+Sensibilidade a Preço: Média
+Sensibilidade a Qualidade: Alta
+Influenciadores: Demanda de clientes finais, conformidade técnica,
+suporte de fornecedor
+
+2.5 Estratégia de Vendas para Este Segmento
+
+Abordagem Inicial
+
+Quando identificar cliente do segmento Ferragens, o agente deve:
+
+10. Comecar com linha completa - Oferecer pacote com Cinta + Catraca
+    (800kg, 1500kg, 3000kg, 5000kg) que cobre maioria das necessidades
+
+11. Destacar conformidade ABNT - Enfatizar que Cintas de Elevacao
+    possuem Fator 7:1 e conformidade garantida
+
+12. Oferecer mix de acessorios - Propor Elasticos Extensores em
+    diferentes tipos de gancho para cobrir todas as aplicacoes
+
+13. Propor programa de especializacao - Oferecer treinamento de equipe
+    focado em categoria de amarracao/elevacao
+
+Argumentação Consultiva
+
+Quando cliente menciona portfólio amplo:
+
+"Entendo que você vende de tudo. Exatamente por isso, você precisa de
+parceiros especializados em categorias estratégicas. Mave é especialista
+em amarração e elevação. Oferecemos suporte técnico, treinamento de
+equipe e programa de distribuição. Você pode se diferenciar em uma
+categoria importante."
+
+Quando cliente menciona preço:
+
+"Preço é importante, mas em amarração e elevação, conformidade técnica é
+crítica. Produtos não conformes expõem seus clientes a riscos legais.
+Mave oferece 100% de conformidade com ABNT. Você vende com segurança
+jurídica. Isso vale mais que alguns centavos de diferença."
+
+Quando cliente menciona falta de conhecimento técnico:
+
+"Falta de conhecimento técnico é comum em ferragens com portfólio amplo.
+Oferecemos treinamento completo de equipe, materiais técnicos e suporte
+em grandes projetos. Sua equipe fica capacitada para vender
+consultivamente, não apenas por preço."
+
+Tática de Venda
+
+14. Começar com educação - Oferecer treinamento técnico sobre amarração
+    e elevação
+
+15. Oferecer suporte em projetos - Oferecer suporte em grandes projetos
+    para ganhar confiança
+
+16. Criar programa de distribuição - Oferecer programa com benefícios
+    por volume
+
+17. Diferenciar em conformidade - Destacar conformidade ABNT como
+    diferencial
+
+18. Expandir mix - Após sucesso inicial, expandir para outras categorias
+
+Oportunidades de Upsell/Cross-sell
+
+-   Upsell: Quando cliente compra cintas padrão, oferecer Mave Pro
+    (melhor margem)
+
+-   Cross-sell: Quando cliente compra cintas, oferecer correntes, cabos,
+    acessórios
+
+-   Programa: Quando cliente atinge volume X, oferecer programa
+    exclusivo
+
+2.6 Exemplos de Clientes de Sucesso
+
+Grupo Aldo (Rede de Postos): Implementou programa de marketing integrado
+com produtos Mave, resultando em integração completa e visibilidade
+aumentada.
+
+Parte 3: Segmento Transportadoras
+
+3.1 Perfil do Segmento
+
+Tamanho: 1.032 clientes (16% do total)
+Faturamento: 13% do faturamento total
+Ticket Médio: Aproximadamente R$ 6.000 a R$ 8.000
+Ciclo de Compra: 109 dias
+Distribuição Geográfica: Distribuído nacionalmente, com concentração em
+RS, SP, SC, MG
+
+Características Principais
+
+Transportadoras são empresas que realizam transporte rodoviário de
+cargas. Variam desde pequenas transportadoras (1-5 caminhões) até
+grandes operadores (100+ caminhões). Todas compartilham necessidade
+crítica de produtos de amarração de qualidade para conformidade legal e
+segurança operacional.
+
+Transportadoras são clientes diretos de produtos Mave, comprando para
+uso em suas operações. Diferem de varejistas por comprarem para consumo
+próprio, não para revenda. Isto significa que decisão de compra é
+baseada em necessidade operacional, não em demanda de clientes finais.
+
+3.2 Dores Principais
+
+1. Conformidade Legal e Segurança
+
+Transportadoras enfrentam pressão constante de conformidade com
+legislação de transporte. Multas por amarração inadequada podem chegar a
+R$ 1.467,35 por veículo. Além disso, responsabilidade civil e penal por
+acidentes causados por carga mal amarrada é risco significativo.
+
+2. Custos Operacionais Altos
+
+Combustível, manutenção, pneus e outros custos operacionais são altos.
+Qualquer oportunidade de reduzir custos é bem-vinda. Isto cria pressão
+para comprar produtos mais baratos, mesmo que de qualidade questionável.
+
+3. Rotatividade de Motoristas
+
+Motoristas frequentemente trocam de empresa. Isto significa que
+treinamento em procedimentos de amarração é desafiador. Novos motoristas
+podem não estar familiarizados com procedimentos corretos.
+
+4. Gestão de Frota Complexa
+
+Gerenciar frota de múltiplos caminhões, com diferentes tipos de carga,
+diferentes rotas e diferentes motoristas é complexo. Garantir que todos
+os veículos estão com produtos de amarração adequados é desafiador.
+
+5. Falta de Visibilidade de Custos
+
+Muitas transportadoras não têm visibilidade clara de quanto gastam em
+amarração e elevação. Isto dificulta otimização de custos e
+identificação de oportunidades de economia.
+
+3.3 Necessidades Principais
+
+1. Conformidade Garantida
+
+Necessidade crítica de produtos que garantem conformidade legal.
+Produtos que protegem transportadora de multas e responsabilidade legal.
+
+2. Durabilidade e Confiabilidade
+
+Necessidade de produtos que duram longo tempo e não falham. Falha de
+produto durante transporte pode resultar em acidente, multa e
+responsabilidade legal.
+
+3. Suporte em Conformidade
+
+Necessidade de suporte em conformidade - informações sobre requisitos
+legais, treinamento de motoristas, documentação de conformidade.
+
+4. Programa de Manutenção
+
+Necessidade de programa que ajude a manter produtos em bom estado.
+Programa que inclua inspeção, manutenção e reposição de produtos
+danificados.
+
+5. Visibilidade de Custos
+
+Necessidade de informação sobre custos de amarração, oportunidades de
+economia, comparação com concorrentes.
+
+3.4 Produtos Essenciais
+
+Para o segmento Transportadoras, os produtos essenciais recomendados são
+(conforme demanda específica):
+
+-   Cinta + Catraca para Amarração: Capacidades de 3.000kg e 5.000kg
+    (versões com empunhadura ergonômica para versões de 5.000kg)
+
+-   Extensores: Gancho Metálico, Gancho Plástico, Gancho Duplo Premium,
+    com Embalagem Exclusiva
+
+Os produtos variam conforme tipo de carga transportada e configuração de
+frota. O agente deve questionar cliente sobre tipo de carga e
+necessidades específicas.
+
+3.5 Comportamento de Compra
+
+Frequência: Compras conforme necessidade operacional (reposição de
+produtos danificados, expansão de frota)
+Ticket Médio: R$ 6.000 a R$ 8.000 por compra
+Ciclo: 109 dias entre recompras
+Sensibilidade a Preço: Média
+Sensibilidade a Qualidade: Muito Alta
+Influenciadores: Conformidade legal, durabilidade, suporte, reputação de
+fornecedor
+
+3.5 Estratégia de Vendas para Este Segmento
+
+Abordagem Inicial
+
+Quando identificar cliente do segmento Transportadoras, o agente deve:
+
+19. Questionar sobre tipo de carga - Entender que produtos variam
+    conforme demanda especifica (3000kg vs 5000kg)
+
+20. Oferecer Cinta + Catraca 3000kg/5000kg - Produtos essenciais para
+    transportadoras, com versoes ergonomicas para 5000kg
+
+21. Propor Extensores - Oferecer Gancho Metalico, Plastico, Duplo
+    Premium conforme tipo de veiculo
+
+22. Destacar conformidade e durabilidade - Enfatizar que produtos
+    cumprem ABNT NBR 15883 e sao testados para operacoes intensivas
+
+Argumentação Consultiva
+
+Quando cliente menciona preço:
+
+"Preço é importante, mas conformidade é crítico. Uma multa por amarração
+inadequada custa R$ 1.467,35 por veículo. Uma cinta Mave custa menos que
+uma multa. Além disso, responsabilidade civil por acidente pode custar
+muito mais. Mave oferece conformidade garantida. Você está protegido
+legalmente."
+
+Quando cliente menciona durabilidade:
+
+"Durabilidade é essencial. Produtos Mave são testados em laboratório,
+com fator de segurança 2:1 para amarração. Cada lote passa por testes de
+resistência, abrasão, umidade e durabilidade. Você pode confiar que
+produtos não vão falhar durante transporte."
+
+Quando cliente menciona conformidade:
+
+"Conformidade é nossa prioridade. Todos os produtos Mave cumprem ABNT
+NBR 15883. Oferecemos documentação completa de conformidade, treinamento
+de motoristas e suporte em auditorias. Você tem comprovação de
+conformidade para seus clientes e para a fiscalização."
+
+Tática de Venda
+
+23. Começar com conformidade - Oferecer análise de conformidade de frota
+    atual
+
+24. Oferecer suporte em treinamento - Oferecer treinamento de motoristas
+    em amarração correta
+
+25. Propor programa de manutenção - Oferecer programa de inspeção e
+    reposição
+
+26. Demonstrar ROI - Mostrar economia de multas e riscos evitados
+
+27. Expandir para frota - Após sucesso com alguns veículos, expandir
+    para toda frota
+
+Oportunidades de Upsell/Cross-sell
+
+-   Upsell: Quando cliente compra cintas padrão, oferecer Mave Pro
+    (melhor durabilidade)
+
+-   Cross-sell: Quando cliente compra cintas, oferecer programa de
+    manutenção
+
+-   Programa: Quando cliente tem frota grande, oferecer programa de
+    gestão de conformidade
+
+3.6 Exemplos de Clientes de Sucesso
+
+Postos Mirian (Rede de Postos): Implementou programa de merchandising,
+treinamento e gamificação com produtos Mave, resultando em crescimento
+de 269,91% anual.
+
+Parte 4: Segmentos Menores (Indústrias, Postos, Casas Agrícola,
+Construção, Loneiros, Outros)
+
+4.1 Indústrias (7% dos clientes, 3% do faturamento)
+
+Perfil
+
+Empresas industriais que utilizam produtos de elevação e amarração em
+operações de manufatura, montagem e movimentação de cargas. Ticket médio
+baixo (R$ 4.000-6.000), ciclo longo (114 dias).
+
+Produtos Essenciais
+
+Para o segmento Industria, os produtos essenciais sao conforme demanda
+especifica de cada cliente. O agente deve questionar sobre tipo de
+operacao, tipos de carga, requisitos de conformidade e necessidades
+tecnicas especificas.
+
+Abordagem Inicial
+
+Quando identificar cliente do segmento Industria, o agente deve:
+
+28. Questionar sobre operacoes especificas - Entender tipo de carga,
+    peso, frequencia de uso, requisitos de conformidade
+
+29. Oferecer solucao consultiva - Propor produtos alinhados com
+    necessidades especificas (pode ser Cintas de Elevacao, Cintas de
+    Amarracao, ou combinacoes)
+
+30. Destacar conformidade e rastreabilidade - Enfatizar que todos os
+    produtos possuem certificacao ABNT e rastreabilidade completa
+
+31. Oferecer suporte tecnico - Oferecer suporte em auditorias,
+    documentacao tecnica e conformidade com normas ISO/ABNT
+
+Dores Principais
+
+-   Conformidade com normas técnicas (ISO, ABNT)
+
+-   Segurança operacional e redução de acidentes
+
+-   Rastreabilidade de produtos para auditoria
+
+-   Integração com sistemas de gestão de qualidade
+
+Necessidades Principais
+
+-   Certificação completa de conformidade
+
+-   Documentação técnica detalhada
+
+-   Suporte em auditorias
+
+-   Programa de manutenção preventiva
+
+Estratégia de Vendas
+
+Posicionar Mave como fornecedor de conformidade garantida. Destacar
+certificações, testes de laboratório e rastreabilidade. Oferecer suporte
+em auditorias e documentação técnica.
+
+4.2 Postos de Gasolina (6% dos clientes, 8% do faturamento)
+
+Perfil
+
+Redes de postos de combustível que vendem acessórios para caminhões.
+Ticket médio alto (R$ 8.000-12.000), ciclo curto (87 dias). Segmento em
+crescimento com alto potencial.
+
+Produtos Essenciais
+
+Para o segmento Postos de Gasolina, os produtos essenciais recomendados
+sao: Cinta + Catraca para Amarracao (3000kg, 5000kg, 10000kg), Catracas
+Fixas (Aco Carbono, Pintura Epoxi, Corte a Laser), Elasticos Extensores
+(Gancho Metalico, Gancho Plastico, Gancho Duplo Premium, Embalagem
+Exclusiva), Cintas de Elevacao (1000kg, 2000kg, 3000kg, 5000kg). Estes
+produtos oferecem boa margem e visibilidade em ponto de venda.
+
+Abordagem Inicial
+
+Quando identificar cliente do segmento Postos de Gasolina, o agente
+deve:
+
+32. Oferecer linha completa de visibilidade - Propor Cinta + Catraca
+    (3000kg, 5000kg, 10000kg) com display atrativo para ponto de venda
+
+33. Destacar Catracas Fixas - Oferecer como diferencial (Aco Carbono,
+    Pintura Epoxi, Corte a Laser) para clientes que querem instalacao
+    permanente
+
+34. Propor Elasticos Extensores - Oferecer mix completo (Gancho
+    Metalico, Plastico, Duplo Premium) para cobrir todas as necessidades
+
+35. Oferecer Cintas de Elevacao - Completar mix com Cintas de Elevacao
+    (1000kg-5000kg) para aumentar ticket medio
+
+Dores Principais
+
+-   Falta de visibilidade de produtos
+
+-   Dificuldade em treinar equipe
+
+-   Competição com lojas especializadas
+
+-   Falta de suporte de marketing
+
+Necessidades Principais
+
+-   Programa de visibilidade e marketing
+
+-   Treinamento de equipe
+
+-   Materiais de ponto de venda
+
+-   Programa de gamificação para aumentar vendas
+
+Estratégia de Vendas
+
+Postos oferecem grande oportunidade. Implementar programas de marketing,
+treinamento e gamificação. Exemplo: Postos Mirian cresceu 269,91% com
+programa de merchandising e gamificação.
+
+4.3 Casas Agrícola (6% dos clientes, 3% do faturamento)
+
+Perfil
+
+Lojas que vendem produtos para agronegócio, incluindo amarração para
+transporte de cargas agrícolas. Ticket médio baixo (R$ 4.000-6.000),
+ciclo longo (113 dias). Segmento altamente sazonal.
+
+Produtos Essenciais
+
+Para o segmento Casas Agricola, os produtos essenciais recomendados sao
+(mesmos de Ferragens): Cinta + Catraca para Amarracao (800kg, 1500kg
+25mm, 1500kg 35mm, 3000kg, 5000kg), Cintas de Elevacao (Fator 7:1, 100%
+Poliester, capacidades 1000kg-10000kg), Elasticos Extensores (Gancho
+Metalico, Gancho Duplo Premium, Gancho Plastico, Embalagem Exclusiva).
+Demanda varia conforme ciclo agricola.
+
+Abordagem Inicial
+
+Quando identificar cliente do segmento Casas Agricola, o agente deve:
+
+36. Questionar sobre ciclo agricola - Entender quando eh pico de demanda
+    (safra) e quando eh baixa (entressafra)
+
+37. Oferecer programa sazonal - Propor pacote com Cinta + Catraca
+    (1500kg, 3000kg, 5000kg) alinhado com ciclo de safra
+
+38. Destacar reposicao rapida - Oferecer garantia de reposicao rapida em
+    periodos de pico para nao ficar sem estoque
+
+39. Propor Cintas de Elevacao - Oferecer como complemento para operacoes
+    de carregamento/descarregamento de graos
+
+Dores Principais
+
+-   Sazonalidade extrema (picos em safra)
+
+-   Falta de demanda em entressafra
+
+-   Pressão de preço em períodos de pico
+
+-   Dificuldade em manter estoque balanceado
+
+Necessidades Principais
+
+-   Programa sazonal alinhado com ciclo agrícola
+
+-   Reposição rápida em períodos de pico
+
+-   Preços competitivos em períodos de pico
+
+-   Informações sobre tendências de safra
+
+Estratégia de Vendas
+
+Criar programa sazonal alinhado com ciclo agrícola. Oferecer reposição
+rápida em períodos de pico (safra). Destacar que safra 2026 será recorde
+(344-353 milhões de toneladas), criando demanda massiva.
+
+4.4 Lojas de Materiais de Construção (5% dos clientes, 2% do
+faturamento)
+
+Perfil
+
+Lojas que vendem materiais de construção, incluindo acessórios de
+amarração e elevação. Ticket médio baixo (R$ 3.000-5.000), ciclo longo
+(157 dias). Segmento em crescimento com construção civil.
+
+Dores Principais
+
+-   Falta de conhecimento técnico
+
+-   Espaço limitado em loja
+
+-   Competição com lojas especializadas
+
+-   Falta de suporte de fornecedor
+
+Necessidades Principais
+
+-   Treinamento técnico
+
+-   Materiais de ponto de venda compactos
+
+-   Suporte de marketing
+
+-   Programa de desenvolvimento de categoria
+
+Estratégia de Vendas
+
+Construção civil cresce 2% em 2026. Oferecer programa de desenvolvimento
+de categoria com treinamento e suporte de marketing. Destacar
+oportunidade de crescimento com expansão da construção.
+
+4.5 Loneiros (2% dos clientes, 4% do faturamento)
+
+Perfil
+
+Empresas especializadas em transporte de cargas longas (tubos, vigas,
+etc.). Ticket médio alto (R$ 8.000-12.000), ciclo curto (63 dias).
+Segmento de alto valor com grande potencial.
+
+Produtos Essenciais
+
+Para o segmento Loneiros, os produtos essenciais recomendados sao:
+Extensores de Lona (Elasticos Extensores), Toldos. Loneiros basicamente
+vendem extensores de lona e toldos para protecao de cargas longas
+durante transporte.
+
+Abordagem Inicial
+
+Quando identificar cliente do segmento Loneiros, o agente deve:
+
+40. Focar em Elasticos Extensores - Oferecer linha completa de Elasticos
+    (Gancho Metalico, Plastico, Duplo Premium, Embalagem Exclusiva) para
+    fixacao de lonas
+
+41. Destacar durabilidade - Enfatizar que Elasticos Mave possuem
+    interior de Latex revestido com Fio de Polipropileno e Protecao UV
+
+42. Oferecer volume - Propor programa de reposicao automatica para
+    garantir estoque sempre disponivel (ciclo curto de 63 dias)
+
+43. Mencionar safra recorde - Destacar que safra 2026 sera recorde
+    (344-353 milhoes de toneladas), criando demanda massiva por
+    extensores
+
+Dores Principais
+
+-   Conformidade com legislação específica
+
+-   Segurança em transporte de cargas longas
+
+-   Durabilidade de produtos em operações intensivas
+
+-   Rastreabilidade de produtos
+
+Necessidades Principais
+
+-   Produtos especializados para cargas longas
+
+-   Conformidade garantida
+
+-   Suporte técnico em aplicações específicas
+
+-   Programa de reposição automática
+
+Estratégia de Vendas
+
+Loneiros são segmento de alto valor. Safra recorde em 2026 criará
+demanda massiva. Oferecer programa de reposição automática para garantir
+disponibilidade. Destacar que loneiros que trabalham com Mave crescem
+270% ao ano.
+
+4.6 Outros (5% dos clientes, 8% do faturamento)
+
+Perfil
+
+Empresas de tendas e eventos, implementos rodoviários, lojas de
+acessórios para motos, mecânicas, empresas de guinchos. Segmento
+diversificado com características variadas.
+
+Estratégia de Vendas
+
+Adaptar estratégia conforme tipo específico de cliente. Oferecer
+produtos e suporte alinhados com necessidades específicas de cada
+subsegmento.
+
+Parte 5: Matriz de Segmentação e Priorização
+
+5.1 Matriz de Valor vs Potencial de Crescimento
+
+  --------------------------------------------------------------------------------
+  Segmento          Tamanho     Faturamento   Ciclo       Potencial   Prioridade
+  ----------------- ----------- ------------- ----------- ----------- ------------
+  Auto Peças        Alto (36%)  Alto (42%)    Médio       Médio       1
+                                              (151d)                  
+
+  Ferragens         Médio (17%) Médio (17%)   Médio       Médio       2
+                                              (102d)                  
+
+  Transportadoras   Médio (16%) Médio (13%)   Médio       Alto        3
+                                              (109d)                  
+
+  Postos            Baixo (6%)  Alto (8%)     Curto (87d) Alto        4
+
+  Loneiros          Muito Baixo Alto (4%)     Curto (63d) Muito Alto  5
+                    (2%)                                              
+
+  Casas Agrícola    Baixo (6%)  Baixo (3%)    Longo       Alto        6
+                                              (113d)                  
+
+  Indústrias        Baixo (7%)  Baixo (3%)    Longo       Médio       7
+                                              (114d)                  
+
+  Construção        Baixo (5%)  Baixo (2%)    Longo       Médio       8
+                                              (157d)                  
+
+  Outros            Baixo (5%)  Médio (8%)    Variável    Médio       9
+  --------------------------------------------------------------------------------
+
+5.2 Recomendações de Priorização
+
+Prioridade 1 - Consolidação: Auto Peças, Ferragens, Transportadoras
+Segmentos já estabelecidos com grande base de clientes. Foco em
+consolidação, retenção e aumento de ticket médio.
+
+Prioridade 2 - Crescimento: Postos, Loneiros, Casas Agrícola
+Segmentos com alto potencial de crescimento. Foco em programas de
+desenvolvimento e expansão.
+
+Prioridade 3 - Desenvolvimento: Indústrias, Construção, Outros
+Segmentos com potencial médio. Foco em desenvolvimento de programas
+específicos e educação de mercado.
+
+Parte 6: Argumentação por Tipo de Cliente
+
+6.1 Cliente Sensível a Preço
+
+Reconhecer: Cliente está sob pressão de custos
+Recontextualizar: Não competir em preço, mas em valor
+Argumentar: "Preço baixo pode significar produtos não conformes.
+Produtos não conformes expõem você a multas, apreensão e
+responsabilidade legal. O custo real de um produto barato é muito maior
+que o preço inicial."
+
+6.2 Cliente Focado em Qualidade
+
+Reconhecer: Cliente valida qualidade
+Destacar: Conformidade técnica, testes de laboratório, rastreabilidade
+Argumentar: "Mave oferece 100% de conformidade com ABNT. Cada lote passa
+por testes de laboratório. Você tem comprovação de qualidade para seus
+clientes."
+
+6.3 Cliente Buscando Solução Integrada
+
+Reconhecer: Cliente quer mais que apenas produtos
+Oferecer: Suporte técnico, treinamento, marketing, programa de
+manutenção
+Argumentar: "Oferecemos mais que produtos. Oferecemos suporte completo:
+treinamento, marketing, conformidade, manutenção. Você fica com
+parceiro, não apenas fornecedor."
+
+6.4 Cliente em Crescimento
+
+Reconhecer: Cliente quer crescer
+Oferecer: Programa de desenvolvimento, suporte em expansão, recursos de
+marketing
+Argumentar: "Clientes que trabalham com Mave crescem 55-270% ao ano.
+Oferecemos programa completo de desenvolvimento. Você quer crescer com a
+gente?"
+
+6.5 Cliente Conservador/Tradicional
+
+Reconhecer: Cliente prefere estabilidade
+Oferecer: Conformidade, rastreabilidade, suporte contínuo
+Argumentar: "Mave existe há [X anos]. Somos referência em conformidade e
+qualidade. Você pode confiar em nós."
+
+Parte 7: Checklist de Identificação de Segmento
+
+Quando conversar com novo cliente, o agente deve fazer perguntas para
+identificar segmento:
+
+-   Qual é o ramo de negócio do cliente? (Auto Peças, Ferragens,
+    Transportadora, etc.)
+
+-   Qual é o tamanho da empresa? (Pequena, média, grande)
+
+-   Qual é o ticket médio de compra? (Ajuda a identificar segmento)
+
+-   Qual é a frequência de compra? (Ajuda a identificar ciclo)
+
+-   Qual é a principal dor/desafio? (Preço, qualidade, conformidade,
+    visibilidade, etc.)
+
+-   Qual é o principal driver de compra? (Demanda de clientes,
+    conformidade legal, crescimento, etc.)
+
+-   Qual é a sensibilidade a preço vs qualidade? (Ajuda a definir
+    argumentação)
+
+-   Qual é a distribuição geográfica? (Ajuda a identificar oportunidades
+    regionais)
+
+Conclusão
+
+Cada segmento de cliente da Mave possui características, dores,
+necessidades e motivações únicas. Compreender estas diferenças é crítico
+para o agente Claude personalizar abordagem e maximizar taxa de
+conversão.
+
+Os três segmentos principais (Auto Peças, Ferragens, Transportadoras)
+representam 69% dos clientes e 72% do faturamento, mas segmentos menores
+como Postos, Loneiros e Casas Agrícola oferecem alto potencial de
+crescimento.
+
+Para cada segmento, o agente deve:
+
+44. Reconhecer o segmento e suas características
+
+45. Identificar as dores e necessidades principais
+
+46. Oferecer solução alinhada com necessidades
+
+47. Argumentar com base em valor, não apenas preço
+
+48. Propor programa específico para segmento
+
+Este documento fornece base para que o agente Claude faça isto de forma
+consistente e efetiva.

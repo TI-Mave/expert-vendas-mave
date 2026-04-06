@@ -1,0 +1,1196 @@
+Guia de Troubleshooting - Mave Comércio de Acessórios
+
+Introdução
+
+Este guia fornece soluções práticas para os problemas mais comuns
+enfrentados por clientes que utilizam produtos de amarração e elevação
+de cargas da Mave. Cada problema inclui causas raiz, soluções imediatas,
+prevenção e quando escalar para suporte técnico.
+
+Parte 1: Problemas com Cintas de Amarração
+
+1.1 Cinta Rasgada ou Danificada
+
+Sintomas:
+
+-   Rasgos visíveis no tecido
+
+-   Fios soltos ou desfiados
+
+-   Perda de resistência
+
+-   Vazamento de conteúdo através do rasgão
+
+Causas Comuns:
+
+-   Sobrecarga (peso acima da capacidade nominal)
+
+-   Atrito com bordas afiadas ou pontiagudas da carga
+
+-   Envelhecimento do material (exposição prolongada a UV)
+
+-   Armazenamento inadequado (umidade, calor extremo)
+
+-   Uso incorreto (torção, nós inadequados)
+
+-   Contato com óleos, solventes ou produtos químicos
+
+-   Abrasão durante transporte (movimento da carga)
+
+Soluções Imediatas:
+
+1.  Parar uso imediatamente - Cinta rasgada não oferece segurança
+
+2.  Inspecionar carga - Verificar se há vazamento ou dano
+
+3.  Documentar - Fotografar o dano para análise
+
+4.  Substituir - Usar cinta nova de capacidade apropriada
+
+5.  Investigar causa - Determinar por que ocorreu o rasgão
+
+Prevenção:
+
+-   Verificar peso real da carga antes de amarrar
+
+-   Usar proteção (tubos de espuma, papelão) em arestas afiadas
+
+-   Armazenar em local seco, sem exposição direta ao sol
+
+-   Inspecionar regularmente (mensal para uso intenso)
+
+-   Usar cinta de capacidade 20-30% acima do peso esperado
+
+-   Evitar contato com óleos, combustíveis e produtos químicos
+
+-   Não torcer ou fazer nós na cinta
+
+Quando Escalar:
+
+-   Se rasgão ocorrer em cinta nova (< 3 meses)
+
+-   Se padrão de rasgões se repetir
+
+-   Se cliente relatar sobrecarga frequente
+
+-   Para análise de falha de material
+
+Oportunidade de Venda:
+
+-   Oferecer Mave Pro com maior durabilidade
+
+-   Sugerir proteção de arestas (tubos de espuma)
+
+-   Programa de inspeção preventiva mensal
+
+-   Upgrade para capacidade maior
+
+1.2 Cinta Descolorida ou Desbotada
+
+Sintomas:
+
+-   Perda de cor original
+
+-   Padrão de desbotamento irregular
+
+-   Possível enfraquecimento do material
+
+Causas Comuns:
+
+-   Exposição prolongada a raios UV
+
+-   Chuva ácida ou poluição
+
+-   Contato com produtos químicos
+
+-   Armazenamento em local muito quente
+
+-   Envelhecimento natural do poliéster
+
+Soluções Imediatas:
+
+6.  Avaliar resistência - Testar se cinta ainda oferece capacidade
+    nominal
+
+7.  Inspecionar visualmente - Procurar por danos além da descoloração
+
+8.  Documentar - Fotografar para análise
+
+9.  Se resistência comprometida - Substituir imediatamente
+
+Prevenção:
+
+-   Armazenar em local coberto, sem exposição direta ao sol
+
+-   Usar proteção UV (lona, capa)
+
+-   Manter em local seco e fresco
+
+-   Evitar contato com produtos químicos
+
+-   Inspecionar regularmente
+
+Quando Escalar:
+
+-   Se descoloração acompanhada de perda de resistência
+
+-   Se padrão sugerir defeito de fabricação
+
+-   Para análise de durabilidade
+
+Oportunidade de Venda:
+
+-   Oferecer armazenamento adequado (caixa de proteção)
+
+-   Sugerir programa de reposição preventiva
+
+-   Mencionar durabilidade superior da Mave Pro
+
+1.3 Cinta com Mau Cheiro ou Mofo
+
+Sintomas:
+
+-   Odor forte (mofo, umidade)
+
+-   Possível descoloração
+
+-   Textura pegajosa ou úmida
+
+-   Possível crescimento visível de mofo
+
+Causas Comuns:
+
+-   Armazenamento em ambiente úmido
+
+-   Exposição à chuva sem proteção
+
+-   Secagem inadequada após molhar
+
+-   Falta de ventilação
+
+-   Armazenamento em local quente e úmido
+
+Soluções Imediatas:
+
+10. Não usar - Mofo pode comprometer resistência
+
+11. Secar completamente - Expor ao sol e vento por 24-48 horas
+
+12. Limpar - Escovar suavemente para remover mofo visível
+
+13. Inspecionar - Verificar se há danos estruturais
+
+14. Se problema persistir - Substituir
+
+Prevenção:
+
+-   Armazenar em local seco e bem ventilado
+
+-   Proteger de chuva e umidade
+
+-   Secar completamente antes de guardar
+
+-   Usar dessecante (sílica gel) em armazenamento
+
+-   Inspecionar regularmente
+
+-   Evitar armazenamento em porões ou áreas úmidas
+
+Quando Escalar:
+
+-   Se mofo reaparecer após limpeza
+
+-   Se cliente relatar padrão recorrente
+
+-   Para análise de armazenamento inadequado
+
+Oportunidade de Venda:
+
+-   Oferecer sistema de armazenamento adequado
+
+-   Sugerir programa de inspeção preventiva
+
+-   Mencionar importância de manutenção
+
+1.4 Cinta com Costura Solta ou Desfiada
+
+Sintomas:
+
+-   Fios soltos na costura
+
+-   Separação visível entre camadas
+
+-   Redução de resistência
+
+-   Possível vazamento
+
+Causas Comuns:
+
+-   Defeito de fabricação
+
+-   Sobrecarga repetida
+
+-   Torção ou movimento excessivo durante transporte
+
+-   Envelhecimento da linha de costura
+
+-   Abrasão contra superfícies ásperas
+
+Soluções Imediatas:
+
+15. Inspecionar costura - Avaliar extensão do dano
+
+16. Se pequeno (< 5cm) - Pode continuar usando com monitoramento
+
+17. Se grande (> 5cm) - Substituir imediatamente
+
+18. Documentar - Fotografar para análise
+
+Prevenção:
+
+-   Não sobrecarregar
+
+-   Evitar torção durante uso
+
+-   Proteger de abrasão
+
+-   Inspecionar costura regularmente
+
+-   Usar cinta apropriada para aplicação
+
+Quando Escalar:
+
+-   Se costura solta em cinta nova
+
+-   Se padrão de falha de costura se repetir
+
+-   Para análise de qualidade
+
+Oportunidade de Venda:
+
+-   Oferecer Mave Pro com costura reforçada
+
+-   Sugerir programa de inspeção mensal
+
+-   Upgrade para capacidade maior
+
+Parte 2: Problemas com Catracas
+
+2.1 Catraca Travada ou Difícil de Operar
+
+Sintomas:
+
+-   Dificuldade para girar a manivela
+
+-   Travamento completo
+
+-   Ruído anormal durante operação
+
+-   Impossibilidade de apertar ou soltar
+
+Causas Comuns:
+
+-   Acúmulo de sujeira, areia ou detritos
+
+-   Corrosão por exposição a água/sal
+
+-   Falta de lubrificação
+
+-   Sobrecarga (carga acima da capacidade)
+
+-   Dano mecânico interno
+
+-   Congelamento (em climas frios)
+
+Soluções Imediatas:
+
+19. Parar uso - Catraca travada é perigosa
+
+20. Limpar - Remover sujeira visível com escova seca
+
+21. Lubrificar - Aplicar óleo leve (WD-40 ou similar) nas articulações
+
+22. Testar - Tentar operar suavemente
+
+23. Se não resolver - Substituir catraca
+
+Prevenção:
+
+-   Limpar regularmente (semanal em ambiente sujo)
+
+-   Lubrificar mensalmente com óleo leve
+
+-   Proteger de chuva e umidade
+
+-   Não sobrecarregar
+
+-   Armazenar em local seco
+
+-   Usar capas de proteção quando não em uso
+
+-   Inspecionar antes de cada uso
+
+Quando Escalar:
+
+-   Se catraca não responder a limpeza/lubrificação
+
+-   Se travamento ocorrer em catraca nova
+
+-   Para reparo ou substituição
+
+Oportunidade de Venda:
+
+-   Oferecer programa de manutenção preventiva
+
+-   Sugerir catraca Mave Pro com mecanismo melhorado
+
+-   Vender kit de limpeza e lubrificação
+
+-   Upgrade para catraca fixa (se aplicável)
+
+2.2 Catraca Não Segura a Carga
+
+Sintomas:
+
+-   Carga se move após apertar
+
+-   Catraca escorrega
+
+-   Manivela gira livremente sem resistência
+
+-   Carga cai ou se move durante transporte
+
+Causas Comuns:
+
+-   Mecanismo de travamento desgastado
+
+-   Carga acima da capacidade nominal
+
+-   Uso incorreto (não apertado o suficiente)
+
+-   Dano no mecanismo de ratchet
+
+-   Falta de manutenção
+
+-   Aplicação inadequada (carga dinâmica em vez de estática)
+
+Soluções Imediatas:
+
+24. Parar transporte - Risco de segurança crítico
+
+25. Verificar capacidade - Confirmar que carga está dentro dos limites
+
+26. Verificar operação - Apertar completamente a manivela
+
+27. Inspecionar mecanismo - Procurar por danos visíveis
+
+28. Se problema persistir - Substituir catraca
+
+Prevenção:
+
+-   Verificar peso real da carga
+
+-   Usar catraca de capacidade apropriada
+
+-   Apertar completamente (manivela deve estar firme)
+
+-   Inspecionar mecanismo regularmente
+
+-   Não usar para cargas dinâmicas (suspensão)
+
+-   Manutenção mensal
+
+Quando Escalar:
+
+-   Se catraca não segura mesmo com operação correta
+
+-   Se problema ocorrer em catraca nova
+
+-   Para análise de segurança
+
+Oportunidade de Venda:
+
+-   Oferecer catraca de maior capacidade
+
+-   Sugerir Mave Pro com mecanismo melhorado
+
+-   Programa de treinamento de operação correta
+
+-   Vender cintas complementares para maior segurança
+
+2.3 Catraca com Ferrugem ou Corrosão
+
+Sintomas:
+
+-   Manchas avermelhadas ou acinzentadas
+
+-   Textura áspera
+
+-   Possível enfraquecimento estrutural
+
+-   Dificuldade de operação
+
+Causas Comuns:
+
+-   Exposição a água/chuva
+
+-   Ambiente salino (próximo ao mar)
+
+-   Falta de proteção
+
+-   Armazenamento em local úmido
+
+-   Falta de manutenção
+
+Soluções Imediatas:
+
+29. Limpar - Remover ferrugem com escova de aço ou lixa
+
+30. Secar - Exposição ao sol e vento
+
+31. Proteger - Aplicar óleo ou graxa protetora
+
+32. Avaliar - Verificar se estrutura está comprometida
+
+33. Se severo - Substituir
+
+Prevenção:
+
+-   Proteger de chuva e umidade
+
+-   Armazenar em local seco
+
+-   Aplicar óleo/graxa protetora mensalmente
+
+-   Usar capas de proteção
+
+-   Inspecionar regularmente
+
+-   Em ambientes salinos, usar catraca galvanizada
+
+Quando Escalar:
+
+-   Se corrosão severa comprometer estrutura
+
+-   Se cliente em ambiente salino (oferecer catraca galvanizada)
+
+-   Para análise de proteção inadequada
+
+Oportunidade de Venda:
+
+-   Oferecer catraca galvanizada para ambientes salinos
+
+-   Sugerir kit de proteção/manutenção
+
+-   Programa de inspeção preventiva
+
+-   Upgrade para Mave Pro com acabamento superior
+
+2.4 Manivela Quebrada ou Solta
+
+Sintomas:
+
+-   Manivela se move ou balança
+
+-   Possível quebra visível
+
+-   Impossibilidade de apertar/soltar
+
+-   Ruído durante operação
+
+Causas Comuns:
+
+-   Sobrecarga ou força excessiva
+
+-   Defeito de fabricação
+
+-   Envelhecimento do material
+
+-   Corrosão enfraquecendo a estrutura
+
+-   Dano por impacto
+
+Soluções Imediatas:
+
+34. Parar uso - Manivela quebrada é perigosa
+
+35. Inspecionar - Verificar se quebra é completa ou parcial
+
+36. Se solta - Tentar apertar parafuso de fixação
+
+37. Se quebrada - Substituir catraca
+
+Prevenção:
+
+-   Não aplicar força excessiva
+
+-   Não usar manivela como alavanca
+
+-   Proteger de impactos
+
+-   Inspecionar regularmente
+
+-   Manutenção preventiva
+
+Quando Escalar:
+
+-   Se manivela quebrar em catraca nova
+
+-   Para substituição
+
+Oportunidade de Venda:
+
+-   Oferecer catraca de reposição
+
+-   Sugerir Mave Pro com manivela reforçada
+
+-   Treinamento de operação correta
+
+Parte 3: Problemas com Ganchos
+
+3.1 Gancho Deformado ou Torto
+
+Sintomas:
+
+-   Gancho não encaixa corretamente
+
+-   Ângulo alterado
+
+-   Possível vazamento de carga
+
+-   Dificuldade de conexão
+
+Causas Comuns:
+
+-   Sobrecarga
+
+-   Impacto ou queda
+
+-   Defeito de fabricação
+
+-   Envelhecimento do material
+
+-   Uso incorreto (aplicação não adequada)
+
+Soluções Imediatas:
+
+38. Inspecionar - Verificar grau de deformação
+
+39. Se leve - Pode continuar usando com monitoramento
+
+40. Se severo - Substituir gancho ou cinta
+
+41. Documentar - Fotografar para análise
+
+Prevenção:
+
+-   Não sobrecarregar
+
+-   Proteger de impactos
+
+-   Usar gancho apropriado para aplicação
+
+-   Inspecionar regularmente
+
+-   Armazenar adequadamente
+
+Quando Escalar:
+
+-   Se deformação ocorrer em gancho novo
+
+-   Se padrão de deformação se repetir
+
+-   Para análise de aplicação inadequada
+
+Oportunidade de Venda:
+
+-   Oferecer gancho de reposição
+
+-   Sugerir tipo de gancho apropriado para aplicação
+
+-   Upgrade para Mave Pro com ganchos reforçados
+
+3.2 Gancho Solto ou Desprendido
+
+Sintomas:
+
+-   Gancho se move ou balança
+
+-   Possível desprendimento completo
+
+-   Risco de perda de carga
+
+-   Ruído durante transporte
+
+Causas Comuns:
+
+-   Defeito de fabricação
+
+-   Costura solta
+
+-   Sobrecarga repetida
+
+-   Envelhecimento da costura
+
+-   Vibração durante transporte
+
+Soluções Imediatas:
+
+42. Parar uso - Risco de segurança crítico
+
+43. Inspecionar costura - Verificar se está solta
+
+44. Se solta - Costurar novamente ou substituir
+
+45. Testar - Verificar se gancho está firme
+
+Prevenção:
+
+-   Inspecionar antes de cada uso
+
+-   Não sobrecarregar
+
+-   Manutenção regular
+
+-   Verificar costura mensalmente
+
+Quando Escalar:
+
+-   Se gancho se desprender
+
+-   Se problema ocorrer em cinta nova
+
+-   Para substituição
+
+Oportunidade de Venda:
+
+-   Oferecer cinta de reposição
+
+-   Sugerir Mave Pro com costura reforçada
+
+-   Programa de inspeção preventiva
+
+Parte 4: Problemas com Extensores Elásticos
+
+4.1 Extensor Perdeu Elasticidade
+
+Sintomas:
+
+-   Extensor não volta ao tamanho original
+
+-   Esticamento permanente
+
+-   Perda de força de retenção
+
+-   Carga se move ou cai
+
+Causas Comuns:
+
+-   Envelhecimento natural (3-5 anos de uso)
+
+-   Exposição prolongada a UV
+
+-   Armazenamento inadequado (calor extremo)
+
+-   Uso excessivo (esticamento repetido)
+
+-   Contato com óleos ou solventes
+
+-   Sobrecarga
+
+Soluções Imediatas:
+
+46. Parar uso - Extensor sem elasticidade não oferece segurança
+
+47. Substituir - Usar extensor novo
+
+48. Documentar - Fotografar para análise
+
+Prevenção:
+
+-   Armazenar em local fresco e seco
+
+-   Proteger de UV (guardar em caixa ou lona)
+
+-   Não sobrecarregar
+
+-   Não deixar esticado permanentemente
+
+-   Evitar contato com óleos/solventes
+
+-   Inspecionar regularmente
+
+-   Substituir a cada 3-5 anos (uso normal)
+
+Quando Escalar:
+
+-   Se extensor perder elasticidade em menos de 1 ano
+
+-   Se padrão de falha precoce se repetir
+
+-   Para análise de armazenamento
+
+Oportunidade de Venda:
+
+-   Oferecer extensor de reposição
+
+-   Sugerir Mave Pro com durabilidade estendida
+
+-   Programa de reposição preventiva (anual ou bienal)
+
+-   Kit de armazenamento adequado
+
+4.2 Extensor Rasgado ou Rompido
+
+Sintomas:
+
+-   Rasgão visível
+
+-   Fios soltos
+
+-   Possível vazamento de conteúdo
+
+-   Perda completa de função
+
+Causas Comuns:
+
+-   Sobrecarga
+
+-   Atrito com arestas afiadas
+
+-   Envelhecimento
+
+-   Defeito de fabricação
+
+-   Uso incorreto (nós, torção)
+
+Soluções Imediatas:
+
+49. Parar uso - Extensor rompido não oferece segurança
+
+50. Substituir - Usar extensor novo
+
+51. Documentar - Fotografar para análise
+
+Prevenção:
+
+-   Não sobrecarregar
+
+-   Proteger de arestas afiadas
+
+-   Não fazer nós ou torcer
+
+-   Inspecionar regularmente
+
+-   Armazenar adequadamente
+
+Quando Escalar:
+
+-   Se extensor rasgar em novo
+
+-   Se padrão de rasgões se repetir
+
+-   Para análise de causa
+
+Oportunidade de Venda:
+
+-   Oferecer extensor de reposição
+
+-   Sugerir Mave Pro com maior durabilidade
+
+-   Proteção de arestas (tubos de espuma)
+
+4.3 Extensor com Mau Cheiro ou Descoloração
+
+Sintomas:
+
+-   Odor desagradável
+
+-   Descoloração ou manchas
+
+-   Possível perda de elasticidade
+
+-   Textura alterada
+
+Causas Comuns:
+
+-   Envelhecimento natural
+
+-   Exposição a UV
+
+-   Armazenamento inadequado
+
+-   Contato com produtos químicos
+
+-   Umidade
+
+Soluções Imediatas:
+
+52. Avaliar - Verificar se elasticidade está comprometida
+
+53. Se sim - Substituir
+
+54. Se não - Pode continuar usando
+
+Prevenção:
+
+-   Armazenar em local fresco, seco e escuro
+
+-   Proteger de UV
+
+-   Evitar contato com produtos químicos
+
+-   Inspecionar regularmente
+
+Quando Escalar:
+
+-   Se descoloração acompanhada de perda de elasticidade
+
+-   Para análise de armazenamento
+
+Oportunidade de Venda:
+
+-   Oferecer extensor de reposição
+
+-   Sugerir sistema de armazenamento adequado
+
+Parte 5: Problemas Gerais de Aplicação
+
+5.1 Carga Se Move Durante Transporte
+
+Sintomas:
+
+-   Carga se desloca durante viagem
+
+-   Possível queda de itens
+
+-   Dano à carga
+
+-   Risco de segurança
+
+Causas Comuns:
+
+-   Amarração inadequada (número insuficiente de pontos)
+
+-   Catraca não apertada o suficiente
+
+-   Carga acima da capacidade
+
+-   Movimento da carga dentro do veículo
+
+-   Vibração durante transporte
+
+-   Superfície de contato escorregadia
+
+Soluções Imediatas:
+
+55. Parar - Verificar amarração
+
+56. Reapertar - Apertar todas as catracas completamente
+
+57. Adicionar pontos - Se necessário, adicionar mais cintas
+
+58. Proteger - Usar proteção anti-derrapante
+
+Prevenção:
+
+-   Usar mínimo 4 pontos de amarração (6 para zona > 2.200mm)
+
+-   Apertar completamente todas as catracas
+
+-   Verificar peso real da carga
+
+-   Usar proteção anti-derrapante (tapete de borracha)
+
+-   Distribuir carga uniformemente
+
+-   Inspecionar antes de cada viagem
+
+Quando Escalar:
+
+-   Se movimento persistir após reapertar
+
+-   Se padrão recorrente
+
+-   Para treinamento de amarração correta
+
+Oportunidade de Venda:
+
+-   Oferecer cintas adicionais
+
+-   Sugerir programa de treinamento
+
+-   Vender proteção anti-derrapante
+
+-   Upgrade para Mave Pro com maior segurança
+
+5.2 Carga Cai ou Se Solta Completamente
+
+Sintomas:
+
+-   Carga cai durante transporte
+
+-   Dano total à carga
+
+-   Risco de segurança crítico
+
+-   Possível dano a terceiros
+
+Causas Comuns:
+
+-   Falha completa de catraca
+
+-   Amarração inadequada
+
+-   Carga acima da capacidade
+
+-   Defeito de fabricação
+
+-   Uso de produto inadequado
+
+Soluções Imediatas:
+
+59. Segurança primeiro - Avisar outros motoristas
+
+60. Documentar - Fotografar tudo
+
+61. Investigar - Determinar causa da falha
+
+62. Reportar - Se defeito de produto, reportar imediatamente
+
+Prevenção:
+
+-   Inspecionar todos os produtos antes de usar
+
+-   Usar capacidade apropriada
+
+-   Amarração correta (mínimo 4-6 pontos)
+
+-   Manutenção regular
+
+-   Treinamento de operação
+
+Quando Escalar:
+
+-   Imediatamente - Risco de segurança crítico
+
+-   Investigação de falha de produto
+
+-   Possível recall
+
+Oportunidade de Venda:
+
+-   Oferecer programa de inspeção preventiva
+
+-   Sugerir treinamento obrigatório
+
+-   Upgrade para Mave Pro com maior confiabilidade
+
+-   Programa de conformidade legal
+
+Parte 6: Matriz de Diagnóstico Rápido
+
+  ----------------------------------------------------------------------------
+  Problema          Causa Mais         Solução Rápida        Quando Escalar
+                    Provável                                 
+  ----------------- ------------------ --------------------- -----------------
+  Cinta rasgada     Sobrecarga         Substituir            Se novo ou
+                                                             recorrente
+
+  Catraca travada   Sujeira/corrosão   Limpar e lubrificar   Se não resolver
+
+  Catraca não       Mecanismo          Apertar completamente Se problema
+  segura            desgastado                               persistir
+
+  Gancho solto      Costura solta      Costurar novamente    Se desprender
+
+  Extensor sem      Envelhecimento     Substituir            Se < 1 ano
+  elasticidade                                               
+
+  Carga se move     Amarração          Reapertar/adicionar   Se recorrente
+                    inadequada         cintas                
+
+  Carga cai         Falha de catraca   Investigar            Imediatamente
+                                       imediatamente         
+  ----------------------------------------------------------------------------
+
+Parte 7: Guia de Prevenção por Tipo de Cliente
+
+Para Auto Peças/Acessórios para Caminhão:
+
+-   Inspeção mensal de todos os produtos
+
+-   Limpeza semanal (ambiente sujo)
+
+-   Lubrificação mensal de catracas
+
+-   Reposição de extensores a cada 2-3 anos
+
+-   Programa de treinamento anual
+
+Para Ferragens:
+
+-   Inspeção trimestral
+
+-   Limpeza conforme necessário
+
+-   Lubrificação trimestral
+
+-   Reposição de extensores a cada 3-5 anos
+
+-   Armazenamento adequado
+
+Para Transportadoras:
+
+-   Inspeção antes de cada viagem
+
+-   Limpeza mensal
+
+-   Lubrificação mensal
+
+-   Reposição de extensores a cada 2-3 anos
+
+-   Programa de treinamento obrigatório
+
+-   Conformidade legal (ABNT NBR 15883)
+
+Para Loneiros:
+
+-   Inspeção antes de cada uso
+
+-   Limpeza semanal
+
+-   Lubrificação mensal
+
+-   Reposição de extensores anualmente
+
+-   Programa de treinamento especializado
+
+Para Casas Agrícola:
+
+-   Inspeção antes da safra
+
+-   Limpeza mensal durante safra
+
+-   Lubrificação mensal
+
+-   Reposição de extensores a cada 2-3 anos
+
+-   Programa de manutenção sazonal
+
+Parte 8: Diretrizes para Agente Claude
+
+Quando Cliente Relata Problema:
+
+63. Fazer Diagnóstico:
+
+    -   Qual é o produto (cinta, catraca, gancho, extensor)?
+
+    -   Qual é o sintoma específico?
+
+    -   Há quanto tempo está usando?
+
+    -   Qual é a aplicação (amarração, elevação)?
+
+64. Oferecer Solução:
+
+    -   Solução imediata (se seguro)
+
+    -   Prevenção para futuro
+
+    -   Produto de reposição apropriado
+
+65. Escalar se Necessário:
+
+    -   Risco de segurança
+
+    -   Possível defeito de fabricação
+
+    -   Padrão recorrente
+
+    -   Necessidade de investigação
+
+66. Oportunidade de Venda:
+
+    -   Produto de reposição
+
+    -   Manutenção preventiva
+
+    -   Upgrade para Mave Pro
+
+    -   Programa de treinamento
+
+    -   Armazenamento adequado
+
+Scripts Prontos:
+
+Para Cinta Rasgada:
+
+"Entendo que sua cinta rasgou. Isso é preocupante. Primeiro, vamos
+substituir imediatamente por uma nova. Segundo, vamos investigar por que
+ocorreu - pode ser sobrecarga, atrito com arestas afiadas ou
+envelhecimento. Qual é o seu peso de carga? Recomendo usar uma cinta
+20-30% acima do peso para maior segurança."
+
+Para Catraca Travada:
+
+"Catraca travada é comum em ambientes sujos. Vamos limpar e lubrificar.
+Se o problema persistir, podemos oferecer uma catraca de reposição. Você
+faz manutenção mensal? Posso oferecer um kit de limpeza e lubrificação
+para evitar isso no futuro."
+
+Para Carga Se Movendo:
+
+"Carga se movendo é sinal de amarração inadequada. Você está usando
+mínimo 4 pontos de amarração? Qual é o peso da carga? Recomendo
+reapertar todas as catracas completamente e, se necessário, adicionar
+mais cintas. Posso oferecer um programa de treinamento para garantir
+conformidade com ABNT NBR 15883."
+
+Parte 9: Recursos Adicionais
+
+Contato de Suporte Técnico:
+
+-   Email: suporte.tecnico@mavebr.com
+
+-   Telefone: [número de suporte]
+
+-   WhatsApp: [número WhatsApp]
+
+-   Horário: Segunda a sexta, 8h-18h
+
+Documentos Relacionados:
+
+-   ABNT NBR 15637 (Cintas de Elevação)
+
+-   ABNT NBR 15883 (Cintas de Amarração)
+
+-   Manual de Operação Mave
+
+-   Guia de Armazenamento Adequado
+
+Garantia Mave:
+
+-   Cintas: 12 meses contra defeito de fabricação
+
+-   Catracas: 12 meses contra defeito de fabricação
+
+-   Extensores: 6 meses contra defeito de fabricação
+
+-   Condições: Uso conforme especificado, manutenção adequada
+
+Conclusão
+
+Este guia fornece as ferramentas necessárias para diagnosticar, resolver
+e prevenir problemas comuns com produtos de amarração e elevação de
+cargas. A chave para a satisfação do cliente é:
+
+67. Prevenção - Manutenção regular e armazenamento adequado
+
+68. Diagnóstico Rápido - Identificar causa raiz rapidamente
+
+69. Solução Apropriada - Oferecer solução que resolve o problema
+
+70. Oportunidade - Usar problema como oportunidade de venda de prevenção
+
+Lembre-se: Segurança em primeiro lugar. Sempre.

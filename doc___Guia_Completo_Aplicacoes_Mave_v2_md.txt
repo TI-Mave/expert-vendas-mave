@@ -1,0 +1,558 @@
+Guia Completo de Aplicações e Casos de Uso: Produtos Mave
+
+Versão: 2.0 Expandida
+Objetivo: Documento abrangente fornecendo inteligência comercial sobre
+como e onde cada produto Mave é utilizado, permitindo ao agente Claude
+fazer recomendações consultivas precisas baseadas na necessidade real do
+cliente.
+
+1. Linha Mave Pro (Premium)
+
+A linha Mave Pro foi desenvolvida para clientes que valorizam não apenas
+a segurança, mas também a praticidade, ergonomia e estética. Esta
+categoria representa a principal oportunidade para estratégias de
+"upsell", oferecendo produtos de maior valor agregado que resolvem dores
+específicas do dia a dia.
+
+Conjunto Retrátil 800kg (MCJ402)
+
+O Conjunto Retrátil 800kg é uma inovação que funciona com um sistema de
+enrolamento automático da fita, operando de forma similar ao cinto de
+segurança de um veículo. Sua principal utilidade prática é permitir a
+amarração da carga em segundos utilizando apenas uma mão, além de
+eliminar o problema comum de sobras de fita soltas batendo ao vento
+durante a viagem. Este produto é frequentemente utilizado na fixação
+rápida de motos em carretinhas, amarração de caixas de ferramentas em
+caçambas de picapes e no transporte de jet skis. O público-alvo ideal
+engloba consumidores finais exigentes, praticantes de esportes off-road,
+proprietários de picapes e barcos, e prestadores de serviço que realizam
+múltiplas paradas diárias.
+
+Conjuntos Cinta e Catraca Mave Pro (1500kg a 5000kg)
+
+Os Conjuntos Cinta e Catraca Mave Pro são versões aprimoradas dos
+conjuntos tradicionais. Eles se diferenciam pelo acabamento premium, que
+inclui fita preta, catraca reforçada, pegada emborrachada e embalagem em
+mala de transporte (Lança Merte). A utilidade prática destes conjuntos
+reside no maior conforto durante o tensionamento, graças à borracha, e
+na facilidade de armazenamento organizado na cabine do caminhão. São
+indicados para o transporte rodoviário de cargas de médio a grande
+porte, sendo o produto ideal para caminhoneiros autônomos cuidadosos com
+seus equipamentos, frotas premium e lojas de acessórios automotivos de
+alto padrão.
+
+Kits Moto (Catraca MCJ044 e Esticador MCJ103)
+
+Os Kits Moto são conjuntos dimensionados especificamente para
+motocicletas, com capacidade de 800kg e largura de 25mm. O gancho tipo S
+e a largura reduzida são perfeitos para passar pelo guidão ou quadro da
+moto sem arranhar a pintura ou danificar cabos. Seus principais casos de
+uso envolvem o transporte de motos de trilha, motocross ou o resgate de
+motos em guinchos leves. O público-alvo inclui concessionárias, oficinas
+mecânicas especializadas, praticantes de esportes em duas rodas e
+empresas de guincho 24 horas.
+
+2. Linha Leve de Amarração (800kg a 1500kg)
+
+A Linha Leve é focada em oferecer excelente custo-benefício para cargas
+menores, contando com embalagens otimizadas para exposição em gôndolas
+de varejo.
+
+Os Conjuntos de 800kg (25mm) e 1500kg (25mm a 35mm) são compostos por
+cintas mais estreitas e catracas de menor porte. Sua utilidade prática
+concentra-se na amarração de cargas que não exigem força extrema, mas
+que necessitam de estabilidade durante o transporte, sendo equipamentos
+fáceis de manusear e guardar. Os casos de uso mais comuns incluem a
+amarração de móveis em mudanças residenciais, fixação de escadas no teto
+de veículos de serviço e o transporte de eletrodomésticos em picapes
+pequenas como Fiorino e Strada. Este segmento atende perfeitamente lojas
+de ferragens, home centers, empresas de mudanças de pequeno porte,
+instaladores técnicos e o público em geral adepto do "faça-você-mesmo".
+
+3. Cintas de Amarração Individuais (1500kg a 10000kg)
+
+As cintas vendidas individualmente (sem catraca acoplada) representam
+uma oportunidade importante para clientes que precisam de reposição ou
+customização de soluções. Todas as cintas possuem fator de segurança
+2:1, significando que suportam o dobro da carga nominal especificada.
+
+  ------------------------------------------------------------------------------
+  Capacidade     Largura        Gancho         Aplicação      Público-Alvo
+                                               Típica         
+  -------------- -------------- -------------- -------------- ------------------
+  1500kg a       50mm           Tipo J         Cargas         Transportadoras,
+  5000kg                                       paletizadas,   caminhoneiros
+                                               tubos,         autônomos
+                                               tambores em    
+                                               carrocerias    
+                                               abertas        
+
+  1500kg a       50mm           Sider          Cargas         Transportadoras de
+  5000kg                                       paletizadas    bens de consumo,
+                                               dentro de      frotistas Sider
+                                               carretas Sider 
+                                               (alimentos,    
+                                               bebidas)       
+
+  7000kg         75mm           Tipo J         Cargas muito   Indústrias
+                                               pesadas em     pesadas,
+                                               operações      transportadoras
+                                               especiais      especializadas
+
+  10000kg        100mm          Tipo J ou      Cargas         Indústrias
+                                Patola         extremamente   metalúrgicas,
+                                               pesadas,       operadores
+                                               componentes    logísticos premium
+                                               industriais    
+  ------------------------------------------------------------------------------
+
+As cintas individuais também estão disponíveis em múltiplas cores
+(laranja padrão, branco e preto), permitindo que clientes padronizem
+suas frotas com cores corporativas ou identifiquem diferentes
+capacidades por cor.
+
+4. Catracas e Cintas de Amarração Padrão (1500kg a 5000kg)
+
+Esta categoria representa a base do transporte rodoviário, oferecendo
+produtos robustos projetados para suportar o trabalho pesado diário nas
+estradas brasileiras.
+
+  -----------------------------------------------------------------------
+  Tipo de Conjunto  Características e Casos de Uso      Público-Alvo
+                    Utilidade         Principais        
+  ----------------- ----------------- ----------------- -----------------
+  Gancho Tipo J     O gancho "J" é o  Amarração de      Transportadoras
+  (Ex: MCJ014,      formato mais      cargas            de carga seca,
+  MCJ022)           universal,        paletizadas,      caminhoneiros
+                    fabricado em aço  tubos, tambores,  autônomos, lojas
+                    maciço. Encaixa   sacarias e        de peças para
+                    facilmente nas    materiais de      caminhões e
+                    carrocerias de    construção em     indústrias em
+                    madeira ou metal  caminhões de      geral.
+                    da maioria dos    carroceria aberta 
+                    caminhões         ou prancha.       
+                    abertos.                            
+
+  Gancho Sider (Ex: Gancho achatado e Amarração interna Transportadoras
+  MCJ072, MCJ016,   largo, desenhado  de cargas         de bens de
+  MCJ020)           especificamente   paletizadas       consumo,
+                    para o perfil     (alimentos,       frotistas de
+                    lateral dos       bebidas,          carretas Sider,
+                    caminhões tipo    autopeças) dentro operadores
+                    Sider. Encaixa    de carretas       logísticos.
+                    perfeitamente no  Sider.            
+                    trilho lateral                      
+                    sem danificar a                     
+                    lona.                               
+
+  Cegonheiro 3000kg Conjunto com      Transporte de     Empresas de
+  (MCJ018)          gancho giratório  veículos novos ou logística
+                    e proteções na    usados em         automotiva
+                    fita. O gancho    caminhões cegonha (cegonheiros),
+                    permite fixar a   ou guinchos       empresas de
+                    cinta no pneu do  plataforma.       guincho e
+                    veículo                             reboque.
+                    transportado em                     
+                    qualquer ângulo,                    
+                    enquanto as                         
+                    proteções evitam                    
+                    arranhões nas                       
+                    rodas.                              
+  -----------------------------------------------------------------------
+
+5. Catracas com Rabicho (1500kg a 5000kg)
+
+As Catracas com Rabicho são catracas que já vêm com uma pequena cinta
+(rabicho) acoplada, facilitando o transporte e o manuseio. Estas
+catracas são ideais para clientes que precisam de reposição rápida ou
+que preferem comprar a catraca e a cinta como um conjunto integrado.
+
+A utilidade prática das catracas com rabicho é permitir que o motorista
+carregue a catraca na mão sem perder a cinta, evitando que ela caia ou
+se suje. Além disso, algumas versões especiais como a "Compacta"
+oferecem menor tamanho para espaços reduzidos, enquanto a versão
+"Invertida" permite que o gancho fique em posição oposta para aplicações
+específicas.
+
+Os casos de uso incluem reposição de equipamentos danificados,
+padronização de frotas e operações onde a praticidade é essencial. O
+público-alvo compreende oficinas de carroceria, frotistas, caminhoneiros
+que valorizam a organização, e empresas de logística que precisam de
+reposição rápida.
+
+6. Catracas Móveis (800kg a 10000kg)
+
+As Catracas Móveis são catracas sem rabicho que podem ser reposicionadas
+conforme necessário. Elas são utilizadas para tensionar as cintas,
+garantindo que elas estejam firmes e bem fixadas nas cargas
+transportadas. Produzidas em aço carbono com empunhadura emborrachada,
+as catracas móveis oferecem ergonomia superior para o manuseio.
+
+A principal utilidade das catracas móveis é a flexibilidade.
+Diferentemente das catracas fixas (que são instaladas permanentemente),
+as catracas móveis podem ser movidas para diferentes posições conforme o
+tipo e tamanho da carga. Isto as torna ideais para operações versáteis.
+
+  ------------------------------------------------------------------------
+  Capacidade        Largura           Aplicação         Público-Alvo
+  ----------------- ----------------- ----------------- ------------------
+  800kg             25mm              Kits para moto,   Concessionárias de
+                                      esticadores leves moto, oficinas
+
+  1500kg            25-35mm           Cargas leves a    Empresas de
+                                      médias, operações mudança,
+                                      versáteis         instaladores
+
+  2000kg            50mm              Cargas médias,    Transportadoras
+                                      operações gerais  pequenas,
+                                                        caminhoneiros
+
+  3000kg            50mm              Cargas pesadas,   Transportadoras,
+                                      operações padrão  indústrias
+
+  5000kg            50mm              Cargas muito      Transportadoras
+                                      pesadas           especializadas,
+                                                        indústrias
+
+  10000kg           100mm             Cargas            Indústrias
+                                      extremamente      metalúrgicas,
+                                      pesadas           operadores premium
+  ------------------------------------------------------------------------
+
+7. Catracas Fixas (5000kg a 10000kg)
+
+As Catracas Fixas levam esse nome porque são instaladas de forma
+permanente na carroceria do caminhão, sendo removidas apenas em caso de
+troca do produto. Para um motorista que tende a carregar sempre as
+mesmas cargas, a Catraca Fixa é ideal pois não requer mudanças de
+posição, oferecendo estabilidade e facilidade na hora de carregar e
+transportar as cargas.
+
+A principal utilidade das catracas fixas é a praticidade operacional. Um
+motorista que sempre transporta o mesmo tipo de carga (por exemplo,
+sempre palets de bebida) não precisa reposicionar a catraca a cada
+viagem. Ele simplesmente passa a cinta pela catraca fixa e tensiona.
+Isto economiza tempo e reduz o risco de erro.
+
+As catracas fixas são produzidas com pintura epóxi (camada extra de
+resistência que evita desgaste químico e por corrosão), aço carbono
+(para durabilidade em qualquer clima) e cortes a lazer (garantindo
+precisão sem rebarbas).
+
+Os modelos incluem variações para diferentes tipos de carroceria:
+
+-   Catraca Fixa Sider (com três ou cinco furos): Para instalação em
+    caminhões Sider
+
+-   Catraca Fixa Padrão (com três ou cinco furos): Para carrocerias
+    abertas
+
+-   Triângulo Suporte: Estrutura de suporte para instalação
+
+-   Chapa Catraca Fixa: Versão com chapa de reforço
+
+-   Catraca Fixa 100mm: Para capacidades de 10000kg, disponível com tubo
+    normal ou reforçado
+
+O público-alvo inclui transportadoras com rotas fixas, indústrias com
+operações repetitivas, e caminhoneiros que transportam sempre o mesmo
+tipo de carga.
+
+8. Cintas para Elevação
+
+As Cintas para Elevação são cintas tubulares (fechadas em círculo ou com
+olhais nas pontas) fabricadas especificamente para levantar peso
+verticalmente, e não para amarração horizontal.
+
+A grande utilidade prática destas cintas é a substituição de cabos de
+aço ou correntes na elevação de cargas, com a vantagem de serem
+significativamente mais leves, flexíveis e, principalmente, não
+danificarem a superfície da carga, evitando arranhões em peças usinadas
+ou pintadas. Isto é crítico em operações com componentes de alto valor
+agregado.
+
+Os casos de uso típicos envolvem o içamento de tubos de concreto,
+movimentação de máquinas industriais pesadas, içamento de barcos em
+marinas, descarregamento de perfis de aço e movimentação de componentes
+em fábricas. O público-alvo para esta categoria é composto por
+indústrias metalúrgicas, empresas de construção civil pesada, portos,
+marinas, e empresas especializadas em locação de guindastes e caminhões
+munck.
+
+9. Extensores Elásticos
+
+Os Extensores Elásticos são acessórios fabricados a partir de
+matéria-prima de alta qualidade, feitos com fio virgem e revestimento de
+polipropileno, garantindo maior durabilidade e resistência. Os ganchos
+são temperados e zincados, aumentando a resistência do produto.
+
+A Mave é o maior fabricante de extensores elásticos do Brasil,
+oferecendo uma variedade impressionante de tamanhos, espessuras e tipos
+de gancho.
+
+Características Técnicas dos Extensores
+
+Dureza do Fio: A consistência do fio é indicador de qualidade. Uma
+consistência mais rígida significa que o fio é constituído de mais
+látex, aumentando a qualidade do acessório.
+
+Elasticidade: Um bom extensor deve passar no teste de elasticidade. Se o
+comprimento nominal é de 35cm, ele deve chegar até 90cm quando esticado,
+demonstrando flexibilidade superior.
+
+Memória do Elástico: Este indicador tem relação com a força que o
+elástico exerce. Para ser considerada uma boa memória, o elástico deve
+retornar ao seu comprimento original quando estendido ou solto.
+
+Tipos de Extensores Disponíveis
+
+Extensores 5mm: Disponíveis com múltiplas opções de gancho (metal,
+preto, plástico, ou sem gancho). Embalagem com 50 unidades.
+
+Extensores 6mm Premium com Gancho Duplo: Versão premium com gancho duplo
+metálico 2,8mm, oferecendo maior resistência. Embalagem com 50 unidades.
+
+Aplicações e Público-Alvo
+
+Os extensores elásticos são utilizados para fixação rápida de objetos
+irregulares, prender capacetes extras, capas de chuva ou pequenas
+mochilas no banco traseiro ou tanque de motocicletas. Também são usados
+em operações de carga e descarga para fixação temporária. O público-alvo
+inclui motociclistas urbanos, motoboys, entregadores de aplicativo, e
+qualquer operação que necessite de fixação flexível e rápida.
+
+10. Ganchos Individuais
+
+Os Ganchos são terminais utilizados em conjunto com cintas e catracas
+garantindo a fixação estável das amarrações para segurança de cargas.
+Todos os ganchos Mave são bicromatizados, garantindo resistência à
+corrosão e ao desgaste através de um banho de cromo e zinco.
+
+Os ganchos individuais permitem que clientes façam reposição de peças
+danificadas ou customizem suas soluções. Estão disponíveis em múltiplos
+formatos: Tipo J (universal), Sider (lateral), Patola (especializado),
+Triângulo (para aplicações específicas).
+
+O público-alvo inclui oficinas de carroceria, transportadoras que fazem
+manutenção preventiva, e clientes que precisam de reposição rápida de
+componentes.
+
+11. Rede de Contenção
+
+A Rede para Moto é uma rede elástica tipo "aranha" utilizada para
+fixação rápida de objetos irregulares. Está disponível em tamanhos
+35x35cm e 50x50cm com 5mm de espessura.
+
+A utilidade prática é permitir a fixação segura de capacetes extras,
+capas de chuva, mochilas ou pequenos pacotes no banco traseiro ou tanque
+da motocicleta. É um acessório essencial para motoboys e motociclistas
+que precisam transportar itens adicionais.
+
+O público-alvo inclui motociclistas urbanos, motoboys, entregadores de
+aplicativo, e lojas de acessórios para motos.
+
+12. Toldos de Lona com Armação
+
+Os Toldos de Lona consistem em uma estrutura de aço galvanizado coberta
+por uma lona de PVC de 600 µm de espessura, disponíveis nos tamanhos
+2x2m ou 3x2m.
+
+A utilidade prática deste produto é a criação rápida de uma área coberta
+e resistente na traseira ou na lateral do caminhão. Os ganchos são
+zincados, a estrutura é reforçada em aço galvanizado, e a instalação é
+fácil, permitindo ao motorista colocar e retirar de forma eficiente
+quando necessário.
+
+Os casos de uso incluem a proteção do motorista e da equipe contra o sol
+forte e a chuva durante os processos de carga e descarga, a criação de
+uma área de sombra para descanso em paradas nas rodovias, e a proteção
+de cargas sensíveis durante operações de entrega fracionada.
+
+O público-alvo abrange caminhoneiros autônomos, empresas de entrega
+urbana (last mile), vendedores ambulantes que utilizam o próprio
+caminhão como ponto de venda móvel, e operadores que trabalham em
+regiões com clima severo.
+
+13. Acessórios Especializados
+
+Conjuntos Graneleiro (MCJ040, MCJ041)
+
+Os Conjuntos Graneleiro são equipados com gancho tipo H ou U. Eles foram
+desenhados especificamente para travar as tampas laterais de caminhões
+graneleiros, evitando que a imensa pressão exercida pela carga a granel
+(como soja ou milho) abra a carroceria durante o trajeto.
+
+A utilidade prática é garantir que o caminhão chegue ao destino com a
+carga intacta, sem perdas por abertura acidental. Isto é crítico durante
+a safra agrícola quando os prazos são apertados.
+
+O público-alvo inclui transportadoras do agronegócio, cooperativas
+agrícolas e caminhoneiros que atuam durante as safras.
+
+Fivela Lateral Sider (MCJ045) e Cintas Laterais (MCN049)
+
+A Fivela Lateral Sider e as Cintas Laterais são componentes de reposição
+fundamentais para a lona do caminhão Sider. Sua função é esticar a lona
+lateral do caminhão, mantendo-a firme contra a força do vento e
+garantindo a proteção da carga contra a chuva.
+
+Estes itens são procurados principalmente para manutenção preventiva ou
+corretiva por oficinas de implementos rodoviários, frotistas, e
+fabricantes de lonas.
+
+Barrigueiras (MCJ038, MCJ039)
+
+As Barrigueiras são acessórios de 3000kg com 50mm x 40cm, disponíveis
+com gancho ou com alça. São utilizadas para fixação adicional em
+operações específicas.
+
+Pinos Quebra-Dedo e Grampos
+
+Os Pinos Quebra-Dedo e Grampos são ferragens pequenas utilizadas para o
+travamento de tampas de carroceria. Apesar do tamanho, são peças de
+reposição críticas que frequentemente quebram ou se perdem no uso diário
+e severo das carrocerias de madeira.
+
+Estão disponíveis em múltiplas variações:
+
+-   Pino Quebra-Dedo com Nylon Flexível (proteção)
+
+-   Pino Quebra-Dedo Corrente (para correntes)
+
+-   Pino Quebra-Dedo Cabo de Aço (para cabos)
+
+-   Pino Fueiro com Corrente
+
+-   Pino Quebra-Dedo Simples
+
+-   Grampo Tombador (para tombadores)
+
+-   Grampo Graneleiro em U (para graneleiros)
+
+O público-alvo destes itens concentra-se em lojas de autopeças de beira
+de estrada, oficinas de reforma de carrocerias e caminhoneiros em geral.
+
+Trilha de Amarração Baú (MPGN04)
+
+A Trilha de Amarração Baú é uma trilha em aço galvanizado com 1m de
+comprimento e 45mm de largura. Permite a instalação de ganchos em
+posições específicas no baú do caminhão.
+
+Luvas de Proteção (MDU434, MDU435)
+
+As Luvas de Couro de Vaqueta são 100% couro com punho CA 7 e 15cm.
+Protegem as mãos do motorista durante operações de amarração.
+
+Cabos de Aço para Lacrar (MDU265-268)
+
+Os Cabos de Aço para Lacrar Carga são em 1/16", aço zincado, disponíveis
+em 23m, 30m, 35m ou 40m. Utilizados para lacrar cargas e garantir a
+integridade durante o transporte.
+
+Joaninhas para Carrocerias
+
+As Joaninhas são pinos especializados para diferentes tipos de
+carroceria:
+
+-   Joaninhas 3x90 para Carrocerias Randon
+
+-   Joaninha 2,50x65 para Carrocerias Guerra
+
+Fixadores de Tampa de Carroceria
+
+Os Fixadores de Tampa estão disponíveis em tamanhos 5/8", 3/4" e 7/8",
+embalagem 25 unidades.
+
+14. Diretrizes de Atendimento para o Agente Claude
+
+Para maximizar a eficiência nas vendas e o nível de serviço, o agente
+deve aplicar as seguintes estratégias baseadas neste guia:
+
+Abordagem de Venda Consultiva
+
+Quando um cliente solicitar genericamente "uma cinta de 3000kg", o
+agente não deve apenas apresentar o produto, mas investigar a
+necessidade perguntando sobre o tipo de caminhão (aberto ou sider), a
+natureza da carga, a frequência de uso, e se há preferência por cores
+específicas. Se o cliente possuir um caminhão Sider, o agente deve
+recomendar especificamente o conjunto com gancho Sider; se for
+carroceria aberta, a recomendação correta é o gancho J.
+
+Identificação de Oportunidades (Cross-sell)
+
+O agente deve estar programado para oferecer produtos complementares.
+Por exemplo, se o cliente estiver adquirindo cintas para caminhão
+graneleiro, o agente deve proativamente questionar sobre a necessidade
+de repor os pinos quebra-dedo ou grampos da carroceria, itens que sofrem
+desgaste natural nesta operação. Se o cliente comprar catracas móveis,
+perguntar sobre ganchos de reposição.
+
+Estratégia de Agregação de Valor (Up-sell)
+
+Ao identificar demandas por produtos básicos, o agente deve apresentar
+as opções premium. Se um cliente buscar uma catraca leve para
+motocicleta, o agente deve sugerir a Catraca Retrátil Mave Pro (MCJ402),
+argumentando que o sistema de enrolamento automático por botão economiza
+tempo significativo na amarração e oferece maior durabilidade,
+justificando o investimento superior.
+
+Padronização de Frota
+
+Se o cliente for uma transportadora ou frotista, o agente deve explorar
+oportunidades de padronização. Por exemplo, sugerir que toda a frota use
+cintas de uma cor específica para facilitar identificação, ou que
+instale catracas fixas em caminhões que sempre transportam o mesmo tipo
+de carga.
+
+Suporte Técnico Consultivo
+
+O agente deve estar preparado para oferecer orientação especializada
+sobre:
+
+-   Escolha correta de capacidade baseada no peso da carga
+
+-   Seleção de tipo de gancho apropriado para o tipo de carroceria
+
+-   Conformidade com regulamentações (ABNT NBR 15883-2)
+
+-   Recomendações de manutenção preventiva
+
+-   Análise de custo total de propriedade (TCO) considerando
+    durabilidade
+
+Matriz de Recomendação Rápida
+
+  ---------------------------------------------------------------------------------
+  Perfil do Cliente     Necessidade    Recomendação   Up-sell        Cross-sell
+                        Típica         Principal                     
+  --------------------- -------------- -------------- -------------- --------------
+  Motorista Autônomo    Amarração      Catraca Padrão Mave Pro       Ganchos de
+                        versátil       3000kg J                      reposição
+
+  Transportadora Sider  Cargas         Catraca Sider  Mave Pro Sider Fivelas
+                        paletizadas    3000kg                        laterais,
+                                                                     pinos
+
+  Cegonheiro            Transporte de  Cegonheiro     Versão 5000kg  Luvas de
+                        veículos       3000kg                        proteção
+
+  Agrícola/Graneleiro   Transporte de  Graneleiro     Graneleiro     Pinos
+                        grãos          3000kg         5000kg         quebra-dedo
+
+  Mudança Residencial   Cargas leves   Linha Leve     Linha Leve     Extensores
+                                       800kg          1500kg         elásticos
+
+  Motociclista          Transporte de  Kit Moto 800kg Catraca        Rede para moto
+                        moto                          Retrátil Pro   
+
+  Indústria Metalúrgica Elevação de    Cinta para     Versão maior   Ganchos
+                        peças          Elevação                      especiais
+  ---------------------------------------------------------------------------------
+
+Conclusão
+
+Este guia transforma o catálogo técnico em um manual de vendas
+consultivas. Com ele, o agente Claude não será apenas um "tirador de
+pedidos", mas um verdadeiro consultor técnico que entende as dores do
+cliente e oferece soluções customizadas que agregam valor real ao
+negócio.

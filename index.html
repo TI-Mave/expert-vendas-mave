@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>Mave - Agente Comercial</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#0c0c0e;
+  --surface:#161618;
+  --surface2:#1e1e21;
+  --border:#2a2a2e;
+  --text:#e4e4e7;
+  --text2:#a1a1aa;
+  --accent:#f97316;
+  --accent2:#fb923c;
+  --radius:14px;
+}
+html,body{height:100%;font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text)}
+.app{display:flex;flex-direction:column;height:100dvh;max-width:860px;margin:0 auto}
+
+/* HEADER */
+header{
+  padding:14px 20px;display:flex;align-items:center;gap:12px;
+  border-bottom:1px solid var(--border);flex-shrink:0;background:var(--bg);
+}
+.logo{
+  width:42px;height:42px;border-radius:11px;
+  background:linear-gradient(135deg,#f97316,#ea580c);
+  display:flex;align-items:center;justify-content:center;
+  font-weight:700;font-size:15px;color:#fff;letter-spacing:-.5px;flex-shrink:0;
+}
+.info h1{font-size:15px;font-weight:600;letter-spacing:-.2px}
+.info p{font-size:12px;color:var(--text2);margin-top:2px}
+.nova-btn{
+  margin-left:auto;background:var(--surface2);border:1px solid var(--border);
+  color:var(--text2);font-size:13px;font-family:inherit;font-weight:500;
+  padding:8px 16px;border-radius:9px;cursor:pointer;transition:all .15s;
+}
+.nova-btn:hover{background:var(--border);color:var(--text)}
+
+/* MESSAGES */
+.mensagens{
+  flex:1;overflow-y:auto;padding:20px 20px 10px;
+  display:flex;flex-direction:column;gap:14px;
+}
+.mensagens::-webkit-scrollbar{width:5px}
+.mensagens::-webkit-scrollbar-thumb{background:var(--border);border-radius:5px}
+
+.msg{max-width:82%;animation:fadeUp .2s ease}
+@keyframes fadeUp{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+
+.msg.user{
+  align-self:flex-end;background:var(--accent);color:#fff;
+  padding:11px 16px;border-radius:var(--radius) var(--radius) 4px var(--radius);
+  font-size:14px;line-height:1.5;word-break:break-word;
+}
+.msg.user .file-badge{
+  display:inline-flex;align-items:center;gap:5px;
+  background:rgba(255,255,255,.2);padding:4px 10px;border-radius:6px;
+  font-size:12px;margin-bottom:6px;
+}
+.msg.user .file-badge svg{width:14px;height:14px}
+.msg.bot{
+  align-self:flex-start;background:var(--surface);border:1px solid var(--border);
+  padding:14px 18px;border-radius:var(--radius) var(--radius) var(--radius) 4px;
+  font-size:14px;line-height:1.7;word-break:break-word;
+}
+.msg.bot p{margin-bottom:8px}
+.msg.bot p:last-child{margin-bottom:0}
+.msg.bot strong,.msg.bot b{color:var(--accent2);font-weight:600}
+.msg.bot ul,.msg.bot ol{margin:6px 0 8px 18px}
+.msg.bot li{margin-bottom:3px}
+.msg.bot h1,.msg.bot h2,.msg.bot h3{font-size:15px;font-weight:600;margin:12px 0 6px;color:var(--accent2)}
+.msg.bot code{background:var(--surface2);padding:1px 5px;border-radius:4px;font-size:13px}
+.msg.bot hr{border:none;border-top:1px solid var(--border);margin:10px 0}
+
+/* TYPING */
+.typing{display:inline-flex;gap:5px;padding:4px 0}
+.typing span{
+  width:7px;height:7px;background:var(--text2);border-radius:50%;
+  animation:bounce .9s ease-in-out infinite;
+}
+.typing span:nth-child(2){animation-delay:.15s}
+.typing span:nth-child(3){animation-delay:.3s}
+@keyframes bounce{0%,100%{opacity:.3;transform:scale(.8)}50%{opacity:1;transform:scale(1.1)}}
+
+/* WELCOME */
+.welcome{
+  flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  padding:40px 20px;text-align:center;gap:14px;
+}
+.welcome-icon{
+  width:64px;height:64px;border-radius:16px;
+  background:linear-gradient(135deg,#f97316,#ea580c);
+  display:flex;align-items:center;justify-content:center;
+  font-size:28px;font-weight:700;color:#fff;
+}
+.welcome h2{font-size:20px;font-weight:600;letter-spacing:-.3px}
+.welcome p{font-size:14px;color:var(--text2);max-width:400px;line-height:1.6}
+.dicas{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:8px}
+.dica{
+  background:var(--surface);border:1px solid var(--border);
+  padding:10px 16px;border-radius:10px;font-size:13px;color:var(--text2);
+  cursor:pointer;transition:all .15s;
+}
+.dica:hover{border-color:var(--accent);color:var(--text)}
+
+/* INPUT BAR */
+.input-bar{
+  padding:12px 16px 16px;border-top:1px solid var(--border);
+  flex-shrink:0;background:var(--bg);
+}
+
+/* FILE PREVIEW */
+.file-preview{
+  display:none;align-items:center;gap:8px;
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:10px;padding:8px 12px;margin-bottom:8px;
+  font-size:13px;color:var(--text2);
+}
+.file-preview.active{display:flex}
+.file-preview .fname{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.file-preview .fsize{color:var(--text2);font-size:11px;flex-shrink:0}
+.file-preview .fremove{
+  background:none;border:none;color:var(--text2);cursor:pointer;
+  font-size:18px;line-height:1;padding:0 2px;transition:color .15s;
+}
+.file-preview .fremove:hover{color:#ef4444}
+.file-preview svg{width:18px;height:18px;flex-shrink:0;color:var(--accent)}
+
+.input-wrap{
+  display:flex;align-items:flex-end;gap:6px;
+  background:var(--surface);border:1px solid var(--border);
+  border-radius:var(--radius);padding:4px 4px 4px 6px;
+  transition:border-color .15s;
+}
+.input-wrap:focus-within{border-color:var(--accent)}
+
+/* UPLOAD BUTTON */
+.upload-btn{
+  width:36px;height:36px;border-radius:8px;border:none;
+  background:transparent;color:var(--text2);cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  transition:all .15s;flex-shrink:0;
+}
+.upload-btn:hover{background:var(--surface2);color:var(--text)}
+.upload-btn svg{width:18px;height:18px}
+
+.input-wrap textarea{
+  flex:1;background:none;border:none;outline:none;resize:none;
+  color:var(--text);font-family:inherit;font-size:14px;
+  line-height:1.5;padding:8px 0;max-height:120px;
+}
+.input-wrap textarea::placeholder{color:var(--text2)}
+.send-btn{
+  width:40px;height:40px;border-radius:10px;border:none;
+  background:var(--accent);color:#fff;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  transition:all .15s;flex-shrink:0;
+}
+.send-btn:hover{background:#ea580c}
+.send-btn:disabled{opacity:.4;cursor:not-allowed}
+.send-btn svg{width:18px;height:18px}
+
+.rodape{text-align:center;padding:4px;font-size:11px;color:var(--border)}
+
+/* DRAG OVER */
+.drag-over .input-wrap{border-color:var(--accent);background:rgba(249,115,22,.06)}
+</style>
+</head>
+<body>
+<div class="app" id="app">
+  <header>
+    <div class="logo">M</div>
+    <div class="info">
+      <h1>Agente Comercial Mave</h1>
+      <p>Copiloto de vendas inteligente</p>
+    </div>
+    <button class="nova-btn" onclick="novaConversa()">Nova conversa</button>
+  </header>
+
+  <div class="mensagens" id="mensagens">
+    <div class="welcome" id="welcome">
+      <div class="welcome-icon">M</div>
+      <h2>Como posso te ajudar?</h2>
+      <p>Sou seu copiloto comercial. Envie textos, imagens, PDFs ou documentos Word junto com sua pergunta.</p>
+      <div class="dicas">
+        <div class="dica" onclick="enviarDica(this)">Cliente diz que é caro, como contorno?</div>
+        <div class="dica" onclick="enviarDica(this)">Qual cinta pra amarrar moto no caminhão?</div>
+        <div class="dica" onclick="enviarDica(this)">Preciso de um follow-up pra reativação</div>
+        <div class="dica" onclick="enviarDica(this)">Me explica a linha Mave Pro</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="input-bar">
+    <div class="file-preview" id="filePreview">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+      <span class="fname" id="fileName"></span>
+      <span class="fsize" id="fileSize"></span>
+      <button class="fremove" onclick="removerArquivo()">&times;</button>
+    </div>
+    <div class="input-wrap">
+      <button class="upload-btn" onclick="document.getElementById('fileInput').click()" title="Enviar arquivo">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.44 11.05l-9.19 9.19a6 6 0 0 1-8.49-8.49l9.19-9.19a4 4 0 0 1 5.66 5.66l-9.2 9.19a2 2 0 0 1-2.83-2.83l8.49-8.48"/></svg>
+      </button>
+      <input type="file" id="fileInput" accept=".pdf,.png,.jpg,.jpeg,.gif,.webp,.txt,.csv,.md,.docx" style="display:none" onchange="arquivoSelecionado(this)">
+      <textarea id="input" rows="1" placeholder="Digite sua mensagem..." onkeydown="tecla(event)" oninput="autoResize(this)"></textarea>
+      <button class="send-btn" id="btnEnviar" onclick="enviar()">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+      </button>
+    </div>
+    <div class="rodape">Mave Comércio de Acessórios LTDA</div>
+  </div>
+</div>
+
+<script>
+const SESSION_ID = 'sess_' + Math.random().toString(36).slice(2, 10);
+const mensagensDiv = document.getElementById('mensagens');
+const inputEl = document.getElementById('input');
+const btnEnviar = document.getElementById('btnEnviar');
+const fileInput = document.getElementById('fileInput');
+const filePreview = document.getElementById('filePreview');
+const fileNameEl = document.getElementById('fileName');
+const fileSizeEl = document.getElementById('fileSize');
+let welcomeDiv = document.getElementById('welcome');
+let enviando = false;
+let arquivoAtual = null;
+
+// AUTO RESIZE TEXTAREA
+function autoResize(el){
+  el.style.height='auto';
+  el.style.height=Math.min(el.scrollHeight,120)+'px';
+}
+
+// KEYBOARD
+function tecla(e){
+  if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();enviar()}
+}
+
+// QUICK TIPS
+function enviarDica(el){inputEl.value=el.textContent;enviar()}
+
+// FILE HANDLING
+function arquivoSelecionado(input){
+  const file=input.files[0];
+  if(!file)return;
+  arquivoAtual=file;
+  fileNameEl.textContent=file.name;
+  fileSizeEl.textContent=formatarTamanho(file.size);
+  filePreview.classList.add('active');
+  inputEl.focus();
+}
+function removerArquivo(){
+  arquivoAtual=null;
+  fileInput.value='';
+  filePreview.classList.remove('active');
+}
+function formatarTamanho(bytes){
+  if(bytes<1024)return bytes+'B';
+  if(bytes<1048576)return(bytes/1024).toFixed(1)+'KB';
+  return(bytes/1048576).toFixed(1)+'MB';
+}
+
+// DRAG & DROP
+const appDiv=document.getElementById('app');
+['dragenter','dragover'].forEach(e=>appDiv.addEventListener(e,ev=>{
+  ev.preventDefault();appDiv.classList.add('drag-over');
+}));
+['dragleave','drop'].forEach(e=>appDiv.addEventListener(e,ev=>{
+  ev.preventDefault();appDiv.classList.remove('drag-over');
+}));
+appDiv.addEventListener('drop',ev=>{
+  const file=ev.dataTransfer.files[0];
+  if(file){
+    arquivoAtual=file;
+    fileNameEl.textContent=file.name;
+    fileSizeEl.textContent=formatarTamanho(file.size);
+    filePreview.classList.add('active');
+    inputEl.focus();
+  }
+});
+
+// ADD MESSAGE
+function adicionarMsg(texto,tipo,nomeArquivo){
+  if(welcomeDiv){welcomeDiv.remove();welcomeDiv=null}
+  const div=document.createElement('div');
+  div.className='msg '+tipo;
+  if(tipo==='user'){
+    let html='';
+    if(nomeArquivo){
+      html+=`<div class="file-badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>${nomeArquivo}</div><br>`;
+    }
+    html+=escapeHtml(texto);
+    div.innerHTML=html;
+  }else{
+    div.innerHTML=formatarMarkdown(texto);
+  }
+  mensagensDiv.appendChild(div);
+  mensagensDiv.scrollTop=mensagensDiv.scrollHeight;
+  return div;
+}
+
+function mostrarDigitando(){
+  if(welcomeDiv){welcomeDiv.remove();welcomeDiv=null}
+  const div=document.createElement('div');
+  div.className='msg bot';div.id='digitando';
+  div.innerHTML='<div class="typing"><span></span><span></span><span></span></div>';
+  mensagensDiv.appendChild(div);
+  mensagensDiv.scrollTop=mensagensDiv.scrollHeight;
+}
+function removerDigitando(){const el=document.getElementById('digitando');if(el)el.remove()}
+
+function escapeHtml(t){return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+
+function formatarMarkdown(texto){
+  return texto
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g,'<em>$1</em>')
+    .replace(/`(.+?)`/g,'<code>$1</code>')
+    .replace(/^### (.+)$/gm,'<h3>$1</h3>')
+    .replace(/^## (.+)$/gm,'<h2>$1</h2>')
+    .replace(/^# (.+)$/gm,'<h1>$1</h1>')
+    .replace(/^[-*] (.+)$/gm,'<li>$1</li>')
+    .replace(/(<li>.*<\/li>)/s,'<ul>$1</ul>')
+    .replace(/^---$/gm,'<hr>')
+    .replace(/\n\n/g,'</p><p>')
+    .replace(/\n/g,'<br>')
+    .replace(/^/,'<p>').replace(/$/,'</p>')
+    .replace(/<p><h([123])>/g,'<h$1>').replace(/<\/h([123])><\/p>/g,'</h$1>')
+    .replace(/<p><ul>/g,'<ul>').replace(/<\/ul><\/p>/g,'</ul>')
+    .replace(/<p><hr><\/p>/g,'<hr>')
+    .replace(/<p><\/p>/g,'');
+}
+
+// SEND MESSAGE
+async function enviar(){
+  if(enviando)return;
+  const texto=inputEl.value.trim();
+  const arquivo=arquivoAtual;
+  if(!texto&&!arquivo)return;
+
+  inputEl.value='';inputEl.style.height='auto';
+  enviando=true;btnEnviar.disabled=true;
+
+  const nomeArq=arquivo?arquivo.name:null;
+  adicionarMsg(texto||'[Arquivo enviado]','user',nomeArq);
+
+  // Limpa preview do arquivo
+  removerArquivo();
+  mostrarDigitando();
+
+  try{
+    const formData=new FormData();
+    formData.append('mensagem',texto);
+    formData.append('session_id',SESSION_ID);
+    if(arquivo){formData.append('arquivo',arquivo)}
+
+    const res=await fetch('/chat',{method:'POST',body:formData});
+    const dados=await res.json();
+    removerDigitando();
+
+    if(dados.erro){
+      adicionarMsg('Erro: '+dados.erro,'bot');
+    }else{
+      adicionarMsg(dados.resposta,'bot');
+    }
+  }catch(err){
+    removerDigitando();
+    adicionarMsg('Erro de conexão. Tente novamente.','bot');
+  }
+
+  enviando=false;btnEnviar.disabled=false;inputEl.focus();
+}
+
+// NEW CONVERSATION
+function novaConversa(){
+  fetch('/nova-conversa',{
+    method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({session_id:SESSION_ID})
+  });
+  mensagensDiv.innerHTML=`
+    <div class="welcome" id="welcome">
+      <div class="welcome-icon">M</div>
+      <h2>Como posso te ajudar?</h2>
+      <p>Sou seu copiloto comercial. Envie textos, imagens, PDFs ou documentos Word junto com sua pergunta.</p>
+      <div class="dicas">
+        <div class="dica" onclick="enviarDica(this)">Cliente diz que é caro, como contorno?</div>
+        <div class="dica" onclick="enviarDica(this)">Qual cinta pra amarrar moto no caminhão?</div>
+        <div class="dica" onclick="enviarDica(this)">Preciso de um follow-up pra reativação</div>
+        <div class="dica" onclick="enviarDica(this)">Me explica a linha Mave Pro</div>
+      </div>
+    </div>`;
+  welcomeDiv=document.getElementById('welcome');
+  removerArquivo();
+}
+
+inputEl.focus();
+</script>
+</body>
+</html>

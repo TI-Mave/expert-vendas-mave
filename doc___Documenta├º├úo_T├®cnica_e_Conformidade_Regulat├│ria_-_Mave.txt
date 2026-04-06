@@ -1,0 +1,701 @@
+Documentação Técnica e Conformidade Regulatória - Mave
+
+Versão: 1.0
+Objetivo: Documento abrangente com especificações técnicas, normas ABNT
+aplicáveis, legislação de transporte e conformidade regulatória para
+produtos de amarração e elevação de cargas. Estruturado para auxiliar o
+agente Claude em argumentação técnica, conformidade legal e
+diferenciação competitiva.
+
+Resumo Executivo
+
+A Mave opera em um mercado altamente regulado onde conformidade com
+normas técnicas é obrigatória e diferencial competitivo crítico. Todos
+os produtos de amarração e elevação de cargas no Brasil devem cumprir
+normas ABNT específicas que estabelecem requisitos de segurança,
+capacidade de carga, resistência à tração e identificação. A legislação
+de transporte rodoviário estabelece requisitos mínimos de amarração que
+devem ser atendidos. Produtos que não cumprem estas normas expõem
+clientes a riscos legais, de segurança e de responsabilidade civil.
+
+Parte 1: Normas ABNT Aplicáveis
+
+1.1 ABNT NBR 15637 - Cintas Têxteis para Elevação de Cargas
+
+Status: Norma obrigatória para elevação de cargas
+Escopo: Especifica requisitos para cintas têxteis utilizadas em
+operações de elevação
+Divisão: 3 partes
+
+ABNT NBR 15637-1: Cintas Planas Manufaturadas com Fitas Tecidas
+
+Aplicação: Cintas planas de poliéster para elevação de cargas
+
+Requisitos Principais:
+
+A norma especifica que cintas devem ser manufaturadas com fios de
+poliéster de alta tenacidade, submetidos a processo de pigmentação para
+durabilidade. As dimensões padronizadas incluem larguras de 25mm, 35mm,
+50mm, 75mm e 100mm, com comprimentos variáveis de acordo com
+necessidade.
+
+Capacidade de Carga: Especificada em função da largura, material e
+número de camadas. Cintas de 25mm podem suportar de 800kg a 1.500kg,
+enquanto cintas de 100mm podem suportar até 10.000kg, dependendo da
+configuração.
+
+Fator de Segurança: Mínimo de 7:1, significando que a cinta deve
+suportar 7 vezes a carga nominal sem ruptura. Isso garante margem de
+segurança significativa para operações.
+
+Identificação Obrigatória: Cada cinta deve ter identificação clara e
+permanente indicando:
+
+-   Capacidade de carga (em kg)
+
+-   Largura da cinta
+
+-   Comprimento da cinta
+
+-   Data de fabricação
+
+-   Número de série ou lote
+
+-   Marca do fabricante
+
+-   Conformidade com NBR 15637-1
+
+Requisitos de Qualidade:
+
+-   Resistência à tração mínima especificada
+
+-   Resistência à abrasão
+
+-   Resistência à umidade
+
+-   Resistência a produtos químicos comuns
+
+-   Durabilidade (vida útil mínima)
+
+Testes Obrigatórios:
+
+-   Teste de tração até ruptura
+
+-   Teste de resistência a abrasão
+
+-   Teste de resistência à umidade
+
+-   Teste de resistência a produtos químicos
+
+-   Teste de durabilidade
+
+ABNT NBR 15637-2: Cintas Tubulares Manufaturadas com Fios Sintéticos
+
+Aplicação: Cintas tubulares (redondas) para elevação de cargas
+
+Requisitos: Similares à Parte 1, mas adaptados para geometria tubular.
+Oferecem distribuição de carga mais uniforme em alguns casos.
+
+ABNT NBR 15637-3: Cintas com Olhos de Fixação
+
+Aplicação: Cintas com olhos (loops) para conexão a equipamentos de
+elevação
+
+Requisitos: Especifica requisitos adicionais para resistência dos olhos,
+costura e fixação. Olhos devem ser reforçados com material adicional
+para evitar ruptura.
+
+1.2 ABNT NBR 15883 - Cintas Têxteis para Amarração de Cargas
+
+Status: Norma obrigatória para amarração em transporte
+Escopo: Especifica requisitos para cintas utilizadas em amarração de
+cargas durante transporte
+Foco: Segurança durante transporte rodoviário
+
+Requisitos Principais
+
+Capacidade de Carga: Especificada para diferentes tipos de amarração
+(simples, dupla, etc.). Cintas de 25mm podem suportar de 1.500kg a
+3.000kg em amarração simples, dependendo do tipo de gancho.
+
+Fator de Segurança: Mínimo de 2:1 para amarração (menor que elevação,
+pois cargas estão fixas). Significa que a cinta deve suportar 2 vezes a
+carga nominal.
+
+Tipos de Gancho: Norma especifica requisitos para diferentes tipos de
+gancho:
+
+-   Gancho J: Uso geral, mais comum
+
+-   Gancho Sider: Para caminhões Sider
+
+-   Gancho Cegonheiro: Para caminhões cegonheiros
+
+-   Gancho Mosquetão: Conexão rápida
+
+-   Gancho Giratório: Reduz torção
+
+Identificação Obrigatória: Similar à NBR 15637, incluindo:
+
+-   Capacidade de carga
+
+-   Tipo de gancho
+
+-   Comprimento
+
+-   Conformidade com NBR 15883
+
+Requisitos de Segurança em Transporte:
+
+-   Resistência à fadiga (ciclos de tensão)
+
+-   Resistência a impactos
+
+-   Resistência a variações de temperatura
+
+-   Resistência a umidade e intempéries
+
+Testes Obrigatórios:
+
+-   Teste de tração
+
+-   Teste de fadiga (ciclos de carga/descarga)
+
+-   Teste de resistência a impactos
+
+-   Teste de resistência a intempéries
+
+1.3 ABNT NBR 15516-3 - Corrente de Elos Curtos para Elevação e Amarração
+
+Status: Norma obrigatória para correntes
+Escopo: Especifica requisitos para correntes de elos curtos utilizadas
+em elevação e amarração
+Material: Aço de alta resistência
+
+Requisitos Principais
+
+Capacidade de Carga: Especificada por diâmetro do elo. Correntes de 6mm
+podem suportar 1.800kg, enquanto correntes de 13mm podem suportar
+8.000kg.
+
+Fator de Segurança: Mínimo de 4:1 para elevação, 2:1 para amarração.
+
+Composição: Aço com teor de carbono especificado para garantir
+resistência e ductilidade.
+
+Identificação: Cada elo deve ter marcação indicando capacidade de carga.
+
+Testes: Teste de tração, teste de fadiga, teste de resistência a
+corrosão.
+
+1.4 ABNT NBR 15516-1 e 15516-2 - Lingas de Corrente
+
+Aplicação: Lingas (conjuntos) de corrente para elevação e amarração
+
+Requisitos: Especificam configurações de lingas (simples, dupla, tripla,
+quadrupla) e requisitos de resistência para cada configuração.
+
+1.5 Outras Normas Relevantes
+
+ISO 17558 - Cabos de Aço: Norma internacional para cabos de aço
+utilizados em elevação. Estabelece requisitos de resistência, composição
+e identificação.
+
+ABNT NBR 6327 - Cabos de Aço para Elevação: Adaptação brasileira de
+normas internacionais para cabos de aço.
+
+ABNT NBR 8800 - Projeto e Execução de Estruturas de Aço: Relevante para
+projetos que utilizam equipamentos de elevação.
+
+Parte 2: Legislação de Transporte Rodoviário
+
+2.1 Requisitos Mínimos de Amarração
+
+Portaria nº 1.343/2019 - Ministério dos Transportes
+
+Esta portaria estabelece as condições mínimas de segurança para
+transporte rodoviário de cargas, incluindo requisitos específicos de
+amarração.
+
+Requisitos de Pontos de Amarração
+
+Número Mínimo de Pontos:
+
+-   Veículos com zona de carga até 2.200mm: Mínimo 4 pontos de amarração
+
+-   Veículos com zona de carga superior a 2.200mm: Mínimo 6 pontos de
+    amarração
+
+-   Veículos especiais: Requisitos específicos conforme tipo de carga
+
+Distribuição: Pontos devem estar distribuídos de forma a garantir
+fixação segura da carga em múltiplas direções (longitudinal,
+transversal, vertical).
+
+Resistência: Cada ponto de amarração deve suportar força mínima de
+1.500kg sem deformação permanente.
+
+Manutenção: Pontos devem ser inspecionados regularmente e mantidos em
+bom estado.
+
+Tipos de Carga e Requisitos Específicos
+
+Cargas Gerais: Devem ser fixadas com cintas, correntes ou cabos que
+distribuam a carga uniformemente.
+
+Cargas Longas (tubos, vigas, etc.): Requerem amarração específica com
+múltiplos pontos de contato.
+
+Cargas Altas: Requerem estabilizadores laterais adicionais.
+
+Cargas Perigosas: Requerem conformidade com legislação específica de
+transporte de produtos perigosos.
+
+2.2 Responsabilidades Legais
+
+Transportador: Responsável por garantir que carga está adequadamente
+amarrada antes de iniciar transporte.
+
+Embarcador: Responsável por fornecer informações corretas sobre carga
+(peso, dimensões, características).
+
+Motorista: Responsável por verificar amarração antes de iniciar viagem e
+durante paradas.
+
+Fiscalização: Polícia Rodoviária Federal pode multar e apreender
+veículos com amarração inadequada.
+
+2.3 Penalidades por Não Conformidade
+
+Multa: De R$ 293,47 a R$ 1.467,35 (valores 2026)
+
+Apreensão: Veículo pode ser apreendido se amarração for inadequada
+
+Responsabilidade Civil: Transportador é responsável por danos causados
+por carga mal amarrada
+
+Responsabilidade Penal: Em caso de acidente com vítimas, pode haver
+responsabilidade criminal
+
+Parte 3: Especificações Técnicas de Produtos Mave
+
+3.1 Cintas de Amarração - Especificações
+
+Linha Padrão:
+
+  -----------------------------------------------------------------------------------
+  Capacidade   Largura    Comprimento   Gancho     Material    Fator       Norma
+                                                               Segurança   
+  ------------ ---------- ------------- ---------- ----------- ----------- ----------
+  1.500kg      25mm       4-9m          J/Sider    Poliéster   2:1         NBR 15883
+                                                   100%                    
+
+  2.000kg      35mm       4-9m          J/Sider    Poliéster   2:1         NBR 15883
+                                                   100%                    
+
+  3.000kg      50mm       4-9m          J/Sider    Poliéster   2:1         NBR 15883
+                                                   100%                    
+
+  5.000kg      75mm       4-9m          J/Sider    Poliéster   2:1         NBR 15883
+                                                   100%                    
+  -----------------------------------------------------------------------------------
+
+Características Técnicas:
+
+-   Material: Poliéster de alta tenacidade (100%)
+
+-   Tratamento: Bicromatização e epóxi para durabilidade
+
+-   Cortes: A laser para acabamento preciso
+
+-   Costura: Reforçada com múltiplas passadas
+
+-   Identificação: Serigrafia permanente com capacidade e norma
+
+Testes Realizados:
+
+-   Teste de tração até ruptura
+
+-   Teste de resistência a abrasão
+
+-   Teste de resistência a umidade
+
+-   Teste de resistência a produtos químicos
+
+-   Teste de durabilidade (ciclos)
+
+3.2 Cintas de Elevação - Especificações
+
+Linha Mave Pro:
+
+  -----------------------------------------------------------------------------------
+  Capacidade   Largura    Comprimento   Olhos      Material    Fator       Norma
+                                                               Segurança   
+  ------------ ---------- ------------- ---------- ----------- ----------- ----------
+  800kg        25mm       1-3m          Duplo      Poliéster   7:1         NBR
+                                                   100%                    15637-1
+
+  1.500kg      35mm       1-3m          Duplo      Poliéster   7:1         NBR
+                                                   100%                    15637-1
+
+  3.000kg      50mm       1-3m          Duplo      Poliéster   7:1         NBR
+                                                   100%                    15637-1
+
+  5.000kg      75mm       1-3m          Duplo      Poliéster   7:1         NBR
+                                                   100%                    15637-1
+  -----------------------------------------------------------------------------------
+
+Características Técnicas:
+
+-   Material: Poliéster de alta tenacidade (100%)
+
+-   Olhos: Reforçados com material adicional
+
+-   Costura: Múltiplas passadas para resistência
+
+-   Tratamento: Bicromatização para durabilidade
+
+-   Identificação: Serigrafia com capacidade, norma e data de fabricação
+
+Testes Realizados:
+
+-   Teste de tração até ruptura (7x capacidade nominal)
+
+-   Teste de resistência dos olhos
+
+-   Teste de resistência a abrasão
+
+-   Teste de resistência a umidade
+
+-   Teste de durabilidade
+
+3.3 Catracas - Especificações
+
+Catraca Padrão:
+
+  -------------------------------------------------------------------------------------
+  Capacidade   Largura    Comprimento   Tipo       Material      Fator       Norma
+                                                                 Segurança   
+  ------------ ---------- ------------- ---------- ------------- ----------- ----------
+  1.500kg      25mm       4-9m          J/Sider    Poliéster +   2:1         NBR 15883
+                                                   Catraca Aço               
+
+  2.000kg      35mm       4-9m          J/Sider    Poliéster +   2:1         NBR 15883
+                                                   Catraca Aço               
+
+  3.000kg      50mm       4-9m          J/Sider    Poliéster +   2:1         NBR 15883
+                                                   Catraca Aço               
+
+  5.000kg      75mm       4-9m          J/Sider    Poliéster +   2:1         NBR 15883
+                                                   Catraca Aço               
+  -------------------------------------------------------------------------------------
+
+Catraca Mave Pro (Retrátil):
+
+  -------------------------------------------------------------------------------------
+  Capacidade   Largura    Tipo         Mecanismo   Material      Fator       Norma
+                                                                 Segurança   
+  ------------ ---------- ------------ ----------- ------------- ----------- ----------
+  800kg        25mm       Automático   Retrátil    Poliéster +   2:1         NBR 15883
+                                                   Catraca Aço               
+
+  1.500kg      35mm       Automático   Retrátil    Poliéster +   2:1         NBR 15883
+                                                   Catraca Aço               
+  -------------------------------------------------------------------------------------
+
+Características Técnicas:
+
+-   Cinta: Poliéster de alta tenacidade
+
+-   Catraca: Aço galvanizado para resistência à corrosão
+
+-   Mecanismo: Precisão usinada para funcionamento suave
+
+-   Tratamento: Epóxi na catraca para durabilidade
+
+-   Identificação: Serigrafia na cinta com capacidade e norma
+
+Parte 4: Certificações e Testes
+
+4.1 Processo de Certificação Mave
+
+Todos os produtos Mave passam por rigoroso processo de certificação para
+garantir conformidade com normas ABNT:
+
+Etapa 1: Desenvolvimento
+
+-   Design conforme normas ABNT
+
+-   Seleção de materiais de qualidade
+
+-   Prototipagem e testes iniciais
+
+Etapa 2: Testes de Laboratório
+
+-   Testes de tração até ruptura
+
+-   Testes de resistência a abrasão
+
+-   Testes de resistência a umidade
+
+-   Testes de resistência a produtos químicos
+
+-   Testes de durabilidade (ciclos de carga/descarga)
+
+Etapa 3: Documentação
+
+-   Relatórios de testes
+
+-   Certificados de conformidade
+
+-   Documentação técnica
+
+Etapa 4: Produção
+
+-   Controle de qualidade em cada etapa
+
+-   Inspeção final antes de embalagem
+
+-   Identificação com número de lote
+
+Etapa 5: Rastreabilidade
+
+-   Cada produto tem número de série
+
+-   Rastreabilidade completa de lote
+
+-   Documentação de conformidade disponível
+
+4.2 Certificados Disponíveis
+
+Certificado ABNT NBR 15637-1: Para cintas de elevação
+Certificado ABNT NBR 15883: Para cintas de amarração
+Certificado ABNT NBR 15516-3: Para correntes (quando aplicável)
+Certificado ISO 9001: Para sistema de gestão de qualidade
+
+4.3 Testes Específicos Realizados
+
+Teste de Tração:
+
+-   Procedimento: Cinta é presa em máquina de tração e esticada até
+    ruptura
+
+-   Resultado: Capacidade de carga é determinada (deve ser mínimo 3x
+    para amarração, 7x para elevação)
+
+-   Frequência: Realizado em amostra de cada lote de produção
+
+Teste de Abrasão:
+
+-   Procedimento: Cinta é friccionada contra superfície áspera sob carga
+
+-   Resultado: Verifica-se resistência a desgaste
+
+-   Frequência: Realizado em amostra de cada lote
+
+Teste de Umidade:
+
+-   Procedimento: Cinta é submersa em água e testada após secagem
+
+-   Resultado: Verifica-se se propriedades são mantidas
+
+-   Frequência: Realizado periodicamente
+
+Teste de Produtos Químicos:
+
+-   Procedimento: Cinta é exposta a produtos químicos comuns (óleos,
+    combustíveis, etc.)
+
+-   Resultado: Verifica-se resistência química
+
+-   Frequência: Realizado periodicamente
+
+Teste de Durabilidade:
+
+-   Procedimento: Cinta passa por ciclos repetidos de carga/descarga
+
+-   Resultado: Verifica-se vida útil mínima
+
+-   Frequência: Realizado em amostra representativa
+
+Parte 5: Conformidade e Responsabilidade
+
+5.1 Responsabilidade de Mave
+
+A Mave garante que todos os seus produtos:
+
+1.  Cumprem normas ABNT - Todos os produtos são testados e certificados
+    conforme ABNT NBR 15637 (elevação) e ABNT NBR 15883 (amarração)
+
+2.  Possuem identificação clara - Cada produto tem identificação
+    permanente com capacidade de carga, norma e data de fabricação
+
+3.  Possuem documentação técnica - Cada produto é acompanhado de
+    documentação técnica completa
+
+4.  Possuem rastreabilidade - Cada produto tem número de série e lote
+    para rastreabilidade completa
+
+5.  Passaram por testes rigorosos - Cada lote passa por testes de
+    laboratório antes de ser liberado
+
+6.  Oferecem garantia - Mave oferece garantia contra defeitos de
+    fabricação
+
+5.2 Responsabilidade do Cliente
+
+O cliente é responsável por:
+
+7.  Usar produtos conforme especificado - Não exceder capacidade de
+    carga nominal
+
+8.  Inspecionar produtos regularmente - Verificar desgaste, danos,
+    corrosão
+
+9.  Substituir produtos danificados - Não utilizar produtos com danos
+    visíveis
+
+10. Manter registros - Documentar inspeções e manutenção
+
+11. Treinar operadores - Garantir que operadores entendem uso correto
+
+12. Cumprir legislação - Garantir conformidade com legislação de
+    transporte
+
+5.3 Implicações Legais
+
+Produtos Conformes (Mave):
+
+-   Cliente está protegido legalmente
+
+-   Responsabilidade de Mave é limitada a defeitos de fabricação
+
+-   Cliente tem direito a reclamação se produto falhar
+
+Produtos Não Conformes:
+
+-   Cliente assume risco legal
+
+-   Transportador pode ser multado
+
+-   Responsabilidade civil por danos causados por carga mal amarrada
+
+-   Possível responsabilidade penal em caso de acidente com vítimas
+
+Parte 6: Argumentação para o Agente Claude
+
+6.1 Quando Cliente Menciona Preço
+
+Argumento:
+
+"Preço baixo pode significar produtos não conformes. Produtos não
+conformes expõem você a multas (até R$ 1.467,35), apreensão de veículo,
+responsabilidade civil e até criminal. Mave oferece conformidade
+garantida com ABNT NBR 15637 (fator 7:1 para elevação) e NBR 15883
+(fator 2:1 para amarração). Seus clientes estão protegidos legalmente. O
+custo de conformidade é muito menor que o custo de uma multa ou
+acidente."
+
+6.2 Quando Cliente Menciona Concorrente Barato
+
+Argumento:
+
+"Concorrentes baratos frequentemente não cumprem normas ABNT. Você pode
+estar comprando produtos que não passaram em testes de resistência. Mave
+testa cada lote em laboratório. Temos certificados de conformidade. Você
+quer economizar R$ 100 agora e pagar R$ 1.467,35 de multa depois?"
+
+6.3 Quando Cliente Menciona Segurança
+
+Argumento:
+
+"Segurança é nossa prioridade. Todos os produtos Mave cumprem ABNT NBR
+15637 (elevação) e NBR 15883 (amarração). Fator de segurança de 7:1 para
+elevação significa que a cinta suporta 7 vezes a carga nominal. Temos
+testes de laboratório comprovando. Seus operadores estão seguros."
+
+6.4 Quando Cliente Menciona Conformidade
+
+Argumento:
+
+"Conformidade é obrigatória. Portaria nº 1.343/2019 estabelece
+requisitos mínimos de amarração. Veículos com zona de carga >2.200mm
+precisam de mínimo 6 pontos de amarração com produtos conformes. Mave
+oferece 100% de conformidade. Você está protegido legalmente."
+
+6.5 Quando Cliente Menciona Rastreabilidade
+
+Argumento:
+
+"Rastreabilidade é crítica. Cada produto Mave tem número de série e
+lote. Se houver problema, podemos rastrear exatamente qual lote foi
+afetado. Temos documentação completa de testes. Você tem comprovação de
+conformidade para seus clientes."
+
+6.6 Quando Cliente Menciona Garantia
+
+Argumento:
+
+"Mave oferece garantia contra defeitos de fabricação. Se um produto
+falhar, nós substituímos. Temos confiança em nossa qualidade porque
+testamos cada lote. Seus clientes têm proteção."
+
+Parte 7: Checklist de Conformidade para Cliente
+
+Para Transportador
+
+-   Todos os produtos utilizados cumprem ABNT NBR 15883?
+
+-   Produtos têm identificação clara com capacidade de carga?
+
+-   Número mínimo de pontos de amarração está sendo utilizado?
+
+-   Pontos de amarração estão em bom estado?
+
+-   Motoristas foram treinados em amarração correta?
+
+-   Registros de inspeção estão sendo mantidos?
+
+-   Produtos danificados estão sendo substituídos?
+
+Para Distribuidor
+
+-   Todos os produtos têm certificação ABNT?
+
+-   Produtos têm rastreabilidade (número de série/lote)?
+
+-   Documentação técnica está disponível?
+
+-   Clientes recebem informações sobre conformidade?
+
+-   Produtos danificados estão sendo identificados?
+
+Para Usuário Final
+
+-   Produtos utilizados cumprem ABNT NBR 15637 (elevação) ou NBR 15883
+    (amarração)?
+
+-   Capacidade de carga não está sendo excedida?
+
+-   Produtos estão sendo inspecionados regularmente?
+
+-   Produtos danificados estão sendo substituídos?
+
+-   Operadores foram treinados?
+
+Conclusão
+
+A conformidade regulatória com normas ABNT é obrigatória e diferencial
+competitivo crítico no mercado de amarração e elevação de cargas.
+Produtos Mave cumprem 100% das normas ABNT NBR 15637 (elevação) e NBR
+15883 (amarração), com testes de laboratório comprovando conformidade.
+
+Clientes que utilizam produtos Mave estão protegidos legalmente e não
+correm risco de multas ou responsabilidade civil por produtos não
+conformes. A rastreabilidade completa de cada produto permite que
+clientes comprovem conformidade para seus próprios clientes.
+
+Para o agente Claude, conformidade regulatória é argumento poderoso de
+diferenciação. Produtos não conformes expõem clientes a riscos legais,
+de segurança e financeiros. Mave oferece conformidade garantida,
+rastreabilidade completa e proteção legal.
