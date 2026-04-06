@@ -1,11 +1,12 @@
 """
-Agente Comercial Mave - Servidor Principal
-==========================================
-Recebe mensagem do vendedor (com ou sem arquivo),
-junta com os documentos da Mave, manda pro Claude
-e devolve a resposta.
+Agente Comercial Mave - Servidor com RAG
+=========================================
+Usa ChromaDB para buscar apenas os trechos relevantes
+dos documentos, economizando tokens em cada chamada.
 
-Arquivos suportados: PDF, imagens, .txt, .csv, .docx
+Todos os 15 documentos ficam indexados no banco vetorial.
+Cada pergunta busca os trechos mais relevantes antes de
+enviar pro Claude.
 """
 
 import os
@@ -15,6 +16,8 @@ import io
 from fastapi import FastAPI, UploadFile, File, Form, Request
 from fastapi.responses import HTMLResponse, JSONResponse
 import anthropic
+import chromadb
+from chromadb.utils import embedding_functions
 
 # ============================================================
 # CONFIGURACAO
@@ -22,7 +25,14 @@ import anthropic
 
 MODELO = "claude-sonnet-4-20250514"
 MAX_TOKENS = 4096
-PASTA_BASE = os.path.dirname(__file__)
+PASTA_BASE = os.path.dirname(os.path.abspath(__file__))
+
+# Quantos trechos buscar por pergunta
+NUM_RESULTADOS = 15
+
+# Tamanho de cada pedaco de texto (em caracteres)
+TAMANHO_CHUNK = 1500
+SOBREPOSICAO = 200
 
 TIPOS_IMAGEM = {".png", ".jpg", ".jpeg", ".gif", ".webp"}
 TIPOS_TEXTO = {".txt", ".csv", ".md", ".json", ".log"}
@@ -31,61 +41,149 @@ TIPOS_DOCX = {".docx"}
 TODOS_TIPOS = TIPOS_IMAGEM | TIPOS_TEXTO | TIPOS_PDF | TIPOS_DOCX
 MAX_TAMANHO = 10 * 1024 * 1024
 
-# Documentos grandes demais pro contexto (ficam de fora)
-DOCS_EXCLUIDOS = {
-    "Base_Conhecimento_Videos_MAVE.txt",
-    "Catalogo_Imagens_Agente_Vendas_MAVE.txt",
-}
-
 # ============================================================
-# CARREGAR DOCUMENTOS DA MAVE (roda 1x ao ligar)
+# SYSTEM PROMPT (sempre enviado, sem os documentos)
 # ============================================================
-
-def carregar_documentos():
-    documentos = []
-    arquivos = sorted(glob.glob(os.path.join(PASTA_BASE, "doc___*.txt")))
-    for caminho in arquivos:
-        nome_arquivo = os.path.basename(caminho)
-        nome_limpo = nome_arquivo.replace("doc___", "")
-        if nome_limpo == "PROMPT_MANUS.txt":
-            continue
-        if nome_limpo in DOCS_EXCLUIDOS:
-            print(f"  Pulado (muito grande): {nome_limpo}")
-            continue
-        try:
-            with open(caminho, "r", encoding="utf-8") as f:
-                conteudo = f.read()
-            documentos.append(f"=== DOCUMENTO: {nome_limpo} ===\n{conteudo}\n")
-            print(f"  Carregado: {nome_limpo} ({len(conteudo):,} chars)")
-        except Exception as e:
-            print(f"  ERRO ao ler {nome_limpo}: {e}")
-    texto = "\n".join(documentos)
-    print(f"\nTotal: {len(documentos)} docs, {len(texto):,} chars")
-    return texto
-
 
 def carregar_system_prompt():
     caminho = os.path.join(PASTA_BASE, "doc___PROMPT_MANUS.txt")
     try:
         with open(caminho, "r", encoding="utf-8") as f:
-            return f.read()
+            prompt = f.read()
+        print(f"  System prompt carregado ({len(prompt):,} chars)")
+        return prompt
     except FileNotFoundError:
+        print("  AVISO: PROMPT_MANUS.txt nao encontrado")
         return "Voce e o agente comercial interno da Mave. Ajude o vendedor."
 
+# ============================================================
+# CHUNKING - dividir documentos em pedacos
+# ============================================================
 
-print("=" * 50)
-print("Carregando documentos da Mave...")
-print("=" * 50)
+def dividir_em_chunks(texto, nome_doc, tamanho=TAMANHO_CHUNK, sobreposicao=SOBREPOSICAO):
+    chunks = []
+    inicio = 0
+    while inicio < len(texto):
+        fim = inicio + tamanho
+
+        if fim < len(texto):
+            pos_paragrafo = texto.rfind("\n\n", inicio + tamanho // 2, fim + 200)
+            if pos_paragrafo > inicio:
+                fim = pos_paragrafo
+            else:
+                pos_frase = texto.rfind(". ", inicio + tamanho // 2, fim + 100)
+                if pos_frase > inicio:
+                    fim = pos_frase + 1
+
+        pedaco = texto[inicio:fim].strip()
+        if len(pedaco) > 50:
+            chunks.append({
+                "texto": pedaco,
+                "documento": nome_doc,
+                "posicao": len(chunks),
+            })
+
+        inicio = fim - sobreposicao
+        if inicio < 0:
+            inicio = 0
+        if fim >= len(texto):
+            break
+
+    return chunks
+
+# ============================================================
+# INDEXAR DOCUMENTOS NO CHROMADB
+# ============================================================
+
+def criar_indice():
+    print("\n" + "=" * 50)
+    print("Indexando documentos no ChromaDB...")
+    print("=" * 50)
+
+    ef = embedding_functions.DefaultEmbeddingFunction()
+    cliente_chroma = chromadb.Client()
+
+    try:
+        cliente_chroma.delete_collection("mave_docs")
+    except Exception:
+        pass
+
+    colecao = cliente_chroma.create_collection(
+        name="mave_docs",
+        embedding_function=ef,
+        metadata={"hnsw:space": "cosine"},
+    )
+
+    arquivos = sorted(glob.glob(os.path.join(PASTA_BASE, "doc___*.txt")))
+    total_chunks = 0
+
+    for caminho in arquivos:
+        nome_arquivo = os.path.basename(caminho)
+        nome_limpo = nome_arquivo.replace("doc___", "")
+
+        if nome_limpo == "PROMPT_MANUS.txt":
+            continue
+
+        try:
+            with open(caminho, "r", encoding="utf-8") as f:
+                conteudo = f.read()
+
+            chunks = dividir_em_chunks(conteudo, nome_limpo)
+
+            if chunks:
+                ids = [f"{nome_limpo}_{i}" for i in range(len(chunks))]
+                textos = [c["texto"] for c in chunks]
+                metadados = [{"documento": c["documento"], "posicao": c["posicao"]} for c in chunks]
+
+                colecao.add(
+                    ids=ids,
+                    documents=textos,
+                    metadatas=metadados,
+                )
+
+                total_chunks += len(chunks)
+                print(f"  {nome_limpo}: {len(chunks)} chunks")
+
+        except Exception as e:
+            print(f"  ERRO ao indexar {nome_limpo}: {e}")
+
+    print(f"\nTotal: {total_chunks} chunks indexados")
+    print("=" * 50)
+
+    return colecao
+
+
 SYSTEM_PROMPT = carregar_system_prompt()
-DOCUMENTOS = carregar_documentos()
-SYSTEM_COMPLETO = f"""{SYSTEM_PROMPT}
+COLECAO = criar_indice()
 
-<base_de_conhecimento>
-{DOCUMENTOS}
-</base_de_conhecimento>
-"""
-print(f"\nSystem prompt: {len(SYSTEM_COMPLETO):,} chars (~{len(SYSTEM_COMPLETO)//4:,} tokens)")
-print("=" * 50)
+# ============================================================
+# BUSCA RAG
+# ============================================================
+
+def buscar_contexto(pergunta, n_resultados=NUM_RESULTADOS):
+    try:
+        resultados = COLECAO.query(
+            query_texts=[pergunta],
+            n_results=n_resultados,
+        )
+
+        trechos = []
+        docs_usados = set()
+
+        if resultados and resultados["documents"] and resultados["documents"][0]:
+            for i, texto in enumerate(resultados["documents"][0]):
+                meta = resultados["metadatas"][0][i] if resultados["metadatas"] else {}
+                doc_nome = meta.get("documento", "desconhecido")
+                docs_usados.add(doc_nome)
+                trechos.append(f"[Fonte: {doc_nome}]\n{texto}")
+
+        contexto = "\n\n---\n\n".join(trechos)
+        print(f"  RAG: {len(trechos)} trechos de {len(docs_usados)} docs ({len(contexto):,} chars)")
+        return contexto
+
+    except Exception as e:
+        print(f"  Erro no RAG: {e}")
+        return ""
 
 # ============================================================
 # PROCESSAMENTO DE ARQUIVOS DO VENDEDOR
@@ -155,7 +253,7 @@ async def processar_arquivo(arquivo: UploadFile):
 # ============================================================
 
 app = FastAPI(title="Agente Comercial Mave")
-cliente = anthropic.Anthropic()
+cliente_anthropic = anthropic.Anthropic()
 conversas = {}
 
 
@@ -183,6 +281,7 @@ async def chat(
 
         content_parts = []
         nome_arquivo = None
+        texto_arquivo = ""
 
         if arquivo and arquivo.filename:
             nome_arquivo = arquivo.filename
@@ -200,10 +299,29 @@ async def chat(
                 if not mensagem:
                     mensagem = f"O vendedor enviou a imagem '{dados['nome']}'. Analise e ajude conforme o contexto comercial."
             else:
-                content_parts.append({"type": "text", "text": dados})
+                texto_arquivo = dados
                 if not mensagem:
                     mensagem = f"O vendedor enviou o arquivo '{nome_arquivo}'. Analise o conteudo e ajude."
 
+        # BUSCA RAG
+        busca_texto = mensagem
+        if texto_arquivo:
+            busca_texto = mensagem + " " + texto_arquivo[:500]
+        contexto_rag = buscar_contexto(busca_texto)
+
+        # Monta system prompt com contexto relevante
+        system_com_contexto = f"""{SYSTEM_PROMPT}
+
+<contexto_relevante>
+Os trechos abaixo foram selecionados da base de conhecimento da Mave como os mais relevantes para esta pergunta. Use-os para fundamentar sua resposta.
+
+{contexto_rag}
+</contexto_relevante>
+"""
+
+        # Monta mensagem do usuario
+        if texto_arquivo:
+            content_parts.append({"type": "text", "text": texto_arquivo})
         content_parts.append({"type": "text", "text": mensagem})
         historico.append({"role": "user", "content": content_parts})
 
@@ -211,10 +329,10 @@ async def chat(
             historico = historico[-20:]
             conversas[session_id] = historico
 
-        resposta = cliente.messages.create(
+        resposta = cliente_anthropic.messages.create(
             model=MODELO,
             max_tokens=MAX_TOKENS,
-            system=SYSTEM_COMPLETO,
+            system=system_com_contexto,
             messages=historico,
         )
 
@@ -242,4 +360,5 @@ async def nova_conversa(request: Request):
 
 @app.get("/saude")
 async def saude():
-    return {"status": "ok", "documentos_carregados": DOCUMENTOS != ""}
+    n_chunks = COLECAO.count() if COLECAO else 0
+    return {"status": "ok", "chunks_indexados": n_chunks}
