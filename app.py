@@ -17,13 +17,11 @@ from fastapi.responses import HTMLResponse, JSONResponse
 import anthropic
 
 # ============================================================
-# CONFIGURAÇÃO
+# CONFIGURACAO
 # ============================================================
 
 MODELO = "claude-sonnet-4-20250514"
 MAX_TOKENS = 4096
-
-# Documentos ficam na mesma pasta, com prefixo "doc___"
 PASTA_BASE = os.path.dirname(__file__)
 
 TIPOS_IMAGEM = {".png", ".jpg", ".jpeg", ".gif", ".webp"}
@@ -31,23 +29,27 @@ TIPOS_TEXTO = {".txt", ".csv", ".md", ".json", ".log"}
 TIPOS_PDF = {".pdf"}
 TIPOS_DOCX = {".docx"}
 TODOS_TIPOS = TIPOS_IMAGEM | TIPOS_TEXTO | TIPOS_PDF | TIPOS_DOCX
-MAX_TAMANHO = 10 * 1024 * 1024  # 10MB
+MAX_TAMANHO = 10 * 1024 * 1024
+
+# Documentos grandes demais pro contexto (ficam de fora)
+DOCS_EXCLUIDOS = {
+    "Base_Conhecimento_Videos_MAVE.txt",
+    "Catalogo_Imagens_Agente_Vendas_MAVE.txt",
+}
 
 # ============================================================
 # CARREGAR DOCUMENTOS DA MAVE (roda 1x ao ligar)
 # ============================================================
 
 def carregar_documentos():
-    """Lê todos os arquivos doc___*.txt da pasta raiz."""
     documentos = []
     arquivos = sorted(glob.glob(os.path.join(PASTA_BASE, "doc___*.txt")))
     for caminho in arquivos:
         nome_arquivo = os.path.basename(caminho)
-        # Remove o prefixo "doc___" pra mostrar o nome limpo
         nome_limpo = nome_arquivo.replace("doc___", "")
-if nome_limpo == "PROMPT_MANUS.txt":
+        if nome_limpo == "PROMPT_MANUS.txt":
             continue
-        if nome_limpo in ("Base_Conhecimento_Videos_MAVE.txt", "Catalogo_Imagens_Agente_Vendas_MAVE.txt"):
+        if nome_limpo in DOCS_EXCLUIDOS:
             print(f"  Pulado (muito grande): {nome_limpo}")
             continue
         try:
@@ -63,13 +65,12 @@ if nome_limpo == "PROMPT_MANUS.txt":
 
 
 def carregar_system_prompt():
-    """Lê o doc___PROMPT_MANUS.txt."""
     caminho = os.path.join(PASTA_BASE, "doc___PROMPT_MANUS.txt")
     try:
         with open(caminho, "r", encoding="utf-8") as f:
             return f.read()
     except FileNotFoundError:
-        return "Você é o agente comercial interno da Mave. Ajude o vendedor."
+        return "Voce e o agente comercial interno da Mave. Ajude o vendedor."
 
 
 print("=" * 50)
@@ -95,7 +96,7 @@ def extrair_texto_pdf(conteudo_bytes):
         from pypdf import PdfReader
         reader = PdfReader(io.BytesIO(conteudo_bytes))
         textos = [p.extract_text() for p in reader.pages if p.extract_text()]
-        return "\n\n".join(textos) if textos else "[PDF sem texto extraível]"
+        return "\n\n".join(textos) if textos else "[PDF sem texto extraivel]"
     except Exception as e:
         return f"[Erro ao ler PDF: {e}]"
 
@@ -120,11 +121,11 @@ async def processar_arquivo(arquivo: UploadFile):
     ext = os.path.splitext(nome)[1].lower()
 
     if ext not in TODOS_TIPOS:
-        return ("texto", f"[Tipo não suportado: {ext}. Envie PDF, imagem, .txt, .csv ou .docx]")
+        return ("texto", f"[Tipo nao suportado: {ext}. Envie PDF, imagem, .txt, .csv ou .docx]")
 
     conteudo = await arquivo.read()
     if len(conteudo) > MAX_TAMANHO:
-        return ("texto", f"[Arquivo muito grande: {len(conteudo)/(1024*1024):.1f}MB. Máximo: 10MB]")
+        return ("texto", f"[Arquivo muito grande: {len(conteudo)/(1024*1024):.1f}MB. Maximo: 10MB]")
 
     if ext in TIPOS_IMAGEM:
         media_types = {".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".gif": "image/gif", ".webp": "image/webp"}
@@ -147,7 +148,7 @@ async def processar_arquivo(arquivo: UploadFile):
     if ext in TIPOS_DOCX:
         return ("texto", f"[DOCX '{nome}']\n{extrair_texto_docx(conteudo)}")
 
-    return ("texto", f"[Não processado: {nome}]")
+    return ("texto", f"[Nao processado: {nome}]")
 
 # ============================================================
 # SERVIDOR
@@ -160,7 +161,6 @@ conversas = {}
 
 @app.get("/", response_class=HTMLResponse)
 async def pagina_principal():
-    """Serve a página do chat."""
     caminho = os.path.join(PASTA_BASE, "index.html")
     with open(caminho, "r", encoding="utf-8") as f:
         return HTMLResponse(content=f.read())
@@ -184,7 +184,6 @@ async def chat(
         content_parts = []
         nome_arquivo = None
 
-        # Processa arquivo se enviado
         if arquivo and arquivo.filename:
             nome_arquivo = arquivo.filename
             tipo, dados = await processar_arquivo(arquivo)
@@ -203,7 +202,7 @@ async def chat(
             else:
                 content_parts.append({"type": "text", "text": dados})
                 if not mensagem:
-                    mensagem = f"O vendedor enviou o arquivo '{nome_arquivo}'. Analise o conteúdo e ajude."
+                    mensagem = f"O vendedor enviou o arquivo '{nome_arquivo}'. Analise o conteudo e ajude."
 
         content_parts.append({"type": "text", "text": mensagem})
         historico.append({"role": "user", "content": content_parts})
