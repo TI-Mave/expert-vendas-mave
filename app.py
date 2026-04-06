@@ -45,7 +45,10 @@ def carregar_documentos():
         nome_arquivo = os.path.basename(caminho)
         # Remove o prefixo "doc___" pra mostrar o nome limpo
         nome_limpo = nome_arquivo.replace("doc___", "")
-        if nome_limpo == "PROMPT_MANUS.txt":
+if nome_limpo == "PROMPT_MANUS.txt":
+            continue
+        if nome_limpo in ("Base_Conhecimento_Videos_MAVE.txt", "Catalogo_Imagens_Agente_Vendas_MAVE.txt"):
+            print(f"  Pulado (muito grande): {nome_limpo}")
             continue
         try:
             with open(caminho, "r", encoding="utf-8") as f:
